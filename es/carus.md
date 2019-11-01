@@ -70,12 +70,10 @@ El elemento `<amp-story-grid-layer>` organiza los elementos secundarios en una c
 <tr>
     <td width="65%">La plantilla <strong>fill</strong> rellena la pantalla con el primer elemento secundario de la capa. El resto de elementos secundarios de esta capa no se muestran.
     <p>La plantilla "fill" se utiliza para fondos de pantalla que incluyen imágenes y vídeos.</p>
-   <code class="nopad"><amp-story-grid-layer template="fill">
-  <amp-img src="dog.png"
-      width="720" height="1280"
-      layout="responsive">
-  </amp-img>
-</amp-story-grid-layer></code>
+   <code class="nopad">
+  
+  
+</code>
     </td>
     <td>
     {{ image('/static/img/docs/tutorials/amp_story/layer-fill.png', 216, 341) }}
@@ -87,11 +85,11 @@ El elemento `<amp-story-grid-layer>` organiza los elementos secundarios en una c
 <tr>
     <td width="65%">La plantilla <strong>vertical</strong> organiza los elementos secundarios a lo largo del eje "y". Los elementos se alinean con respecto a la parte superior de la pantalla y se distribuyen por todo el espacio a lo largo del eje "x".
     <p>Utiliza la plantilla "vertical" cuando quieras apilar elementos verticalmente uno debajo de otro.</p>
-   <code class="nopad"><amp-story-grid-layer template="vertical">
-  <p>element 1</p>
-  <p>element 2</p>
-  <p>element 3</p>
-</amp-story-grid-layer></code>
+   <code class="nopad">
+  element 1
+  element 2
+  element 3
+</code>
     </td>
     <td>{{ image('/static/img/docs/tutorials/amp_story/layer-vertical.png', 216, 341) }}
     </td>
@@ -102,11 +100,11 @@ El elemento `<amp-story-grid-layer>` organiza los elementos secundarios en una c
 <tr>
     <td width="65%">La plantilla <strong>horizontal</strong> organiza los elementos secundarios a lo largo del eje "x".  Los elementos se alinean con respecto al inicio de la pantalla y se distribuyen por todo el espacio a lo largo del eje "x".
     <p>Utiliza la plantilla "horizontal" cuando quieras apilar elementos horizontalmente uno después del otro.</p>
-    <code class="nopad"><amp-story-grid-layer template="horizontal">
-  <p>element 1</p>
-  <p>element 2</p>
-  <p>element 3</p>
-</amp-story-grid-layer></code>
+    <code class="nopad">
+  element 1
+  element 2
+  element 3
+</code>
     </td>
     <td>
     {{ image('/static/img/docs/tutorials/amp_story/layer-horizontal.png', 216, 341) }}
@@ -119,10 +117,10 @@ El elemento `<amp-story-grid-layer>` organiza los elementos secundarios en una c
 <td width="65%">
 La plantilla <strong>thirds</strong> divide la pantalla en tres filas de igual tamaño que puedes rellenar con contenido.
 <p>También puedes utilizar un elemento <code>grid-area</code> para indicar en qué tercio quieres incluir el contenido: <code>upper-third</code>, <code>middle-third</code> o <code>lower-third</code>. Las áreas de la cuadrícula son útiles para modificar el lugar predeterminado en el que deben aparecer los elementos.  Por ejemplo, si hay dos elementos en la capa, puedes indicar que el primer elemento se incluya en <code>grid-area="upper-third"</code> y el segundo en <code>grid-area="lower-third"</code>.</p>
-<code class="nopad"><amp-story-grid-layer template="thirds">
-  <h1 grid-area="upper-third">element 1</h1>
-  <p grid-area="lower-third">element 2</p>
-</amp-story-grid-layer>
+<code class="nopad">
+  element 1
+  element 2
+
 </code>
 </td>
 <td>{{ image('/static/img/docs/tutorials/amp_story/layer-thirds.png', 216, 341) }}</td>
