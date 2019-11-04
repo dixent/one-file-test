@@ -13,9 +13,7 @@ author: bpaduch
     <td width="65%">La plantilla <strong>fill</strong> rellena la pantalla con el primer elemento secundario de la capa. El resto de elementos secundarios de esta capa no se muestran.
     <p>La plantilla "fill" se utiliza para fondos de pantalla que incluyen imágenes y vídeos.</p>
    <code class="nopad"><pre><amp-story-grid-layer template="fill">
-  <amp-img src="dog.png"
-      width="720" height="1280"
-      layout="responsive">
+  <amp-img src="dog.png" width="720" height="1280" layout="responsive">
   </amp-img>
 </amp-story-grid-layer></pre></code>
     </td>
