@@ -1,7 +1,7 @@
 ---
 $title: Crear la portada
 $order: 4
-description: To create a page, add the 
+description: Para crear una página, agregue el 
 author: bpaduch
 ---
 
