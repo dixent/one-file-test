@@ -12,16 +12,16 @@ Otra característica común en las páginas móviles es un carrusel. Puede agreg
 Recuerde incluir la biblioteca de componentes [`amp-carousel`](../../../../documentation/components/reference/amp-carousel.md) **agregando** la siguiente solicitud de JavaScript a la etiqueta `<head>` de su documento:
 
 ```html
-<script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+<script async custom-element = "amp-carousel" src = "https://cdn.ampproject.org/v0/amp-carousel-0.1.js"> </script>
 ```
 
 A continuación, incrustemos un carrusel simple de imágenes con un diseño receptivo y un ancho y alto predefinidos. **Agregue** lo siguiente a su página:
 
 ```html
-<amp-carousel layout="fixed-height" height="168" type="carousel" >
-  <amp-img src="mountains-1.jpg" width="300" height="168"></amp-img>
-  <amp-img src="mountains-2.jpg" width="300" height="168"></amp-img>
-  <amp-img src="mountains-3.jpg" width="300" height="168"></amp-img>
+<amp-carousel layout = "fixed-height" height = "168" type = "carrusel">
+<amp-img src = "montañas-1.jpg" width = "300" height = "168"> </amp-img>
+<amp-img src = "montañas-2.jpg" width = "300" height = "168"> </amp-img>
+<amp-img src = "montañas-3.jpg" width = "300" height = "168"> </amp-img>
 </amp-carousel>
 ```
 
@@ -42,10 +42,10 @@ Por último, hagamos que este carrusel se reproduzca automáticamente a una velo
 Su resultado final debería verse más o menos así:
 
 ```html
-<amp-carousel layout="responsive" width="300" height="168" type="slides" autoplay delay="2000" loop>
-  <amp-img src="mountains-1.jpg" width="300" height="168" layout="responsive"></amp-img>
-  <amp-img src="mountains-2.jpg" width="300" height="168" layout="responsive"></amp-img>
-  <amp-img src="mountains-3.jpg" width="300" height="168" layout="responsive"></amp-img>
+<amp-carousel layout = "responsive" width = "300" height = "168" type = "slides" autoplay delay = "2000" loop>
+<amp-img src = "montañas-1.jpg" width = "300" height = "168" layout = "responsive"> </amp-img>
+<amp-img src = "montañas-2.jpg" width = "300" height = "168" layout = "responsive"> </amp-img>
+<amp-img src = "montañas-3.jpg" width = "300" height = "168" layout = "responsive"> </amp-img>
 </amp-carousel>
 ```
 
@@ -63,7 +63,7 @@ Primero, **agreguemos** este estilo a su `<style amp-custom>` para garantizar qu
 
 ```css
 amp-fit-text {
-    white-space: normal;
+espacio en blanco: normal;
 }
 ```
 
