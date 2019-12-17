@@ -2,3 +2,4 @@ synchronize:
   paths:
   - source: .
     exclude:
+      - "README2.md"
