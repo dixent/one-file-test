@@ -1,5 +1,5 @@
-synchronize:
+pretranslate:
   paths:
   - source: .
-    exclude:
-      - "README2.md"
+    include:
+    - "index.md"
