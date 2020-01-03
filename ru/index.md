@@ -70,21 +70,13 @@ Lighthouse упрощает идентификацию элементов с п�
 **Перед**
 
 ```html/2-3
-<div role="toolbar">
-  <button tabindex="-1">Undo</div>
-  <button tabindex="0">Redo</div>
-  <button tabindex="-1">Cut</div>
-</div>
+<div role="toolbar">   <button tabindex="-1">Undo</div>   <button tabindex="0">Redo</div>   <button tabindex="-1">Cut</div> </div>
 ```
 
 **После**
 
 ```html/2-3
-<div role="toolbar">
-  <button tabindex="-1">Undo</div>
-  <button tabindex="-1">Redo</div>
-  <button tabindex="0">Cut</div>
-</div>
+<div role="toolbar">   <button tabindex="-1">Undo</div>   <button tabindex="-1">Redo</div>   <button tabindex="0">Cut</div> </div>
 ```
 
 <div class="glitch-embed-wrap" style="height: 346px; width: 100%;">
