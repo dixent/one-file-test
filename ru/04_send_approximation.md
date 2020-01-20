@@ -5,10 +5,7 @@ Some `async fn` state machines are safe to be sent across threads, while others 
 Например, рассмотрим простой не `Send` тип, возможно, тип, который содержит `Rc` :
 
 ```rust
-use std::rc::Rc;
-
-#[derive(Default)]
-struct NotSend(Rc<()>);
+use std::rc::Rc;  #[derive(Default)] struct NotSend(Rc<()>);
 ```
 
 Переменные типа `NotSend` могут кратковременно появляться как временные в `async fn` даже если результирующий тип `Future` возвращаемый `async fn` должен быть `Send` :
