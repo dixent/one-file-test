@@ -1,5 +1,0 @@
-pretranslate:
-  paths:
-  - source: .
-    include:
-    - "index.md"
