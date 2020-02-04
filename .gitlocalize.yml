@@ -1,10 +1,7 @@
 pretranslate:
   segments:
     ignore_patterns:
-    - "{# wf_(?!featured_snippet).*#}"
-    - "^(Note|Caution|Warning|Success|Key Point|Key Term|Objective|Dogfood): "
-    - "{:.*}"
-    - "{%.*%}"
+    - !ruby/regexp /{%\s?([a-zA-Z0-9\.\-\?\'\"\s]*)\s?%}/
     ignore_frontmatter_keys:
     - "layout"
     - "permalink"
