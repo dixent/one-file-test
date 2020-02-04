@@ -5,6 +5,9 @@ pretranslate:
     - "^(Note|Caution|Warning|Success|Key Point|Key Term|Objective|Dogfood): "
     - "{:.*}"
     - "{%.*%}"
+    ignore_frontmatter_keys:
+    - "layout"
+    - "permalink"
   paths:
   - source: .
     include:
