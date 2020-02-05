@@ -1,11 +1,23 @@
+synchronize:
+  paths:
+  - source: .
+    exclude:
+    - "locales/*"
+    - "_redirects.yaml"
 pretranslate:
   segments:
-    ignore_patterns:
-    - !ruby/regexp /{%\s?([a-zA-Z0-9\.\-\?\'\"\s]*)\s?%}/
     ignore_frontmatter_keys:
     - "layout"
     - "permalink"
+    - "noindex"
+    - "date"
+    - "override"
+    - "codelabs"
+    - "tags"
+    - "authors"
+    ignore_patterns:
+    - !ruby/regexp /{%\s?([a-zA-Z0-9\.\-\?\'\"\s]*)\s?%}/
   paths:
   - source: .
     include:
-    - "index.md"
+    - "pretrans5/*.*"
