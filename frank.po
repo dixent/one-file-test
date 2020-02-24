@@ -42,8 +42,8 @@ msgstr ""
 
 #: kstarsinit.cpp:699
 msgid ""
-"The initial position is below the horizon.\n"
+"The initial position is below the horizon."
 "Would you like to reset to the default position?"
 msgstr ""
-"Početni položaj je ispod horizonta.\n"
+"Početni položaj je ispod horizonta."
 "Želite li da vratite na podrazumevani?"
