@@ -1,47 +1,54 @@
+msgstr "<phrase>Configure &kstars; Window</phrase>"
 #: config.docbook:137
 #: config.docbozok:237
 #: config.docedbook:1447
 msgid "<phrase>Configure &kstars; Window</phrase>"
-msgstr "<фраза> Настроить & kstars; Окно </ фраза>"
 
+msgstr "Linija sazvežđa"
 #: kstarsinit.cpp:451
 #, fuzzy
 #. msgctxt Constellation Line
 #. msgid Constell. Line
 msgctxt "Toggle Constellation Lines in the display"
 msgid "Const. Lines"
-msgstr "Линия савежня"
 
+msgstr "Elementi s tačkom ključanja u blizini ove temperature:"
 #: src/somwidget_impl.cpp:120
 #, fuzzy
 msgid "Elements with melting point around this temperature:"
-msgstr "Температура воздуха в помещении:"
 
+msgstr "Decryption of this file failed:"
+msgstr "Decryption of this file failed:"
 #: kgpg.cpp:498
 msgid "Decryption of this file failed:"
 msgid_plural Decryption of these files failed:
-msgstr[0]  "Расшифровка этого файла не удалась:"
-msgstr[1]  "Расшифровка этого файла не удалась:"
+msgstr[0]  "Decryption of this file failed:"
+msgstr[1]  "Decryption of this file failed:"
 
+msgstr "Czas: %1 sekunda"
+msgstr "Czas: %1 sekundy"
+msgstr "Czas: %1 sekund"
 #: mainwindow.cpp:127
 #, kde-format
 msgid "Time: %1 second"
 msgid_plural Time: %1 seconds
-msgstr[0]  "Czas:% 1 секунда"
-msgstr[1]  "Czas:% 1 секунды"
-msgstr[2]  "Czas:% 1 секунд"
+msgstr[0]  "Czas: %1 sekunda"
+msgstr[1]  "Czas: %1 sekundy"
+msgstr[2]  "Czas: %1 sekund"
 
+msgstr "Center && Track"
 #: kspopupmenu.cpp:203
 msgid "Center && Track"
-msgstr "Центр && Track"
 
+msgstr "<phrase>Configure &kstars; Window</phrase>"
 #. Tag: phrase
 #: config.docbook:137
 msgid "<phrase>Configure &kstars; Window</phrase>"
-msgstr "<фраза> Настроить & kstars; Окно </ фраза>"
 
 #: kstarsinit.cpp:699
 msgid ""
 "The initial position is below the horizon."
 "Would you like to reset to the default position?"
-msgstr "Почетный положительный и горизонтальный. Целите ли да врате на подразумевани?"
+msgstr ""
+"Почетный положительный и горизонтальный."
+"Целите ли да врате на подразумевани?"
