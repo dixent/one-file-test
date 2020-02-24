@@ -42,3 +42,4 @@ msgstr " Настроить &amp; kstars; Окно  фраза&gt;"
 
 #: kstarsinit.cpp:699
 msgid "The initial position is below the horizon.\nWould you like to reset to the default position?"
+msgstr "Почитайте положительный отзыв о горизонте. \ NŽelite li da vratite na prazzumevani?"
