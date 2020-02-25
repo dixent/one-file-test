@@ -38,7 +38,7 @@ msgstr "Центр && Track"
 #. Tag: phrase
 #: config.docbook:137
 msgid "<phrase>Configure &kstars; Window</phrase>"
-msgstr "<phrase>Configure &kstars; Window</phrase>"
+msgstr "<фраза> Настроить &kstars; Окно </ фраза>"
 
 #: kstarsinit.cpp:699
 msgid ""
