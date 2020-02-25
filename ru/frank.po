@@ -2,7 +2,7 @@
 #: config.docbozok:237
 #: config.docedbook:1447
 msgid "<phrase>Configure &kstars; Window</phrase>"
-msgstr "<фраза> Настроить &kstars; Окно </ фраза>"
+msgstr "<фраза> Настроить & kstars; Окно </ фраза>"
 
 #: kstarsinit.cpp:451
 #, fuzzy
@@ -38,7 +38,7 @@ msgstr "Центр && Track"
 #. Tag: phrase
 #: config.docbook:137
 msgid "<phrase>Configure &kstars; Window</phrase>"
-msgstr "<фраза> Настроить & kstars; Окно </ фраза>"
+msgstr "<phrase>Configure &kstars; Window</phrase>"
 
 #: kstarsinit.cpp:699
 msgid ""
