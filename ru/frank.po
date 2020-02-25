@@ -1,0 +1,38 @@
+#: config.docbook:137
+#: config.docbozok:237
+#: config.docedbook:1447
+msgid "<phrase>Configure &kstars; Window</phrase>"
+msgstr "<фраза> Настроить &kstars; Окно </ фраза>"
+
+#: kstarsinit.cpp:451
+#, fuzzy
+#. msgctxt Constellation Line
+#. msgid Constell. Line
+msgctxt "Toggle Constellation Lines in the display"
+msgid "Const. Lines"
+
+#: src/somwidget_impl.cpp:120
+#, fuzzy
+msgid "Elements with melting point around this temperature:"
+
+#: kgpg.cpp:498
+msgid "Decryption of this file failed:"
+msgid_plural Decryption of these files failed:
+
+#: mainwindow.cpp:127
+#, kde-format
+msgid "Time: %1 second"
+msgid_plural Time: %1 seconds
+
+#: kspopupmenu.cpp:203
+msgid "Center && Track"
+
+#. Tag: phrase
+#: config.docbook:137
+msgid "<phrase>Configure &kstars; Window</phrase>"
+msgstr "<фраза> Настроить &kstars; Окно </ фраза>"
+
+#: kstarsinit.cpp:699
+msgid ""
+"The initial position is below the horizon."
+"Would you like to reset to the default position?"
