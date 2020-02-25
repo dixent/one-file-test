@@ -1,0 +1,49 @@
+#: config.docbook:137
+#: config.docbozok:237
+#: config.docedbook:1447
+msgid "<phrase>Configure &kstars; Window</phrase>"
+msgstr "<фраза> Настроить &kstars; Окно </ фраза>"
+
+#: kstarsinit.cpp:451
+#, fuzzy
+#. msgctxt Constellation Line
+#. msgid Constell. Line
+msgctxt "Toggle Constellation Lines in the display"
+msgid "Const. Lines"
+msgstr "Linija sazvežđa"
+
+#: src/somwidget_impl.cpp:120
+#, fuzzy
+msgid "Elements with melting point around this temperature:"
+msgstr "Elementi s tačkom ključanja u blizini ove temperature:"
+
+#: kgpg.cpp:498
+msgid "Decryption of this file failed:"
+msgid_plural Decryption of these files failed:
+msgstr[0]  "Decryption of this file failed:"
+msgstr[1]  "Decryption of this file failed:"
+
+#: mainwindow.cpp:127
+#, kde-format
+msgid "Time: %1 second"
+msgid_plural Time: %1 seconds
+msgstr[0]  "Czas: %1 sekunda"
+msgstr[1]  "Czas: %1 sekundy"
+msgstr[2]  "Czas: %1 sekund"
+
+#: kspopupmenu.cpp:203
+msgid "Center && Track"
+msgstr "Center && Track"
+
+#. Tag: phrase
+#: config.docbook:137
+msgid "<phrase>Configure &kstars; Window</phrase>"
+msgstr "<фраза> Настроить &kstars; Окно </ фраза>"
+
+#: kstarsinit.cpp:699
+msgid ""
+"The initial position is below the horizon."
+"Would you like to reset to the default position?"
+msgstr ""
+"Početni položaj je ispod horizonta."
+"Želite li da vratite na podrazumevani?"
