@@ -1,0 +1,29 @@
+{
+  "name": "вя-SSR-документы",
+  "version": "1.0.0",
+  "private": "правда",
+  "description": "документы для vue-server-renderer",
+  "scripts": {
+    "dev": "Vuepress Dev Docs",
+    "build": "Vuepress построить документы"
+  },
+  "repository": {
+    "type": "мерзавец",
+    "url": "мерзавец + https: //github.com/vuejs/vue-ssr-docs.git"
+  },
+  "keywords": [
+    "вю",
+    "SSR",
+    "документы"
+  ],
+  "author": "Эван Ю",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vue-ssr-docs/issues"
+  },
+  "homepage": "https://github.com/vuejs/vue-ssr-docs#readme",
+  "devDependencies": {
+    "vuepress": "^ 0.14.8",
+    "vuepress-theme-vue": "^ 1.1.0"
+  }
+}
