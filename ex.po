@@ -16,7 +16,7 @@ msgstr ""
 
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
 msgid "User"
-context "Main"
+msgctxt "Main"
 msgstr ""
 
 #: actionlog/templates/object_action_list.html:8
