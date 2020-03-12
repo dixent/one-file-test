@@ -15,16 +15,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
-msgid "User"
-context "Main"
-msgstr "Главный"
+msgid"Пользователь"
+context"Пользователь"
+msgstr"Пользователь" 
 
 #: actionlog/templates/object_action_list.html:8
 msgid "Action"
-msgstr ""
-"Очень большие дествия"
-"Которые повлияли на публику"
-"С не лучшей стороны"
+msgstr "Действие"
 
 #: foo/templates/bar.html:180
 msgid "{0} result"
