@@ -107,7 +107,7 @@ El recuento de referencia de las instancias `Rc<List>` en `a` y `b` es 2 despué
 
 Sin embargo, debido `a` que a todavía hace referencia a la `Rc<List>` que estaba en `b` , esa `Rc<List>` tiene un recuento de 1 en lugar de 0, por lo que la memoria que `Rc<List>` tiene en el montón no se eliminará. La memoria simplemente se quedará allí con una cuenta de 1, para siempre. Para visualizar este ciclo de referencia, hemos creado un diagrama en la Figura 15-4.
 
-<img alt="Reference cycle of lists" class="center" src="../img/trpl15-04.svg">
+<img alt="Reference cycle of lists" class="center" src="https://github.com/dixent/one-file-test/blob/master/img/trpl15-04.svg?raw=true">
 
 <span class="caption">Figura 15-4: ciclo de referencia A de las listas de <code>a</code> y <code>b</code> apuntando uno al otro</span>
 
