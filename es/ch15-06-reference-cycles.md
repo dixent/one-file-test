@@ -336,6 +336,9 @@ Este capítulo cubrió cómo usar punteros inteligentes para hacer diferentes ga
 
 También se discutieron los rasgos `Deref` y `Drop` , que permiten mucha de la funcionalidad de los punteros inteligentes. Exploramos los ciclos de referencia que pueden causar pérdidas de memoria y cómo prevenirlos usando `Weak<T>` .
 
-Si este capítulo ha despertado su interés y desea implementar sus propios punteros inteligentes, consulte ["The Rustonomicon"](https://doc.rust-lang.org/stable/nomicon/) para obtener más información útil.
+Si este capítulo ha despertado su interés y desea implementar sus propios punteros inteligentes, consulte ["The Rustonomicon"] para obtener más información útil.
 
 A continuación, hablaremos sobre la concurrencia en Rust. Incluso aprenderá sobre algunos nuevos punteros inteligentes.
+
+
+["The Rustonomicon"]: https://doc.rust-lang.org/stable/nomicon/
