@@ -33,7 +33,7 @@ impl List {
 }
 ```
 
-<span class="caption">Listado 15-25: Una definición de lista de contras que contiene un <code>RefCell<T></code> para que podamos modificar a qué se refiere una variante <code>Cons</code></span>
+<span class="caption">Listado 15-25: Una definición de lista de contras que contiene un <code>RefCell<t></t></code> para que podamos modificar a qué se refiere una variante <code>Cons</code></span>
 
 Estamos utilizando otra variante de la `List` definición del listado 15-5. El segundo elemento en la variante `Cons` ahora es `RefCell<Rc<List>>` , lo que significa que en lugar de tener la capacidad de modificar el valor `i32` como lo hicimos en el Listado 15-24, queremos modificar qué valor de `List` apunta una variante `Cons` a. También estamos agregando un método de `tail` para que sea conveniente para nosotros acceder al segundo elemento si tenemos una variante `Cons` .
 
@@ -107,7 +107,7 @@ El recuento de referencia de las instancias `Rc<List>` en `a` y `b` es 2 despué
 
 Sin embargo, debido `a` que a todavía hace referencia a la `Rc<List>` que estaba en `b` , esa `Rc<List>` tiene un recuento de 1 en lugar de 0, por lo que la memoria que `Rc<List>` tiene en el montón no se eliminará. La memoria simplemente se quedará allí con una cuenta de 1, para siempre. Para visualizar este ciclo de referencia, hemos creado un diagrama en la Figura 15-4.
 
-<img alt="Reference cycle of lists" class="center" src="../img/trpl15-04.svg">
+<img alt="Reference cycle of lists" class="center" src="https://github.com/dixent/one-file-test/blob/master/img/trpl15-04.svg?raw=true">
 
 <span class="caption">Figura 15-4: ciclo de referencia A de las listas de <code>a</code> y <code>b</code> apuntando uno al otro</span>
 
@@ -336,9 +336,6 @@ Este capítulo cubrió cómo usar punteros inteligentes para hacer diferentes ga
 
 También se discutieron los rasgos `Deref` y `Drop` , que permiten mucha de la funcionalidad de los punteros inteligentes. Exploramos los ciclos de referencia que pueden causar pérdidas de memoria y cómo prevenirlos usando `Weak<T>` .
 
-Si este capítulo ha despertado su interés y desea implementar sus propios punteros inteligentes, consulte ["The Rustonomicon"] para obtener más información útil.
+Si este capítulo ha despertado su interés y desea implementar sus propios punteros inteligentes, consulte ["The Rustonomicon"](https://doc.rust-lang.org/stable/nomicon/) para obtener más información útil.
 
 A continuación, hablaremos sobre la concurrencia en Rust. Incluso aprenderá sobre algunos nuevos punteros inteligentes.
-
-
-["The Rustonomicon"]: https://doc.rust-lang.org/stable/nomicon/
