@@ -29,5 +29,11 @@ msgstr ""
 #: foo/templates/bar.html:180
 msgid "{0} result"
 msgid_plural "{0} results"
-msgstr[0] ""
+msgstr[0] "{0} результаты"
 msgstr[1] ""
+
+#: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
+msgid ""
+"Main person"
+"In company"
+msgstr ""
