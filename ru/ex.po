@@ -17,11 +17,11 @@ msgstr ""
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
 msgid "User"
 msgctxt "Main"
-msgstr "Главный"
+msgstr "Главныйй"
 
 #: actionlog/templates/object_action_list.html:8
 msgid "Action"
-msgstr "Очень большие дествия прям ваще"
+msgstr """Очень большие дествия прям ваще"
 "Которые повлияли на публику"
 "С не лучшей стороны"
 
@@ -35,5 +35,5 @@ msgstr[1] "{0} результаты"
 msgid ""
 "Main person"
 "In company"
-msgstr "Главный человек"
+msgstr """Главный человек"
 "В компании"
