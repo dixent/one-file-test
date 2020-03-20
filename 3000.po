@@ -1,5 +1,6 @@
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
-msgid "A screenshot of a website using AMP."
+msgid "A screenshot of a website using AMP. A screenshot of a website using AMP.A screenshot of a website using AMP.
+A screenshot of a website using AMP"
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
@@ -642,6 +643,10 @@ msgstr ""
 
 #: /views/partials/search.j2:55
 msgid "What are you looking for?"
+msgstr ""
+
+#: /content/amp-dev/about/stories.html
+msgid "Who runs the world? ... Beyoncé over the years."
 msgstr ""
 
 #: /content/amp-dev/about/stories.html
@@ -1755,7 +1760,7 @@ msgstr ""
 msgid "Grow engagement and increase conversions with faster experiences"
 msgstr ""
 
-msgid "The average mobile site takes 19 seconds to load over a 3G connection. Coupled with the fact that conversions fall by 12% for every additional second a webpage takes to load, you can safely assume two things: speed equals performance, and most advertiser campaigns have room to improve. That’s where you come in. As an SSP, DSP, analytics provider, or anything in between, embracing speed means improving campaign performance, delivering quality user experiences, and establishing yourself as the adtech platform for the fast web. Join the hundreds of technology platforms currently supporting the open source AMP ecosystem."
+msgid "The average mobile site takes 19 seconds to load over a 3G connection. Coupled with the fact that conversions fall by 12% for every additional second a webpage takes to load, you can safely assume two things: speed equals performance, and most advertiser campaigns have room to improve. That’s where you come in. As an SSP, DSP, analytics provider, or anything in between, embracing speed means improving campaign performance, delivering quality user experiences, and establishing yourself as the adtech platform for the fast web. Join the hundreds of technology platforms currently supporting the open source AMP ecosystem. "
 msgstr ""
 
 msgid "AMP offers a way for you to give users a faster experience everywhere: on ads, landing pages or on your entire website. AMP ads help users engage with your brand and improve the performance of your campaigns. When your target audience lands on an AMP page, they get what they’re looking for in the moment they’re looking for it. The net result – they’re more likely to be engaged with and receptive to your brand’s messages, and more likely to take the actions you’re guiding them towards like completing a purchase."
@@ -2068,9 +2073,6 @@ msgid "Experience Demo"
 msgstr ""
 
 msgid "Band page"
-msgstr ""
-
-msgid "Olga and the kings"
 msgstr ""
 
 msgid "Always thought that all AMP pages look the same? Checkout this incredible band website featuring various AMP components to create a vivid and enjoyable experience."
@@ -2964,16 +2966,10 @@ msgstr ""
 msgid "Viewers"
 msgstr ""
 
-msgid "Presentation"
-msgstr ""
-
 msgid "Students"
 msgstr ""
 
 msgid "Teachers"
-msgstr ""
-
-msgid "Find the right tools to build"
 msgstr ""
 
 msgid "<p>Responsible for user specific controlled access to AMP content (amp-subscriptions, amp-access and related extensions)</p>"
