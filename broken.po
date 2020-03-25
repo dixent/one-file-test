@@ -1,0 +1,11 @@
+#: finddialog.cpp: 38
+msgstr  "Шаровые скопления"
+msgstr  ""
+⁠
+#: Finddialog.cpp: 39
+MSGID  "газообразная Туманность"
+вывод ,  ""
+⁠
+#: finddialog.cpp: 40
+msgstr  "Планетарные туманности"
+msgstr  ""
