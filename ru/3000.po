@@ -1,0 +1,3110 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgid "A screenshot of a website using AMP. A screenshot of a website using AMP.A screenshot of a website using AMP.
+A screenshot of a website using AMP"
+msgctxt "Big test text! Big test text! Big test text! Big test text!  Big test text! Big test text!"
+msgstr "Скриншот сайта с использованием AMP. Снимок экрана веб-сайта, использующего AMP. Снимок экрана веб-сайта, использующего AMP.
+Скриншот сайта с использованием AMP"
+
+#: /views/partials/format-visuals/websites.j2:10
+msgid "A screenshot showing amp-sidebar."
+msgstr "Скриншот, показывающий боковую панель усилителя."
+
+#: /views/partials/format-visuals/websites.j2:7
+msgid "A website screenshot."
+msgstr "Скриншот сайта."
+
+#: /views/partials/footer.j2:74
+msgid "AMP Brand Materials"
+msgstr "AMP Бренд Материалы"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgid "AMP Caches & CORS"
+msgstr "AMP Caches & CORS"
+
+#: /views/partials/footer.j2:71
+msgid "AMP Conf 2020"
+msgstr "AMP Conf 2020"
+
+#: /views/partials/footer.j2:72
+msgid "AMP Contributor Summit 2019"
+msgstr "AMP Contributor Summit 2019"
+
+#: /views/partials/banner.j2:5
+msgid "AMP Contributor Summit 2019 Applications Now Open"
+msgstr "Открыты приложения AMP Contributor Summit 2019"
+
+#: /views/partials/footer.j2:43
+msgid "AMP Framework"
+msgstr "AMP Framework"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
+msgid "AMP HTML Specification"
+msgstr "Спецификация AMP HTML"
+
+#: /content/amp-dev/support/faq/overview.md
+msgid "AMP Overview"
+msgstr "Обзор AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
+msgid "AMP for Email Specification"
+msgstr "AMP для спецификации электронной почты"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-html-layout/_blueprint.yaml
+msgid "AMP's Layout System"
+msgstr "Система макетов AMP"
+
+#: /content/amp-dev/about/_blueprint.yaml
+msgid "About"
+msgstr "Около"
+
+#: /views/partials/consent.j2:36
+msgid "Accept use of cookies"
+msgstr "Принять использование куки"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/add_advanced/_blueprint.yaml
+msgid "Add advanced AMP features"
+msgstr "Добавить расширенные функции AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/interactivity_data/_blueprint.yaml
+msgid "Add interactivity & dynamic data (TBD)"
+msgstr "Добавить интерактивность и динамические данные (TBD)"
+
+#: /content/amp-dev/documentation/courses/advanced-course/_blueprint.yaml
+msgid "Advanced Course"
+msgstr "Продвинутый курс"
+
+#: /views/partials/search.j2:130
+msgid "Although there are {hits} hits in total we cannot show more than 100."
+msgstr "Хотя в общей сложности {хитов] хитов, мы не можем показать больше 100."
+
+#: /views/examples/documentation.j2:212
+msgid "An unexplained feature?"
+msgstr "Необъяснимая особенность?"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/animations/_blueprint.yaml
+msgid "Animate & Transition"
+msgstr "Анимировать и переход"
+
+#: /content/amp-dev/about/stories.html
+msgid "App Install"
+msgstr "Установить приложение"
+
+#: /content/amp-dev/about/stories.html:244
+msgid "Animations and interactions"
+msgstr "Анимации и взаимодействия"
+
+#: /content/amp-dev/about/stories.html:255
+msgid "Check out AMP stories on the web"
+msgstr "Проверьте истории AMP в Интернете"
+
+#: /content/amp-dev/about/stories.html:327
+msgid "Story Ads are full screen, single page ads that appear within AMP Stories. Advertisers/ Publishers can invite users to a web page, an AMP page or an App with a single tap. A story ad has a rich, flexible canvas that allows images, videos, animations or a combination of all those elements.<br>  Story ads are supported by Google Ad Manager and Google DV360 (Beta) with additional ad server support coming soon!"
+msgstr "Story Ads - это полноэкранные одностраничные объявления, которые появляются в AMP Stories. Рекламодатели / издатели могут одним нажатием пригласить пользователей на веб-страницу, страницу AMP или в приложение. В сюжетном объявлении имеется богатый и гибкий холст, позволяющий использовать изображения, видео, анимацию или все эти элементы. <br> Рекламные объявления поддерживаются Менеджером объявлений Google и Google DV360 (бета-версия), а в скором времени появится дополнительная поддержка сервера объявлений!"
+
+#: /content/amp-dev/about/stories.html:415
+msgid "Discover All Templates"
+msgstr "Откройте для себя все шаблоны"
+
+#: /content/amp-dev/404.html:18 /content/amp-dev/500.html:18
+msgid "Back to home"
+msgstr "Вернуться домой"
+
+#: /views/examples/preview.j2:28
+msgid "Back to sample"
+msgstr "Вернуться к образцу"
+
+#: /views/partials/case-grid.j2:30
+msgid "Band Page in AMP"
+msgstr "Страница группы в AMP"
+
+#: /content/amp-dev/documentation/courses/beginning-course/_blueprint.yaml
+msgid "Beginning Course"
+msgstr "Начальный курс"
+
+#: /views/partials/burger-menu.j2:24 /views/partials/header.j2:38
+msgid "Blog"
+msgstr "Блог"
+
+#: /views/partials/burger-menu.j2:8
+msgid "Burger Menu"
+msgstr "Бургер Меню"
+
+#: /content/amp-dev/community/_blueprint.yaml /views/partials/footer.j2:61
+msgid "Community"
+msgstr "сообщество"
+
+#: /content/amp-dev/documentation/components/_blueprint.yaml
+#: /content/amp-dev/documentation/components/reference/_blueprint.yaml
+#: /views/partials/footer.j2:54 /views/partials/search.j2:84
+msgid "Components"
+msgstr "Составные части"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/contribute/_blueprint.yaml
+#: /views/partials/footer.j2:64
+msgid "Contribute"
+msgstr "Способствовать"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/contribute/contribute-documentation/_blueprint.yaml
+msgid "Contribute documentation"
+msgstr "Внести документацию"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/converting/_blueprint.yaml
+msgid "Convert HTML to AMP"
+msgstr "Конвертировать HTML в AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/interactive_widget/_blueprint.yaml
+msgid "Create a custom interactive widget with amp-script"
+msgstr "Создайте пользовательский интерактивный виджет с помощью amp-script"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/login_requiring/_blueprint.yaml
+msgid "Create a login-requiring AMP page"
+msgstr "Создать страницу AMP, требующую входа в систему"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/interactivity/_blueprint.yaml
+msgid "Create interactive AMP pages"
+msgstr "Создавайте интерактивные страницы AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/create/_blueprint.yaml
+msgid "Create your first AMP Page"
+msgstr "Создайте свою первую страницу AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/visual_story/_blueprint.yaml
+msgid "Create your first AMP Story"
+msgstr "Создайте свою первую историю AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/create_amphtml_ad/_blueprint.yaml
+msgid "Create your first AMPHTML ad"
+msgstr "Создайте свое первое объявление AMPHTML"
+
+#: /views/partials/structured-data.j2:56
+msgid "Demo: "
+msgstr "Демо-версия:"
+
+#: /views/partials/footer.j2:56
+msgid "Design Templates"
+msgstr "Шаблоны дизайна"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/_blueprint.yaml
+msgid "Develop"
+msgstr "развивать"
+
+#: /views/partials/consent.j2:28
+msgid "Dismiss consent"
+msgstr "Отклонить согласие"
+
+#: /views/partials/footer.j2:50
+msgid "Docs"
+msgstr "Документы"
+
+#: /content/amp-dev/documentation/_blueprint.yaml /views/partials/breadcrumbs.j2:10
+#: /views/partials/breadcrumbs.j2:39 /views/partials/breadcrumbs.j2:52
+#: /views/partials/breadcrumbs.j2:65 /views/partials/breadcrumbs.j2:92
+msgid "Documentation"
+msgstr "Документация"
+
+#: /views/partials/structured-data.j2:58
+msgid "Documentation: "
+msgstr "Документация:"
+
+#: /views/detail/template-detail.j2:91
+msgid "Download ZIP"
+msgstr "Скачать ZIP"
+
+#: /content/amp-dev/documentation/templates/index.html:20
+msgid "Easily build user first websites with our templates"
+msgstr "Легко создавайте пользовательские веб-сайты с нашими шаблонами"
+
+#: /views/examples/documentation.j2:216
+msgid "Edit sample on GitHub"
+msgstr "Редактировать образец на GitHub"
+
+#: /views/partials/case-grid.j2:22
+msgid "Editorial AMP Article"
+msgstr "Редакция AMP Статья"
+
+#: /content/amp-dev/events/_blueprint.yaml /views/partials/footer.j2:69
+msgid "Events"
+msgstr "Мероприятия"
+
+#: /content/tests/examples/_blueprint.yaml
+msgid "Example Source Code"
+msgstr "Пример исходного кода"
+
+#: /views/partials/structured-data.j2:54
+msgid "Example: "
+msgstr "Пример:"
+
+#: /content/amp-dev/documentation/examples/_blueprint.yaml
+#: /views/partials/component-examples-list.j2:10 /views/partials/footer.j2:55
+msgid "Examples"
+msgstr "Примеры"
+
+#: /content/amp-dev/about/stories.html
+msgid "Expansion"
+msgstr "расширение"
+
+#: /content/amp-dev/support/faq/_blueprint.yaml
+msgid "FAQ"
+msgstr "часто задаваемые вопросы"
+
+#: /views/partials/footer.j2:12
+msgid "Follow us"
+msgstr "Подписывайтесь на нас"
+
+#: /views/detail/component-detail.j2:39
+msgid "Found a bug or missing a feature?"
+msgstr "Нашли ошибку или пропустили функцию?"
+
+#: /views/partials/footer.j2:46
+msgid "Functionality"
+msgstr "функциональность"
+
+#: /views/partials/footer.j2:52
+msgid "Get Started"
+msgstr "Начать"
+
+#: /views/detail/docs-detail.j2:39
+msgid "Get started"
+msgstr "Начать"
+
+#: /content/amp-dev/documentation/courses/teachers.md:9
+msgid "Get the courses"
+msgstr "Получить курсы"
+
+#: /views/detail/component-detail.j2:43
+msgid "Go to GitHub"
+msgstr "Перейти на GitHub"
+
+#: /views/detail/component-detail.j2:36 /views/examples/documentation.j2:209
+msgid "Go to Stack Overflow"
+msgstr "Перейти к переполнению стека"
+
+#: /views/partials/consent.j2:36
+msgid "Got it!"
+msgstr "Понял!"
+
+#: /views/partials/footer.j2:53
+msgid "Guides and Tutorials"
+msgstr "Руководства и учебники"
+
+#: /content/amp-dev/documentation/templates/index.html:19
+msgid "How to build AMP without knowing how to code?"
+msgstr "Как построить AMP, не зная, как кодировать?"
+
+#: /views/partials/search.j2:186
+msgid "Important Components"
+msgstr "Важные компоненты"
+
+#: /views/partials/content.j2:24
+msgid "Important: this component does not support your currently selected format"
+msgstr "Важно: этот компонент не поддерживает выбранный вами формат"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/media_iframes_3p/_blueprint.yaml
+msgid "Include media, iframes & third-party content"
+msgstr "Включить медиа, фреймы и сторонний контент"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/integrate/_blueprint.yaml
+msgid "Integrate"
+msgstr "интегрировать"
+
+#: /content/amp-dev/documentation/courses/intermediate-course/_blueprint.yaml
+msgid "Intermediate Course"
+msgstr "Средний курс"
+
+#: /content/amp-dev/events/amp-roadshow.html:28
+msgid "Jump to:"
+msgstr "Прыгать на:"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/_blueprint.yaml
+msgid "Learn"
+msgstr "Учиться"
+
+#: /content/amp-dev/events/amp-conf-2019.html:30
+#: /content/amp-dev/events/amp-conf-2019@ja.html:30
+#: /content/amp-dev/events/amp-cs-2019.html:23
+msgid "Learn more about:"
+msgstr "Узнать больше о:"
+
+#: /views/partials/search.j2:139
+msgid "Load more"
+msgstr "Загрузи больше"
+
+#: /views/partials/footer.j2:77
+msgid "Logos"
+msgstr "Логотипы"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/monetization/_blueprint.yaml
+msgid "Monetize your AMP page with ads"
+msgstr "Монетизируйте свою страницу AMP с рекламой"
+
+#: /content/amp-dev/about/stories.html
+msgid "Multiple Image"
+msgstr "Несколько изображений"
+
+#: /views/examples/documentation.j2:205
+msgid "Need further explanation?"
+msgstr "Нужны дальнейшие объяснения?"
+
+#: /views/detail/component-detail.j2:32
+msgid "Need more help?"
+msgstr "Нужна дополнительная помощь?"
+
+#: /views/detail/docs-detail.j2:54
+msgid "Next chapter"
+msgstr "Следующая глава"
+
+#: /views/partials/search.j2:162
+msgid "No results found."
+msgstr "Результатов не найдено."
+
+#: /content/amp-dev/about/stories.html
+msgid "Nueve hoteles en los que tienes que dormir antes de morir"
+msgstr "Новые отели в Лос-Анджелесе"
+
+#: /views/partials/footer.j2:9
+msgid "Of course, this site is made with AMP!"
+msgstr "Конечно, этот сайт сделан с AMP!"
+
+#: /views/partials/case-grid.j2:50
+msgid "Open Use Case"
+msgstr "Открытый вариант использования"
+
+#: /views/partials/search.j2:99 /views/partials/search.j2:200
+msgid "Open example"
+msgstr "Открытый пример"
+
+#: /views/examples/documentation.j2:144 /views/partials/search.j2:106
+#: /views/partials/search.j2:207
+msgid "Open in playground"
+msgstr "Открыть на детской площадке"
+
+#: /views/examples/documentation.j2:194
+#: /views/partials/code-preview/code-preview.j2:146
+msgid "Open this snippet in playground"
+msgstr "Откройте этот фрагмент на детской площадке"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/optimize-measure/_blueprint.yaml
+msgid "Optimize & Measure"
+msgstr "Оптимизировать и измерить"
+
+#: /views/partials/footer.j2:41
+msgid "Overview"
+msgstr "обзор"
+
+#: /content/amp-dev/about/stories.html
+#: /views/partials/case-grid.j2:14
+msgid "Parallax Storytelling in AMP"
+msgstr "Параллакс Рассказывание историй в AMP"
+
+#: /content/amp-dev/support/faq/platform-involvement.md
+msgid "Platform and Technology Company Involvement"
+msgstr "Участие Платформ и Технологических Компаний"
+
+#: /views/partials/footer.j2:63
+msgid "Platform and Vendor Partners"
+msgstr "Партнеры по платформе и поставщикам"
+
+#: /content/shared/experiments.html:21
+msgid "Please reload the page."
+msgstr "Пожалуйста, перезагрузите страницу."
+
+#: /views/partials/search.j2:146 /views/partials/search.j2:155
+msgid "Please try again later."
+msgstr "Пожалуйста, попробуйте позже."
+
+#: /views/partials/search.j2:216
+msgid "Popular Articles"
+msgstr "Популярные статьи"
+
+#: /views/examples/preview.j2:19
+msgid "Preview"
+msgstr "предварительный просмотр"
+
+#: /views/detail/docs-detail.j2:48
+msgid "Previous chapter"
+msgstr "Предыдущая глава"
+
+#: /views/partials/footer.j2:83
+msgid "Privacy Policy"
+msgstr "политика конфиденциальности"
+
+#: /content/amp-dev/support/faq/publisher-monetization.md
+msgid "Publisher Monetization"
+msgstr "Издательство Монетизация"
+
+#: /views/partials/search.j2:116
+msgid "Results"
+msgstr "Результаты"
+
+#: /views/partials/footer.j2:65
+msgid "Roadmap"
+msgstr "Дорожная карта"
+
+#: /content/amp-dev/about/stories.html
+msgid "SF Chronicle"
+msgstr "SF Chronicle"
+
+#: /views/partials/case-grid.j2:53
+msgid "Screenshot of use case:"
+msgstr "Скриншот варианта использования:"
+
+#: /views/partials/search.j2:59
+msgid "Search"
+msgstr "Поиск"
+
+#: /views/partials/case-grid.j2:66
+msgid "See all use cases"
+msgstr "Посмотреть все варианты использования"
+
+#: /views/partials/teaser-grid.j2:135 /views/partials/teaser.j2:137
+msgid "See example"
+msgstr "См пример"
+
+#: /content/amp-dev/about/success-stories/index.html:14
+msgid "See what others have built"
+msgstr "Посмотрите, что построили другие"
+
+#: /views/partials/header.j2:99
+msgid "Select a language"
+msgstr "Выбрать язык"
+
+#: /views/partials/rolling-formats.j2:3
+msgid "websites"
+msgstr "сайты"
+
+#: /views/partials/rolling-formats.j2:3
+msgid "stories"
+msgstr "рассказы"
+
+#: /views/partials/rolling-formats.j2:3
+msgid "ads"
+msgstr "Объявления"
+
+#: /views/partials/rolling-formats.j2:3
+msgid "emails"
+msgstr "электронная почта"
+
+#: /views/partials/rolling-formats.j2:3
+msgid "email"
+msgstr "электронное письмо"
+
+#: /content/amp-dev/index.html:65
+msgid "AMP is a web component framework to easily create <span style=\"white-space: nowrap;\">user-first</span><br>"
+msgstr "AMP - это фреймворк для веб-компонентов, позволяющий легко создавать <span style = \"
+
+#: /content/amp-dev/index.html:257
+msgid "Show everything"
+msgstr "Показать все"
+
+#: /views/partials/search.j2:337
+msgid "Open in AMP Playground"
+msgstr "Открыть в AMP Playground"
+
+#: /content/amp-dev/index.html:431
+msgid "Build anything with AMP."
+msgstr "Постройте что-нибудь с AMP."
+
+#: /content/amp-dev/about/stories.html
+msgid "Single Image"
+msgstr "Одиночное изображение"
+
+#: /content/amp-dev/about/stories.html
+msgid "Single video"
+msgstr "Одиночное видео"
+
+#: /content/amp-dev/offline.html:14
+msgid "Something cut the line."
+msgstr "Что-то перерезало линию."
+
+#: /content/amp-dev/500.html:15
+msgid "Something went terribly wrong. Why don't you browse around?"
+msgstr "Что-то пошло не так. Почему вы не просматриваете?"
+
+#: /views/partials/search.j2:144
+msgid "Something went wrong while trying to load more search results."
+msgstr "Что-то пошло не так при попытке загрузить больше результатов поиска."
+
+#: /views/partials/search.j2:151
+msgid "Something went wrong…"
+msgstr "Что-то пошло не так…"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/_blueprint.yaml
+msgid "Start"
+msgstr "Начните"
+
+#: /views/partials/footer.j2:76
+msgid "Styleguide"
+msgstr "Гид по стилю"
+
+#: /content/amp-dev/about/success-stories/_blueprint.yaml
+#: /content/amp-dev/about/success-stories/index.html
+msgid "Success Stories"
+msgstr "Истории успеха"
+
+#: /views/partials/structured-data.j2:60
+msgid "Success Story: "
+msgstr "История успеха:"
+
+#: /content/amp-dev/about/success-stories/index.html:15
+#: /views/partials/footer.j2:45
+msgid "Success stories"
+msgstr "Истории успеха"
+
+#: /content/amp-dev/support/_blueprint.yaml /views/partials/breadcrumbs.j2:104
+msgid "Support"
+msgstr "Поддержка"
+
+#: /content/amp-dev/support/faq/supported-browsers.md
+msgid "Supported Browsers"
+msgstr "Поддерживаемые браузеры"
+
+#: /content/amp-dev/support/faq/platform-and-vendor-partners.md
+msgid "Supported Platforms"
+msgstr "Поддерживаемые платформы"
+
+#: /views/examples/documentation.j2:88
+msgid "Table of contents"
+msgstr "Содержание"
+
+#: /content/amp-dev/about/stories.html
+msgid "The Atlantic"
+msgstr "Атлантический океан"
+
+#: /content/amp-dev/about/stories.html
+msgid "The Washington Post"
+msgstr "The Washington Post"
+
+#: /content/amp-dev/404.html:15
+msgid "The page you've requested can't be found. Why don't you browse around?"
+msgstr "Запрошенная вами страница не найдена. Почему вы не просматриваете?"
+
+#: /views/partials/experiments/experiments.j2:4
+msgid "This example uses the following experimental feature:"
+msgstr "В этом примере используется следующая экспериментальная функция:"
+
+#: /views/partials/sidebar-toggle-button.j2:6
+#: /views/partials/sidebar-toggle-button.j2:10
+msgid "Toggle Sidebar"
+msgstr "Переключить боковую панель"
+
+#: /views/partials/case-grid.j2:6
+msgid "Too much choice"
+msgstr "Слишком большой выбор"
+
+#: /views/partials/footer.j2:57
+msgid "Tools"
+msgstr "инструменты"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/optimize-measure/configure-analytics/_blueprint.yaml
+msgid "Track engagement with analytics"
+msgstr "Отслеживание взаимодействия с аналитикой"
+
+#: /content/amp-dev/about/stories.html
+msgid "USA Today"
+msgstr "США сегодня"
+
+#: /content/amp-dev/404.html:14 /content/amp-dev/500.html:14
+msgid "Uh oh! That's an error."
+msgstr "Ой! Это ошибка."
+
+#: /views/partials/footer.j2:44
+msgid "Use Cases"
+msgstr "Сценарии использования"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/validation-workflow/_blueprint.yaml
+msgid "Validation Workflow"
+msgstr "Рабочий процесс проверки"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/contribute/vendor-contributions/_blueprint.yaml
+msgid "Vendor contributions"
+msgstr "Вклад поставщиков"
+
+#: /views/detail/template-detail.j2:102
+msgid "View Demo"
+msgstr "Посмотреть демо"
+
+#: /views/detail/template-detail.j2:113
+msgid "View code on GitHub"
+msgstr "Посмотреть код на GitHub"
+
+#: /views/examples/documentation.j2:139
+msgid "View demo"
+msgstr "Посмотреть демо"
+
+#: /views/partials/search.j2:145 /views/partials/search.j2:154
+msgid "We apologize for the inconvenience caused."
+msgstr "Мы приносим свои извинения за причиненные неудобства."
+
+#: /views/partials/search.j2:163
+msgid "We could not find any results matching your search query."
+msgstr "Мы не смогли найти результаты, соответствующие вашему поисковому запросу."
+
+#: /content/amp-dev/documentation/courses/_blueprint.yaml
+msgid "Web Development With AMP"
+msgstr "Веб-разработка с AMP"
+
+#: /views/partials/search.j2:55
+msgid "What are you looking for?"
+msgstr "Что вы ищете?"
+
+#: /content/amp-dev/about/stories.html
+msgid "Who runs the world? ... Beyoncé over the years."
+msgstr "Кто правит миром? ... Бейонсе на протяжении многих лет."
+
+#: /content/amp-dev/about/stories.html
+#: /content/amp-dev/community/working-groups/_blueprint.yaml
+msgid "Working Groups"
+msgstr "Рабочие группы"
+
+#: /content/amp-dev/offline.html:15
+msgid "You're currently not connected to the internet."
+msgstr "В настоящее время вы не подключены к Интернету."
+
+#: /content/amp-dev/documentation/components/reference/amp-ad-exit-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-ad-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-call-tracking-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-experiment-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-share-tracking-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-sticky-ad-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-user-location-v0.1.md
+msgid "ads-analytics"
+msgstr "объявления-аналитика"
+
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@es.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@id.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@it.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay-v0.2@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-access-poool-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-access-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-action-macro-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-bind-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-byside-content-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-consent-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-date-picker-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-form-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-geo-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-gist-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-google-document-embed-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-inputmask-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-install-serviceworker-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-link-rewriter-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-list-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-live-list-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-mraid-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@es.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@id.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@it.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache-v0.2@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-next-page-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-script-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-selector-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-smartlinks-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-subscriptions-google-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-subscriptions-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-user-notification-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-video-docking-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-viewer-assistance-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-web-push-v0.1.md
+msgid "dynamic-content"
+msgstr "динамическое содержимое"
+
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-app-banner-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-base-carousel-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel-v0.2.md
+#: /content/amp-dev/documentation/components/reference/amp-fx-collection-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-fx-flying-carpet-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-image-lightbox-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-image-slider-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-layout-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-gallery-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-orientation-observer-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-position-observer-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar-v1.0.md
+msgid "layout"
+msgstr "расположение"
+
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-3q-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-anim-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-apester-media-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-audio-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-bodymovin-animation-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-brid-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-brightcove-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-connatix-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-dailymotion-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-delight-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-embedly-card-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-google-vrview-image-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-hulu-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-ima-video-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-img-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-imgur-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-izlesene-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-jwplayer-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-kaltura-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-megaphone-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-mowplayer-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-nexxtv-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-o2-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-ooyala-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-playbuzz-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-powr-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-reach-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-recaptcha-input-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-skimlinks-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-soundcloud-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-springboard-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-video-iframe-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-video-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-vimeo-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-viqeo-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-wistia-player-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-yotpo-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube-v0.1@zh_cn.md
+msgid "media"
+msgstr "средства массовой информации"
+
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-animation-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-date-countdown-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-dynamic-css-classes-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-fit-text-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-font-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-mathml-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-pan-zoom-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-story-auto-ads-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-story-bookend-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-story-cta-layer-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-story-grid-layer-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-story-page-attachment-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-story-page-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-story-v1.0.md
+#: /content/amp-dev/documentation/components/reference/amp-timeago-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-truncate-text-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-viz-vega-v0.1.md
+msgid "presentation"
+msgstr "презентация"
+
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@es.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@id.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@it.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis-v0.1@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-beopinion-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook-comments-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook-like-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook-page-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-gfycat-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-instagram-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-pinterest-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-reddit-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-riddle-quiz-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-twitter-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-vine-v0.1.md
+#: /content/amp-dev/documentation/components/reference/amp-vk-v0.1.md
+msgid "social"
+msgstr "Социальное"
+
+#: /views/partials/search.j2:153
+msgid "…while trying to load the search results."
+msgstr "... при попытке загрузить результаты поиска."
+
+#: frontend/templates/layouts/default.j2:129
+msgid "Sadly this page isn't translated yet, but we could use some help doing so. See the <a href=\"/documentation/guides-and-tutorials/contribute/translations\">translation guide</a> on how you can contribute."
+msgstr "К сожалению, эта страница еще не переведена, но мы могли бы помочь. Смотрите <a href = \"
+
+#: frontend/templates/views/examples/documentation.j2:206
+msgid "If the explanations on this page don't cover all of your questions feel free to reach out to other AMP users to discuss your exact use case."
+msgstr "Если объяснения на этой странице не охватывают все ваши вопросы, не стесняйтесь обращаться к другим пользователям AMP, чтобы обсудить ваш конкретный вариант использования."
+
+#: frontend/templates/views/examples/documentation.j2:213
+msgid "The AMP project strongly encourages your participation and contributions! We hope you'll become an ongoing participant in our open source community but we also welcome one-off contributions for the issues you're particularly passionate about."
+msgstr "Проект AMP настоятельно рекомендует ваше участие и вклад! Мы надеемся, что вы станете постоянным участником нашего сообщества открытого исходного кода, но мы также приветствуем разовые материалы по темам, которые вам особенно интересны."
+
+#: frontend/templates/views/detail/component-detail.j2:33
+msgid "You've read this document a dozen times but it doesn't really cover all of your questions? Maybe other people felt the same: reach out to them on Stack Overflow."
+msgstr "Вы читали этот документ десятки раз, но на самом деле он не охватывает все ваши вопросы? Возможно, другие люди чувствовали то же самое: дотянуться до них в Stack Overflow."
+
+#: frontend/templates/views/partials/experiments/experiments.j2:4
+msgid "Enable the experiment via the button below. Some components require the AMP Dev Channel to be enabled as well."
+msgstr "Включите эксперимент с помощью кнопки ниже. Для некоторых компонентов также требуется активация Dev Channel AMP."
+
+#: frontend/templates/views/partials/structured-data.j2:54
+msgid "Example  "
+msgstr "пример"
+
+#: frontend/templates/views/partials/structured-data.j2:56
+msgid "Demo  "
+msgstr "демонстрация"
+
+#: frontend/templates/views/partials/structured-data.j2:58
+msgid "Documentation  "
+msgstr "Документация"
+
+#: frontend/templates/views/partials/structured-data.j2:60
+msgid "Success Story  "
+msgstr "История успеха"
+
+#: frontend/templates/views/partials/search.j2:140
+msgid "Although there are {hits} hits in total we cannot show more than 100.', hits='{'+'{result.totalResults}'+'}"
+msgstr "Несмотря на то, что в общей сложности имеется {посещений}, мы не можем показать более 100. ', совпадения =' {'+' {result.totalResults} '+'}"
+
+#: frontend/templates/views/partials/content.j2:24
+msgid "Important: this component does not support your currently selected format"
+msgstr ""
+
+#: /content/amp-dev/documentation/templates/index.html:112
+msgid "Get started quickly with a ready-made design. Templates designed to work with all devices - mobile, tablet and desktop."
+msgstr "Начните быстро с готовым дизайном. Шаблоны предназначены для работы со всеми устройствами - мобильными, планшетными и настольными."
+
+#: /content/amp-dev/index.html:14
+msgid "Use AMP to build great experiences across the web"
+msgstr "Используйте AMP для создания отличного опыта в Интернете"
+
+#: /content/amp-dev/index.html:20
+msgid "Use AMP to create visual stories on the web."
+msgstr "Используйте AMP для создания визуальных историй в Интернете."
+
+#: /content/amp-dev/index.html:25
+msgid "Use AMP to build and serve lightning fast, safe ads to pages and stories."
+msgstr "Используйте AMP для молниеносной и безопасной рекламы на страницах и в историях."
+
+#: /content/amp-dev/index.html:30
+msgid "Use AMP to send interactive, dynamic emails."
+msgstr "Используйте AMP для отправки интерактивных, динамических электронных писем."
+
+#: /content/amp-dev/index.html:31
+msgid "Whether you are a publisher, e-commerce company, storyteller, advertiser or email sender, AMP makes it easy to create great experiences on the web. Use AMP to build:"
+msgstr "Являетесь ли вы издателем, компанией электронной коммерции, рассказчиком, рекламодателем или отправителем электронной почты, AMP позволяет легко создавать отличные впечатления в Интернете. Используйте AMP для построения:"
+
+#: /content/amp-dev/index.html:91
+msgid "The latest news"
+msgstr "Последние новости"
+
+#: /content/amp-dev/index.html:92
+msgid "Don't want to miss any of the great stuff that happens around AMP? Then always be first in line and subscribe to our newsletter!"
+msgstr "Не хотите пропустить что-то замечательное, что происходит с AMP? Тогда всегда будьте первым в очереди и подпишитесь на нашу рассылку!"
+
+#: /content/amp-dev/index.html:99
+msgid "Subscribe"
+msgstr "Подписывайся"
+
+#: /content/amp-dev/index.html:244
+msgid "Learn more about AMP {{ format.name }}"
+msgstr "Узнайте больше о AMP {{format.name}}"
+
+#: /content/amp-dev/index.html:283
+msgid "AMP in action"
+msgstr "AMP в действии"
+
+#: /content/amp-dev/index.html:350
+msgid "Business Benefits"
+msgstr "Бизнес преимущества"
+
+#: /content/amp-dev/index.html:394
+msgid "Get started with AMP"
+msgstr "Начните с AMP"
+
+#: /content/amp-dev/index.html:414
+msgid "As a source for breaking news and information, AMP stories allows us to showcase our quality journalism when there are multiple elements we want to bring together. Combining reporting, photography, videos and motion graphics, this gives readers a more visual entry point when they are searching for our coverage."
+msgstr "Как источник последних новостей и информации, истории AMP позволяют нам демонстрировать нашу качественную журналистику, когда есть несколько элементов, которые мы хотим объединить. Объединяя репортажи, фотографии, видео и анимационную графику, это дает читателям более наглядную точку входа, когда они ищут наше покрытие."
+
+#: /content/amp-dev/index.html:416
+msgid "Greg Manifold, Design Director of The Washington Post"
+msgstr "Грег Манифолд, директор по дизайну The Washington Post"
+
+#: /content/amp-dev/index.html:462
+msgid "Explore AMP<br/> success stories"
+msgstr "Изучите истории успеха AMP <br/>"
+
+#: /content/amp-dev/index.html:463
+msgid "Don't take our word for it - read case studies from your industry and see how AMP has produced positive results."
+msgstr "Не верьте нам на слово - прочтите примеры из вашей отрасли и посмотрите, как AMP дал положительные результаты."
+
+#: /content/amp-dev/index.html:470
+msgid "See all success stories"
+msgstr "Посмотреть все истории успеха"
+
+#: /content/amp-dev/index.html:478
+msgid "By the community,<br/>for the community"
+msgstr "Сообществом, <br/> для сообщества"
+
+#: /content/amp-dev/index.html:494
+msgid "Many ways for you to contribute"
+msgstr "Есть много способов внести свой вклад"
+
+#: /content/amp-dev/index.html:495
+msgid "The AMP Project would not be possible without help from all members of the community whether you are a developer, content creator or provider of services relevant to AMP."
+msgstr "Проект AMP был бы невозможен без помощи всех членов сообщества, независимо от того, являетесь ли вы разработчиком, создателем контента или поставщиком услуг, имеющих отношение к AMP."
+
+#: /content/amp-dev/index.html:510
+msgid "Reporting issues with AMP"
+msgstr "Сообщение о проблемах с AMP"
+
+#: /content/amp-dev/index.html:511
+msgid "If you have feedback or are experiencing technical issues with AMP, please file it using the issue tracker."
+msgstr "Если у вас есть отзывы или у вас возникли технические проблемы с AMP, отправьте их с помощью системы отслеживания ошибок."
+
+#: /content/amp-dev/index.html:521
+msgid "Build your first AMP page now"
+msgstr "Создайте свою первую страницу AMP сейчас"
+
+#: /content/amp-dev/index.html:522
+msgid "You don’t need to download AMP and no installation is required.<br/> Because it is an open-source project, it is free!"
+msgstr "Вам не нужно загружать AMP, и установка не требуется. <br/> Поскольку это проект с открытым исходным кодом, он бесплатный!"
+
+#: /content/amp-dev/about/stories.html:90
+msgid "AMP Stories"
+msgstr "Истории AMP"
+
+#: /content/amp-dev/about/stories.html:94
+msgid "Start developing"
+msgstr "Начните развиваться"
+
+#: /content/amp-dev/about/stories.html:95
+msgid "Tell a story"
+msgstr "Расскажи историю"
+
+#: /content/amp-dev/about/stories.html:106
+msgid "AMP<br> Stories"
+msgstr "AMP <br> Истории"
+
+#: /content/amp-dev/about/stories.html:107
+msgid "visual storytelling for the open web"
+msgstr "визуальное повествование для открытой сети"
+
+#: /content/amp-dev/about/stories.html:108
+msgid "AMP stories immerse your readers in fast-loading full-screen experiences. Easily create visual narratives, with engaging animations and tappable interactions. The AMP story format is free and part of the open web and are available for everyone to try on their websites. They can be shared and embedded across the web without being confined to a closed ecosystem or platform."
+msgstr "Истории AMP погружают ваших читателей в быстро загружаемые полноэкранные приложения. Легко создавайте визуальные повествования, с привлекательной анимацией и интерактивными взаимодействиями. Формат истории AMP является бесплатным и является частью открытой сети, и каждый может попробовать его на своих сайтах. Они могут совместно использоваться и внедряться в Интернете, не ограничиваясь закрытой экосистемой или платформой."
+
+#: /content/amp-dev/about/stories.html:109
+msgid "AMP stories provides content publishers with a mobile-focused format for delivering news and information as visually rich, tap-through stories. AMP Stories offers a robust set of advertising opportunities for advertisers and publishers to reach a unique audience on the web with immersive experiences."
+msgstr "AMP Stories предоставляет издателям контента мобильный формат для доставки новостей и информации в виде визуально насыщенных сквозных историй. AMP Stories предлагает обширный набор рекламных возможностей для рекламодателей и издателей, чтобы охватить уникальную аудиторию в Интернете с захватывающими впечатлениями."
+
+#: /content/amp-dev/about/stories.html:119
+msgid "Build your first story"
+msgstr "Создайте свой первый рассказ"
+
+#: /content/amp-dev/about/stories.html:128
+msgid "Learn about story ads"
+msgstr "Узнайте об истории рекламы"
+
+#: /content/amp-dev/about/stories.html:159
+msgid "Read Success Story"
+msgstr "Читать историю успеха"
+
+#: /content/amp-dev/about/stories.html:175
+msgid "The benefits of AMP stories"
+msgstr "Преимущества истории AMP"
+
+#: /content/amp-dev/about/stories.html:223
+msgid "Read on how AMP works"
+msgstr "Читайте о том, как работает AMP"
+
+#: /content/amp-dev/about/stories.html:235
+msgid "AMP stories are built with visually rich media, and whether you utilize pictures, videos or GIF assets is up to you. Images and videos expand to visually fill the readers’ screens, providing a smooth and fully engaging experience. AMP allows you to specify the file type to account for the user’s network connection and browser capabilities."
+msgstr "Истории AMP создаются с использованием визуально богатых мультимедийных материалов, и вы сами можете использовать картинки, видео или GIF-ресурсы. Изображения и видео расширяются, чтобы визуально заполнить экраны читателей, обеспечивая плавный и полностью увлекательный опыт. AMP позволяет указать тип файла для учета сетевого подключения пользователя и возможностей браузера."
+
+#: /content/amp-dev/about/stories.html:234
+msgid "Images, videos and GIFs"
+msgstr "Изображения, видео и GIF"
+
+#: /content/amp-dev/about/stories.html:239
+msgid "Text and audio"
+msgstr "Текст и аудио"
+
+#: /content/amp-dev/about/stories.html:240
+msgid "Convey facts and figures via bite-sized chunks of one or two sentences – ideal for mobile devices. Choose from different font colors for basic readability. Or add visual elements like subtle black transparent gradient overlays to ensure readability even on random background imagery, for example user generated content. On top of this, you can use short audio files on every page to provide spoken information or background music."
+msgstr "Передавайте факты и цифры с помощью кусочков размером в один или два предложения - идеально для мобильных устройств. Выберите из различных цветов шрифта для базовой читабельности. Или добавьте визуальные элементы, такие как тонкие прозрачные наложения черного градиента, чтобы обеспечить читаемость даже на случайных фоновых изображениях, например, на пользовательском контенте. Кроме того, вы можете использовать короткие аудиофайлы на каждой странице, чтобы предоставить устную информацию или фоновую музыку."
+
+#: /content/amp-dev/about/stories.html:245
+msgid "It’s easy to create visual effects and tappable interactions that keep readers engaged. Titles can fly  drop, fade in, or animate onto the page. Configure your story to automatically progress to the next page when a video snippet is finished. Provide social sharing and related links at the end of your story, so users can share it or dive further into other content on your site."
+msgstr "Легко создавать визуальные эффекты и интерактивные взаимодействия, которые поддерживают читателей. Заголовки могут летать, перетекать или анимироваться на странице. Сконфигурируйте свою историю так, чтобы она автоматически переходила на следующую страницу после завершения фрагмента видео. Предоставляйте ссылки на социальные сети и связанные ссылки в конце своей истории, чтобы пользователи могли поделиться ею или углубиться в другие материалы на вашем сайте."
+
+#: /content/amp-dev/about/stories.html:325
+msgid "AMP Stories <br />Monetization Options"
+msgstr "AMP Stories <br /> Опции монетизации"
+
+#: /content/amp-dev/about/stories.html:326
+msgid "Single Page Story Ad"
+msgstr "Одностраничный сюжет"
+
+#: /content/amp-dev/about/stories.html:408
+msgid "Get Started with our Story Ads Templates"
+msgstr "Начните с наших шаблонов рекламных материалов"
+
+#: /content/amp-dev/about/stories.html:421
+msgid "Affiliate Links"
+msgstr "Партнерские ссылки"
+
+#: /content/amp-dev/about/stories.html:422
+msgid "Publishers can use affiliate links as a form of monetization by placing outlinks in organic story pages."
+msgstr "Издатели могут использовать партнерские ссылки в качестве формы монетизации, размещая ссылки на обычных страницах историй."
+
+#: /content/amp-dev/about/stories.html:428
+msgid "Read Best Practices Guide"
+msgstr "Прочитайте Руководство по передовому опыту"
+
+#: /content/amp-dev/about/ads.html:41
+msgid "AMP Ads"
+msgstr "AMP Ads"
+
+#: /content/amp-dev/about/ads.html:46
+msgid "Explore tools"
+msgstr "Изучите инструменты"
+
+#: /content/amp-dev/about/ads.html:58
+msgid "These days, if it isn’t instant - it’s not fast enough. Even the most memorable creative won’t serve its purpose if the ad is slow and disruptive for a user."
+msgstr "В наши дни, если это не мгновение - это не достаточно быстро. Даже самое запоминающееся объявление не будет работать, если оно медленное и разрушительное для пользователя."
+
+#: /content/amp-dev/about/ads.html:60
+msgid "Advertising continues to be the cornerstone of every publisher’s business model; AMP is fundamentally changing the way ads are built and delivered on the web by supporting ads that are fast, safe, compelling and effective for users."
+msgstr "Реклама продолжает оставаться краеугольным камнем бизнес-модели каждого издателя; AMP в корне меняет способ создания и показа объявлений в Интернете, поддерживая быстрые, безопасные, убедительные и эффективные объявления для пользователей."
+
+#: /content/amp-dev/about/ads.html:77
+msgid "A faster way to grow your business"
+msgstr "Более быстрый способ развития вашего бизнеса"
+
+#: /content/amp-dev/about/ads.html:78
+msgid "A growing number of publishers and advertisers are adopting AMP to deliver faster and more engaging content to their users. As your clients embrace the speed of AMP and more users consume content on AMP pages, ensure that your business is positioned for the future and integrate your technology with AMP. Speeding up ads is the fastest way to boost performance."
+msgstr "Все большее число издателей и рекламодателей внедряют AMP для предоставления своим пользователям более быстрого и привлекательного контента. Поскольку ваши клиенты используют скорость AMP и все больше пользователей используют контент на страницах AMP, убедитесь, что ваш бизнес ориентирован на будущее, и интегрируйте вашу технологию с AMP. Ускорение рекламы - это самый быстрый способ повысить производительность."
+
+#: /content/amp-dev/about/ads.html:79
+msgid "AMP ads greatly improve the mobile internet through their intelligent design and pre-loading features. This leads to increased traffic, higher sales conversion rates and more pages per visit - delivering the value you’re looking for in your ads."
+msgstr "Объявления AMP значительно улучшают мобильный интернет благодаря интеллектуальному дизайну и функциям предварительной загрузки. Это приводит к увеличению трафика, увеличению конверсии продаж и большему количеству страниц за посещение, что повышает ценность ваших объявлений."
+
+#: /content/amp-dev/about/ads.html:80
+msgid "Although AMP pages support traditional HTML ads, these ads can be slow to load. To make ads themselves as fast as the rest of the AMP page, you can build ads in AMPHTML."
+msgstr "Хотя страницы AMP поддерживают традиционную HTML-рекламу, эти объявления могут загружаться медленно. Чтобы сделать объявления такими же быстрыми, как и остальные страницы AMP, вы можете создавать объявления в AMPHTML."
+
+#: /content/amp-dev/about/ads.html:81
+msgid "AMPHTML ads load as fast as content, increasing viewability and enticing engagement. AMPHTML ads are only delivered after being validated, ensuring that the ads are free of malware."
+msgstr "Рекламные объявления AMPHTML загружаются так же быстро, как и контент, улучшая видимость и привлекательность взаимодействия Объявления AMPHTML показываются только после проверки, что гарантирует отсутствие рекламы на вредоносном ПО."
+
+#: /content/amp-dev/about/ads.html:82
+msgid "Ads created with AMPHTML are served on both AMP and non-AMP pages. By building an ad with AMP, you can deliver a memorable brand experience everywhere without worrying about speed and platform compatibility."
+msgstr "Объявления, созданные с помощью AMPHTML, размещаются как на страницах AMP, так и на страницах без AMP. Создавая рекламу с помощью AMP, вы можете создавать незабываемые впечатления от бренда везде, не беспокоясь о скорости и совместимости платформы."
+
+#: /content/amp-dev/about/ads.html:125
+msgid "The benefits of AMP ads"
+msgstr "Преимущества рекламы AMP"
+
+#: /content/amp-dev/about/ads.html:171
+msgid "Read on about AMP ads"
+msgstr "Читайте о рекламе AMP"
+
+#: /content/amp-dev/about/ads.html:188
+msgid "They load way faster. Users pick up on every small delay, and when the ads load fast, this has a very positive impact on their perception and advertiser performance."
+msgstr "Они загружаются намного быстрее. Пользователи учитывают каждую небольшую задержку, и когда реклама загружается быстро, это очень положительно влияет на их восприятие и эффективность рекламодателя."
+
+#: /content/amp-dev/about/ads.html:190
+msgid "Shaun Zacharia, President & Co-Founder, Triplelift."
+msgstr "Шон Захария, президент и соучредитель Triplelift."
+
+#: /content/amp-dev/about/ads.html:208
+msgid "The average mobile site takes 19 seconds to load over a 3G connection. Coupled with the fact that conversions fall by 12% for every additional second a webpage takes to load, you can safely assume two things: speed equals performance, and most advertiser campaigns have room to improve. That’s where you come in. As an SSP, DSP, analytics provider, or anything in between, embracing speed means improving campaign performance, delivering quality user experiences, and establishing yourself as the adtech platform for the fast web. Join the hundreds of technology platforms currently supporting the open source AMP ecosystem."
+msgstr "Средний мобильный сайт загружается через 3G-соединение за 19 секунд. В сочетании с тем фактом, что конверсия падает на 12% за каждую дополнительную секунду, которую веб-страница загружает, вы можете смело предположить две вещи: скорость равна эффективности, и у большинства кампаний рекламодателей есть место для улучшения. Вот где вы вступаете. Как провайдер SSP, DSP, аналитик или что-то среднее между ними, стремление к скорости означает повышение эффективности кампании, предоставление качественного пользовательского опыта и создание себя в качестве платформы adtech для быстрого Интернета. Присоединяйтесь к сотням технологических платформ, в настоящее время поддерживающих экосистему AMP с открытым исходным кодом."
+
+#: /content/amp-dev/about/ads.html:209
+msgid "AMP offers a way for you to give users a faster experience everywhere: on ads, landing pages or on your entire website. AMP ads help users engage with your brand and improve the performance of your campaigns. When your target audience lands on an AMP page, they get what they’re looking for in the moment they’re looking for it. The net result – they’re more likely to be engaged with and receptive to your brand’s messages, and more likely to take the actions you’re guiding them towards like completing a purchase."
+msgstr "AMP предлагает вам возможность быстрее и удобнее работать с пользователями, будь то реклама, целевые страницы или весь ваш сайт. Объявления AMP помогают пользователям взаимодействовать с вашим брендом и повышают эффективность ваших кампаний. Когда ваша целевая аудитория попадает на страницу AMP, они получают то, что ищут, в тот момент, когда они ее ищут. Конечный результат - они с большей вероятностью будут увлечены сообщениями вашего бренда и восприимчивы к ним, а также с большей вероятностью предпримут действия, к которым вы их направляете, например, совершив покупку."
+
+#: /content/amp-dev/about/ads.html:228
+msgid "What’s the difference between an AMPHTML ad and a regular ad? Seconds."
+msgstr "В чем разница между объявлением AMPHTML и обычным объявлением? Секунды."
+
+#: /content/amp-dev/about/ads.html:234
+msgid "AMPHTML Ad"
+msgstr "AMPHTML Ad"
+
+#: /content/amp-dev/about/websites.html:17
+msgid "More overall traffic"
+msgstr "Больше общего трафика"
+
+#: /content/amp-dev/about/websites.html:18
+msgid "India Today delights readers and boosts revenue with AMP"
+msgstr "India Today радует читателей и повышает доход с AMP"
+
+#: /content/amp-dev/about/websites.html:21
+msgid "Increase in returning users from mobile search"
+msgstr "Увеличение числа возвращающихся пользователей с мобильного поиска"
+
+#: /content/amp-dev/about/websites.html:22
+msgid "AMP helps the Washington Post increase returning users from mobile search by 23%"
+msgstr "AMP помогает Washington Post увеличить число возвращающихся пользователей с помощью мобильного поиска на 23%"
+
+#: /content/amp-dev/about/websites.html:24
+msgid "Faster page load time"
+msgstr "Более быстрое время загрузки страницы"
+
+#: /content/amp-dev/about/websites.html:25
+msgid "AMP makes Gizmodo 3x faster on mobile"
+msgstr "AMP делает Gizmodo в 3 раза быстрее на мобильных устройствах"
+
+#: /content/amp-dev/about/websites.html:40
+msgid "Compelling, smooth and instant"
+msgstr "Неотразимый, плавный и мгновенный"
+
+#: /content/amp-dev/about/websites.html:41
+msgid "Easily create user first websites with AMP."
+msgstr "Легко создавать пользовательские первые веб-сайты с AMP."
+
+#: /content/amp-dev/about/websites.html:55
+msgid "What is<br> AMP?"
+msgstr "Что такое AMP?"
+
+#: /content/amp-dev/about/websites.html:56
+msgid "Web pages that are compelling, smooth, and load near instantaneously"
+msgstr "Веб-страницы, которые являются привлекательными, гладкими и загружаются почти мгновенно"
+
+#: /content/amp-dev/about/websites.html:64
+msgid "AMP is a simple and robust format to ensure your website is fast, user-first, and makes money. AMP provides long-term success for your web strategy with distribution across popular platforms and reduced operating and development costs."
+msgstr "AMP - это простой и надежный формат, обеспечивающий быстрый и удобный веб-сайт и приносящий прибыль. AMP обеспечивает долгосрочный успех вашей веб-стратегии благодаря распределению по популярным платформам и снижению затрат на эксплуатацию и разработку."
+
+#: /content/amp-dev/about/websites.html:101
+msgid "Create great web experiences for users across the open web"
+msgstr "Создавайте отличные веб-интерфейсы для пользователей в открытой сети."
+
+#: /content/amp-dev/about/websites.html:102
+msgid "AMP enables the creation of websites and ads that are consistently fast, beautiful and high-performing across devices and distribution platforms. Publishers and advertisers can decide how to present their content that emphasizes a user-first experience."
+msgstr "AMP позволяет создавать веб-сайты и рекламу, которые будут одинаково быстрыми, красивыми и высокопроизводительными на всех устройствах и платформах распространения. Издатели и рекламодатели могут решить, как представить свой контент, который подчеркивает удобство для пользователя."
+
+#: /content/amp-dev/about/websites.html:188
+msgid "We are committed to improving speed across the board. If our site takes a long time to load, it doesn’t matter how great our journalism is, some people will leave the page before they see what’s there."
+msgstr "Мы стремимся улучшить скорость по всем направлениям. Если загрузка нашего сайта занимает много времени, не имеет значения, насколько хороша наша журналистика, некоторые люди покинут страницу, прежде чем увидят, что там."
+
+#: /content/amp-dev/about/websites.html:190
+msgid "David Merrell, Senior Product Manager"
+msgstr "Дэвид Меррелл, старший менеджер по продукту"
+
+#: /content/amp-dev/about/websites.html:204
+msgid "What AMP HTML is made of"
+msgstr "Из чего сделан AMP HTML"
+
+#: /content/amp-dev/about/websites.html:226
+msgid "Though most tags in an AMP HTML page are regular HTML tags, some HTML tags are replaced with AMP-specific tags (see also HTML Tags in the AMP spec). These custom elements,  called AMP HTML  components, make common patterns easy to implement in a performant way."
+msgstr "Хотя большинство тегов на странице AMP HTML являются обычными тегами HTML, некоторые теги HTML заменяются специальными тегами AMP (см. Также теги HTML в спецификации AMP). Эти пользовательские элементы, называемые HTML-компонентами AMP, упрощают реализацию общих шаблонов."
+
+#: /content/amp-dev/about/websites.html:223
+msgid "Built-in components"
+msgstr "Встроенные компоненты"
+
+#: /content/amp-dev/about/websites.html:224
+msgid "AMP HTML is HTML with some restrictions for reliable performance."
+msgstr "AMP HTML - это HTML с некоторыми ограничениями для надежной работы."
+
+#: /content/amp-dev/about/websites.html:228
+msgid "For example, the amp-img tag provides full srcset support even in browsers that don’t support it yet. Learn how to create your first AMP HTML page."
+msgstr "Например, тег amp-img обеспечивает полную поддержку srcset даже в браузерах, которые его еще не поддерживают. Узнайте, как создать свою первую HTML-страницу AMP."
+
+#: /content/amp-dev/about/websites.html:230
+msgid "AMP pages are discovered by search engines and other platforms through the HTML tag. You can choose to have a non-AMP version and an AMP version of your page, or just an AMP version. "
+msgstr "Страницы AMP обнаруживаются поисковыми системами и другими платформами через тег HTML. Вы можете выбрать не-AMP-версию и AMP-версию своей страницы или просто AMP-версию."
+
+#: /content/amp-dev/about/websites.html:237
+msgid "Learn more in Make Your Page Discoverable."
+msgstr "Узнайте больше в разделе «Сделайте свою страницу доступной для обнаружения»."
+
+#: /content/amp-dev/about/websites.html:245
+msgid "AMP pages can be cached for near instantaneous loading on the web. Platforms like Google run AMP caches to enable fast loading of your content from their service."
+msgstr "AMP-страницы могут быть кэшированы для почти мгновенной загрузки в Интернете. Такие платформы, как Google, используют AMP-кэши, чтобы обеспечить быструю загрузку вашего контента из своих сервисов."
+
+#: /content/amp-dev/about/websites.html:247
+msgid "The Google AMP Cache is a proxy-based content delivery network for delivering all valid AMP documents. It fetches AMP HTML pages, caches them, and improves page performance automatically. When using the Google AMP Cache, the document, all JS files and all images load from the same origin that is using HTTP 2.0 for maximum efficiency. <br> The cache also comes with a built-in validation system which confirms that the page is guaranteed to work, and that it doesn't depend on external resources. The validation system runs a series of  assertions confirming the page’s markup meets the AMP HTML specification."
+msgstr "Google AMP Cache - это сеть доставки контента на основе прокси-сервера для доставки всех действующих документов AMP. Он извлекает AMP HTML-страницы, кэширует их и автоматически повышает производительность страницы. При использовании Google AMP Cache документ, все файлы JS и все изображения загружаются из того же источника, который использует HTTP 2.0 для максимальной эффективности. <br> Кэш также поставляется со встроенной системой проверки, которая подтверждает, что страница гарантированно работает и не зависит от внешних ресурсов. Система проверки запускает серию утверждений, подтверждающих, что разметка страницы соответствует спецификации AMP HTML."
+
+#: /content/amp-dev/about/websites.html:250
+msgid "Another version of the validator comes bundled with every AMP page. This version can log validation errors directly to the browser’s console when the page is rendered, allowing you to see how complex changes in your code might impact performance and user experience."
+msgstr "Другая версия валидатора поставляется в комплекте с каждой страницей AMP. Эта версия может регистрировать ошибки проверки непосредственно на консоли браузера при отображении страницы, что позволяет вам увидеть, как сложные изменения в вашем коде могут повлиять на производительность и пользовательский опыт."
+
+#: /content/amp-dev/about/websites.html:258
+msgid "Learn more about caching in AMP"
+msgstr "Узнайте больше о кешировании в AMP"
+
+#: /content/amp-dev/about/websites.html:268
+msgid "Explore use cases of AMP websites"
+msgstr "Изучите варианты использования сайтов AMP"
+
+#: pages/shared/data/benefits.yaml:3
+msgid "Web page speed improves the user experience and core business metrics"
+msgstr "Скорость веб-страницы улучшает взаимодействие с пользователем и основные показатели бизнеса"
+
+#: pages/shared/data/benefits.yaml:6
+msgid "Building AMP pages is easy and reduces developer overhead"
+msgstr "Создание страниц AMP легко и снижает накладные расходы разработчиков"
+
+#: pages/shared/data/benefits.yaml:27
+msgid "Building AMP pages is easy"
+msgstr "Создание страниц AMP легко"
+
+#: pages/shared/data/benefits.yaml:30
+msgid "AMP can be applied across various web touch points"
+msgstr "AMP может быть применен к различным точкам контакта"
+
+#: pages/shared/data/benefits.yaml:34
+msgid "Maintain flexibility and control and reduce complexity in your code"
+msgstr "Сохраняйте гибкость и контроль и уменьшайте сложность своего кода"
+
+#: pages/shared/data/benefits.yaml:37
+msgid "Building blocks that ensure performance"
+msgstr "Строительные блоки, обеспечивающие производительность"
+
+#: pages/shared/data/benefits.yaml:40
+msgid "Build for a sustainable future in the open web for everyone"
+msgstr "Создавайте устойчивое будущее в открытой сети для всех"
+
+#: pages/shared/data/benefits.yaml:45
+msgid "Track and measure"
+msgstr "Отслеживать и измерять"
+
+#: pages/shared/data/benefits.yaml:48
+msgid "Fast loading times"
+msgstr "Быстрое время загрузки"
+
+#: pages/shared/data/benefits.yaml:51
+msgid "Immersive storytelling"
+msgstr "Захватывающий рассказ"
+
+#: pages/shared/data/benefits.yaml:54
+msgid "Robust Advertising Support"
+msgstr "Надежная рекламная поддержка"
+
+#: pages/shared/data/benefits.yaml:58
+msgid "Create beautiful and engaging content easily"
+msgstr "Создавайте красивый и привлекательный контент легко"
+
+#: pages/shared/data/benefits.yaml:61
+msgid "Creative flexibility for editorial freedom and branding"
+msgstr "Творческая гибкость для редакционной свободы и брендинга"
+
+#: pages/shared/data/benefits.yaml:64
+msgid "Sharable and linkable on the open web"
+msgstr "Совместное использование и размещение ссылок в открытой сети"
+
+#: pages/shared/data/benefits.yaml:69
+msgid "Measurable viewability"
+msgstr "Измеримая видимость"
+
+#: pages/shared/data/benefits.yaml:72
+msgid "Maximize your revenue"
+msgstr "Максимизируйте свой доход"
+
+#: pages/shared/data/benefits.yaml:75
+msgid "Maximize your ROI"
+msgstr "Максимизируйте рентабельность инвестиций"
+
+#: pages/shared/data/benefits.yaml:79
+msgid "End to end experience is controlled"
+msgstr "Сквозной опыт контролируется"
+
+#: pages/shared/data/benefits.yaml:82
+msgid "Reduce complexity in your operations"
+msgstr "Уменьшите сложность в ваших операциях"
+
+#: pages/shared/data/benefits.yaml:85
+msgid "Collaborative community"
+msgstr "Совместное сообщество"
+
+#: pages/shared/data/benefits.yaml:89
+msgid "Increased personalization"
+msgstr "Увеличение персонализации"
+
+#: pages/shared/data/benefits.yaml:90
+msgid "Interactive customer experience"
+msgstr "Интерактивный клиентский опыт"
+
+#: pages/shared/data/benefits.yaml:93
+msgid "Improved and smarter services"
+msgstr "Улучшенные и умные услуги"
+
+#: pages/shared/data/benefits.yaml:96
+msgid "Increased in-mail capabilities"
+msgstr "Расширенные возможности электронной почты"
+
+#: pages/shared/data/benefits.yaml:100
+msgid "Safe and secure"
+msgstr "Безопасно и надежно"
+
+#: pages/shared/data/benefits.yaml:106
+msgid "Consistency and scalability"
+msgstr "Согласованность и масштабируемость"
+
+msgid "AMP pages load near instantly, enabling you to offer a consistently fast experience across all devices and platforms."
+msgstr "Страницы AMP загружаются практически мгновенно, что позволяет вам предлагать неизменно быструю работу на всех устройствах и платформах."
+
+msgid "You can often convert your entire archive in days especially if you use a popular CMS such as Wordpress or Drupal."
+msgstr "Вы можете часто конвертировать весь свой архив за несколько дней, особенно если вы используете популярную CMS, такую как Wordpress или Drupal."
+
+msgid "Used by popular and global platforms like Google, Bing and Twitter, AMP allows you to ensure users from all these surfaces get an unparalleled, often instantaneous and native-feeling experience by defaulting to AMP pages when available."
+msgstr "Используемая популярными и глобальными платформами, такими как Google, Bing и Twitter, AMP позволяет гарантировать, что пользователи со всех этих поверхностей получают беспрецедентные, часто мгновенные и нативные ощущения, по умолчанию используя страницы AMP, когда они доступны."
+
+msgid "You can use CSS to customize your styling, dynamic data to fetch the freshest data where needed, to build the best possible user experience for your customers."
+msgstr "Вы можете использовать CSS для настройки вашего стиля, динамических данных, чтобы получать самые свежие данные там, где это необходимо, для создания наилучшего пользовательского опыта для ваших клиентов."
+
+msgid "The AMP Project is an open source initiative to protect the future of the web helping everyone deliver a better, faster more user-friendly experience."
+msgstr "Проект AMP - это инициатива с открытым исходным кодом, призванная защитить будущее Интернета, помогая каждому предоставить лучший, более быстрый и удобный интерфейс."
+
+msgid "AMP pages load near instantly – across all devices and platforms."
+msgstr "Страницы AMP загружаются практически мгновенно - на всех устройствах и платформах."
+
+msgid "Used by global platforms like Google, Bing and Twitter, AMP allows users a native-feeling experience across all platforms by defaulting to AMP pages when available."
+msgstr "Используемый глобальными платформами, такими как Google, Bing и Twitter, AMP позволяет пользователям чувствовать себя нативно на всех платформах, по умолчанию используя страницы AMP, когда они доступны."
+
+msgid "You can use CSS to customize your styling and dynamic data to fetch the freshest data where needed."
+msgstr "Вы можете использовать CSS для настройки стиля и динамических данных, чтобы получать самые свежие данные, где это необходимо."
+
+msgid "It takes a lot of time and effort to build a great website. AMP components are already optimized for the best performance."
+msgstr "Создание отличного веб-сайта занимает много времени и усилий. Компоненты AMP уже оптимизированы для лучшей производительности."
+
+msgid "The AMP Project is an open source initiative to protect the future of the web by delivering a better, faster and more user-friendly experience."
+msgstr "Проект AMP - это инициатива с открытым исходным кодом для защиты будущего Интернета путем предоставления лучшего, более быстрого и удобного интерфейса."
+
+msgid "Supports analytics and bookend capabilities for viral sharing and monetization."
+msgstr "Поддерживает аналитику и возможности поддержки для вирусного обмена и монетизации."
+
+msgid "AMP stories are lightening fast so that your audience stays engaged and entertained."
+msgstr "Истории AMP быстро освещаются, так что ваша аудитория остается заинтересованной и развлекаемой."
+
+msgid "AMP stories is a new and modern way to reach existing readers."
+msgstr "Истории AMP - новый и современный способ достигнуть существующих читателей."
+
+msgid "AMP Stories enables monetization capability for publishers using full-screen immersive story ads and using affiliate links. For advertisers, Stories is a way to reach a unique audience within a new storytelling experience."
+msgstr "AMP Stories обеспечивает возможность монетизации для издателей, использующих полноэкранные иммерсивные рекламные объявления и партнерские ссылки. Для рекламодателей рассказы - это способ привлечь уникальную аудиторию в рамках нового опыта рассказывания историй."
+
+msgid "AMP stories make the production of stories as easy as possible from a technical perspective."
+msgstr "Истории AMP делают производство историй максимально простым с технической точки зрения."
+
+msgid "The AMP stories format comes with preset but flexible layout templates, standardized UI controls, and components for sharing and adding follow-on content."
+msgstr "Формат историй AMP поставляется с предустановленными, но гибкими шаблонами макетов, стандартизированными элементами управления пользовательского интерфейса и компонентами для совместного использования и добавления последующего контента."
+
+msgid "AMP stories are part of the open web and can be shared and embedded across sites and apps without being confined to a single ecosystem."
+msgstr "Истории AMP являются частью открытого Интернета и могут быть разделены между различными сайтами и приложениями и не привязаны к какой-либо одной экосистеме."
+
+msgid "AMPHTML ads are 6x faster than regular ads on AMP pages, making them more viewable, more effective and more likely to perform well. You can monitor performance and adjust pricing accordingly, and offer the most engaging ad products to optimize your ad placements. In AMP, tweaking your pages to drive higher viewability rate or views is easy for publishers using the ‘data-loading-strategy’ attribute on the `amp-ad` component."
+msgstr "Объявления AMPHTML работают в 6 раз быстрее, чем обычные объявления на страницах AMP, что делает их более удобными для просмотра, более эффективными и более эффективными. Вы можете отслеживать эффективность и корректировать цены соответствующим образом, а также предлагать наиболее привлекательные рекламные продукты для оптимизации своих мест размещения. В AMP издатели легко настраивают свои страницы для повышения скорости просмотра или просмотра, используя атрибут «data-loading-стратегии» в компоненте «amp-ad»."
+
+msgid "In order to engage with your brand and improve the performance of your campaigns, you have to speed things up. AMP ads load on average 5x faster than the non-AMP version, leading to higher conversion rates. Because AMPHTML ads are 3x lighter, the AMP framework guarantees that these ads only behave as intended so users always have a positive experience with your brand."
+msgstr "Чтобы взаимодействовать со своим брендом и повысить эффективность своих кампаний, вам нужно ускорить процесс. AMP-объявления загружаются в среднем в 5 раз быстрее, чем не-AMP, что приводит к более высоким показателям конверсии. Поскольку объявления AMPHTML легче в 3 раза, структура AMP гарантирует, что эти объявления будут работать только так, как задумано, поэтому пользователи всегда будут иметь положительный опыт работы с вашим брендом."
+
+msgid "AMP ads are safe from malware because AMPHTML ads are verified before being served, thus, advertisers can ensure a safe user experience and building trust in the brands users are engaging with. Establish yourself as the adtech platform for the fast web and join the hundreds of technology platforms currently supporting the open source AMP ecosystem."
+msgstr "Объявления AMP защищены от вредоносного ПО, поскольку объявления AMPHTML проверяются перед показом, поэтому рекламодатели могут обеспечить безопасность работы пользователей и завоевать доверие к брендам, с которыми пользователи взаимодействуют. Создайте себя в качестве платформы adtech для быстрого Интернета и присоединитесь к сотням технологических платформ, которые в настоящее время поддерживают экосистему открытого исходного кода AMP."
+
+msgid "As the owner of your AMP websites and ads, no other parties can modify or add things, ensuring you are in control of the user experience and there won’t be any unexpected surprises. AMP ads are part of a user-first ecosystem and function the way a reasonable user would expect them to. Optimized AMP ads don’t drain the battery life of mobile devices, and clicking on them will lead to AMP pages, which are equally as fast and streamlined."
+msgstr "Как владелец ваших сайтов AMP и рекламы, никакие другие стороны не могут изменять или добавлять вещи, гарантируя, что вы контролируете пользовательский опыт и не будет никаких неожиданных сюрпризов. Объявления AMP являются частью первой в своем роде экосистемы и функционируют так, как их ожидал бы разумный пользователь. Оптимизированная реклама AMP не истощает время автономной работы мобильных устройств, и нажатие на них приведет к появлению страниц AMP, которые одинаково быстры и оптимизированы."
+
+msgid "AMP is simple and straightforward and quickly becoming the turnkey solution for building pages. AMP supports both traditional ads, and the faster, more secure AMPHTML ads. Ads on AMP pages are like any external resource and must play within the same constraints placed on all resources in AMP."
+msgstr "AMP прост и понятен и быстро становится готовым решением для создания страниц. AMP поддерживает как традиционные объявления, так и более быстрые и более безопасные объявления AMPHTML. Объявления на страницах AMP похожи на любой внешний ресурс и должны воспроизводиться с теми же ограничениями, которые установлены для всех ресурсов AMP."
+
+msgid "The AMP Project has a vast network of resources for getting started in the Documentation section including great-looking ad templates, demos and examples. AMPHTML ads are flexible and dynamic, allowing for many creative formats like carousel, parallax, and lightbox, to name a few."
+msgstr "Проект AMP имеет обширную сеть ресурсов для начала работы в разделе «Документация», включая великолепные шаблоны объявлений, демонстрации и примеры. Объявления AMPHTML являются гибкими и динамичными, что позволяет использовать многие творческие форматы, такие как карусель, параллакс и лайтбокс."
+
+msgid "AMP for email allows exciting smarter and efficient user engagement, as customers can take action directly within their email such as managing their subscriptions, responding to polls, doodles, and bookings. This is possible because the server retrieves fresh content from remote endpoints, keeping email up to date."
+msgstr "AMP для электронной почты позволяет привлечь более умных и эффективных пользователей, поскольку клиенты могут выполнять действия непосредственно в своей электронной почте, например управлять своими подписками, отвечать на опросы, набрасывать и бронировать. Это возможно, потому что сервер получает свежий контент с удаленных конечных точек, поддерживая актуальность электронной почты."
+
+msgid "AMP Email’s expanding capabilities allows you to take action right inside your Inbox. This includes carousels and accordions, and taking user input on forms and questionnaires."
+msgstr "Расширение возможностей AMP Email позволяет вам действовать прямо в папке «Входящие». Это включает в себя карусели и аккордеоны, а также учет пользовательских данных в формах и анкетах."
+
+msgid "AMP email allows an attractive option for promotional and subscriber-list emails. Through smarter engagement you can improve customer satisfaction through hassle-free feedback and subscription management all within their inbox."
+msgstr "Электронная почта AMP предоставляет привлекательный вариант для рекламных писем и электронных писем подписчиков. Благодаря более эффективному взаимодействию вы можете повысить уровень удовлетворенности клиентов благодаря беспрепятственной обратной связи и управлению подписками."
+
+msgid "Senders can include AMP components inside rich, engaging emails, making them dynamic and interactive. Users can engage with content and quickly take action such as RSVP to events, fill out questionnaires and personalize their content. AMP emails are always up to date and can function like digests, with fewer clicks necessary to achieve efficient results."
+msgstr "Отправители могут включать компоненты AMP в насыщенные, привлекательные электронные письма, делая их динамичными и интерактивными. Пользователи могут взаимодействовать с контентом и быстро выполнять действия, такие как RSVP, на мероприятия, заполнять анкеты и персонализировать свой контент. Электронная почта AMP всегда актуальна и может функционировать как дайджест, с меньшим количеством кликов, необходимых для достижения эффективных результатов."
+
+msgid "AMP for email has no arbitrary 3rd party features to limit security issues, and far surpasses the capabilities currently provided by third party providers. Ad components are not allowed in AMP email, keeping users safe. To maintain users’ expectations of security and privacy, only a conservative subset of AMP functionality will be allowed."
+msgstr "AMP для электронной почты не имеет произвольных сторонних функций для ограничения проблем безопасности и намного превосходит возможности, предоставляемые сторонними поставщиками. Рекламные компоненты не разрешены в электронной почте AMP, обеспечивая безопасность пользователей. Чтобы поддерживать ожидания пользователей в отношении безопасности и конфиденциальности, разрешается использовать только консервативный набор функций AMP."
+
+msgid "Embedding AMP within an email is simple, add a new MIME part with a content type of text/x-amp-html as a descendant of multipart/alternative. It should live alongside the existing text/html or text/plain parts. This ensures that the email message works on all clients."
+msgstr "Встраивать AMP в электронное письмо просто, добавьте новую часть MIME с типом содержимого text / x-amp-html в качестве потомка multipart / alternative. Он должен жить рядом с существующими частями text / html или text / plain. Это гарантирует, что сообщение электронной почты работает на всех клиентах."
+
+msgid "Start sending AMP Emails"
+msgstr "Начните отправлять электронные письма AMP"
+
+msgid "Start creating ads"
+msgstr "Начните создавать объявления"
+
+msgid "Start creating stories"
+msgstr "Начните создавать истории"
+
+msgid "Start creating websites"
+msgstr "Начните создавать сайты"
+
+msgid "Pick one of several editors to start creating ads without any coding involved."
+msgstr "Выберите одного из нескольких редакторов, чтобы начать создавать рекламу без какого-либо кодирования."
+
+msgid "Pick one of several editors to start creating email without any coding involved."
+msgstr "Выберите один из нескольких редакторов, чтобы начать создавать электронную почту без какого-либо кодирования."
+
+msgid "Pick one of several editors to start creating stories without any coding involved."
+msgstr "Выберите одного из нескольких редакторов, чтобы начать создавать истории без какого-либо кодирования."
+
+msgid "Pick one of several editors to start creating websites without any coding involved."
+msgstr "Выберите одного из нескольких редакторов, чтобы начать создавать сайты без какого-либо кодирования."
+
+msgid "WYSIWYG Editor"
+msgstr "WYSIWYG редактор"
+
+msgid "WYSIWYG drag and drop editor with templates, illustrations, icons, and the ability to upload your own images and videos."
+msgstr "Редактор перетаскивания WYSIWYG с шаблонами, иллюстрациями, значками и возможностью загрузки собственных изображений и видео."
+
+msgid "Newsroom Studio helps you create engaging, instant loading mobile experiences."
+msgstr "Newsroom Studio поможет вам создавать привлекательные, мгновенно загружаемые мобильные приложения."
+
+msgid "Discover all tools"
+msgstr "Откройте для себя все инструменты"
+
+msgid "Send emails"
+msgstr "Отправить письма"
+
+msgid "AMP<br> Email"
+msgstr "AMP <br> Электронная почта"
+
+msgid "A whole new world of possibilities for content engagement"
+msgstr "Совершенно новый мир возможностей для привлечения контента"
+
+msgid "AMP for email allows senders to include AMP components inside rich engaging emails, making modern app functionality available within email. The AMP email format provides a subset of AMPHTML components for use in email messages, that allows recipients of AMP emails to interact dynamically with content directly in the message."
+msgstr "AMP для электронной почты позволяет отправителям включать компоненты AMP в насыщенные привлекательные электронные письма, делая современные функциональные возможности приложений доступными в электронной почте. Формат электронной почты AMP предоставляет подмножество компонентов AMPHTML для использования в сообщениях электронной почты, что позволяет получателям электронной почты AMP динамически взаимодействовать с содержимым непосредственно в сообщении."
+
+msgid "More than 270 billion emails are sent every day, it is the pillar of many consumer and enterprise workflows. However the content that is sent in an email message is still limited – messages are static, can become out of date, and are not actionable without opening a browser. AMP email seeks to enhance and modernize the email experience through added support for dynamic content and interactivity while keeping users safe."
+msgstr "Ежедневно отправляется более 270 миллиардов электронных писем, это столп многих рабочих и потребительских процессов. Однако содержимое, которое отправляется в сообщении электронной почты, все еще ограничено - сообщения являются статическими, могут устареть и не могут быть выполнены без открытия браузера. Электронная почта AMP стремится улучшить и модернизировать работу с электронной почтой посредством дополнительной поддержки динамического контента и интерактивности, сохраняя при этом безопасность пользователей."
+
+msgid "It’s the biggest thing happening to email since the creation of email."
+msgstr "Это самая большая вещь, происходящая с электронной почтой с момента ее создания."
+
+msgid "Antony Malone, Senior Product Owner Direct Marketing at Booking.com"
+msgstr "Энтони Мэлоун, старший владелец продукта Direct Marketing на Booking.com"
+
+msgid "Modern app functionality for email"
+msgstr "Современная функциональность приложения для электронной почты"
+
+msgid "Modernize email with the power of AMP"
+msgstr "Модернизируйте электронную почту с помощью AMP"
+
+msgid "AMP email is an expansion of the already existing blazingly fast and high-performing AMP project.   Expand your business through unprecedented features."
+msgstr "Электронная почта AMP - это расширение уже существующего невероятно быстрого и высокоэффективного проекта AMP. Расширьте свой бизнес с помощью беспрецедентных возможностей."
+
+msgid "Supported Email Clients"
+msgstr "Поддерживаемые почтовые клиенты"
+
+msgid "These email clients currently support receiving AMP Emails"
+msgstr "Эти почтовые клиенты в настоящее время поддерживают получение электронных писем AMP"
+
+msgid "Read on about AMP email"
+msgstr "Продолжайте читать об электронной почте AMP"
+
+msgid "The benefits of AMP email"
+msgstr "Преимущества электронной почты AMP"
+
+msgid "AMP for advertisers"
+msgstr "AMP для рекламодателей"
+
+msgid "Grow engagement and increase conversions with faster experiences"
+msgstr "Повышайте вовлеченность и повышайте конверсию с более быстрым опытом"
+
+msgid "The average mobile site takes 19 seconds to load over a 3G connection. Coupled with the fact that conversions fall by 12% for every additional second a webpage takes to load, you can safely assume two things: speed equals performance, and most advertiser campaigns have room to improve. That’s where you come in. As an SSP, DSP, analytics provider, or anything in between, embracing speed means improving campaign performance, delivering quality user experiences, and establishing yourself as the adtech platform for the fast web. Join the hundreds of technology platforms currently supporting the open source AMP ecosystem. "
+msgstr "Средний мобильный сайт загружается через 3G-соединение за 19 секунд. В сочетании с тем фактом, что конверсия падает на 12% за каждую дополнительную секунду, которую веб-страница загружает, вы можете смело предположить две вещи: скорость равна эффективности, и у большинства кампаний рекламодателей есть место для улучшения. Вот где вы вступаете. Как провайдер SSP, DSP, аналитик или что-то среднее между ними, стремление к скорости означает повышение эффективности кампании, предоставление качественного пользовательского опыта и создание себя в качестве платформы adtech для быстрого Интернета. Присоединяйтесь к сотням технологических платформ, в настоящее время поддерживающих экосистему AMP с открытым исходным кодом."
+
+msgid "AMP offers a way for you to give users a faster experience everywhere: on ads, landing pages or on your entire website. AMP ads help users engage with your brand and improve the performance of your campaigns. When your target audience lands on an AMP page, they get what they’re looking for in the moment they’re looking for it. The net result – they’re more likely to be engaged with and receptive to your brand’s messages, and more likely to take the actions you’re guiding them towards like completing a purchase."
+msgstr ""
+
+
+msgid "Allows the creation of rich, eye-catching marketing content with Adobe Animate."
+msgstr "Позволяет создавать богатый, привлекательный маркетинговый контент с помощью Adobe Animate."
+
+msgid "Create AMPHTML-valid and ready to be published individual designs or full sets of static or animated marketing visuals, within minutes."
+msgstr "Создавайте AMPHTML-валидные и готовые к публикации отдельные проекты или полные наборы статических или анимированных маркетинговых визуалов за считанные минуты."
+
+msgid "Online AMPHTML banner maker which allows you to easily create AMP ads without prior coding knowledge."
+msgstr "Онлайновый производитель баннеров AMPHTML, который позволяет легко создавать объявления AMP без предварительного знания кода."
+
+msgid "Google Web Designer"
+msgstr "Google Web Designer"
+
+msgid "Create engaging, interactive AMPHTML Ad compliant designs and motion graphics that can run on any device."
+msgstr "Создавайте привлекательные интерактивные дизайны и анимацию, совместимые с AMPHTML, которые могут работать на любом устройстве."
+
+msgid "Increase in revenue"
+msgstr "Увеличение выручки"
+
+msgid "Triplelift and Cloudflare boost Time Inc.’s revenue with AMP Ads"
+msgstr "Triplelift и Cloudflare повышают доход Time Inc. с помощью AMP Ads"
+
+msgid "Increase in average clickthrough rate"
+msgstr "Увеличение среднего рейтинга кликов"
+
+msgid "Teads brings AMP'd mobile video inventory to nearly 100 publishers"
+msgstr "Teads приносит инвентаризацию мобильного видео AMP почти 100 издателям"
+
+msgid "Increase in ad load speed"
+msgstr "Увеличение скорости загрузки рекламы"
+
+#: pages/content/amp-dev/about/how-amp-works.html:18
+msgid "How AMP works"
+msgstr "Как работает AMP"
+
+#: pages/content/amp-dev/about/how-amp-works.html:19
+msgid "The following optimizations combined are the reason AMP pages are so fast they appear to load instantly. There are 7 reasons in total - but if that’s still too much to read, simply watch the explainer video:"
+msgstr "Следующие оптимизации в сочетании являются причиной того, что страницы AMP настолько быстры, что, кажется, загружаются мгновенно. Всего есть 7 причин, но если это все еще слишком много для чтения, просто посмотрите видео с объяснением:"
+
+#: pages/content/amp-dev/about/how-amp-works.html:29
+msgid "Execute all AMP JavaScript asynchronously"
+msgstr "Выполнить все AMP JavaScript асинхронно"
+
+#: pages/content/amp-dev/about/how-amp-works.html:31
+msgid "AMP components may have JavaScript under the hood, but they’re carefully designed to make sure they don’t cause performance degradation. "
+msgstr "Компоненты AMP могут иметь JavaScript под капотом, но они тщательно разработаны, чтобы убедиться, что они не вызывают снижение производительности."
+
+#: pages/content/amp-dev/about/how-amp-works.html:32
+msgid "While custom JS is allowed in <a href=\"../documentation/components/reference/amp-script.md\"><code>amp-script</code></a>, and third-party JS is allowed in iframes, it cannot block rendering. For example, if third-party JS uses the <a href=\"http://www.stevesouders.com/blog/2012/04/10/dont-docwrite-scripts/\">super-bad-for-performance <code>document.write</code> API</a>, it does not block rendering the main page."
+msgstr "В то время как пользовательский JS разрешен в <a href = \"
+
+#: pages/content/amp-dev/about/how-amp-works.html:36
+msgid "Size all resources statically"
+msgstr "Размер всех ресурсов статически"
+
+#: pages/content/amp-dev/about/how-amp-works.html:37
+msgid "External resources such as images, ads or iframes must state their size in the HTML so that AMP can determine each element’s size and position before resources are downloaded. AMP loads the layout of the page without waiting for any resources to download. "
+msgstr "Внешние ресурсы, такие как изображения, реклама или iframes, должны указывать свой размер в HTML, чтобы AMP мог определять размер и положение каждого элемента до загрузки ресурсов. AMP загружает макет страницы, не дожидаясь загрузки ресурсов."
+
+#: pages/content/amp-dev/about/how-amp-works.html:42
+msgid "Don’t let extension mechanisms block rendering"
+msgstr "Не позволяйте механизмам расширения блокировать рендеринг"
+
+#: pages/content/amp-dev/about/how-amp-works.html:43
+msgid "AMP doesn’t let extension mechanisms block page rendering. AMP supports extensions for things like <a href=\"../documentation/components/reference/amp-lightbox.md\">lightboxes</a>, <a href=\"../documentation/components/reference/amp-instagram.md\">instagram embeds</a>, <a href=\"../documentation/components/reference/amp-twitter.md\">tweets</a>, etc. While these require additional HTTP requests, those requests do not block page layout and rendering."
+msgstr "AMP не позволяет механизмам расширения блокировать рендеринг страниц. AMP поддерживает расширения для таких вещей, как <a href = \"
+
+#: pages/content/amp-dev/about/how-amp-works.html:53
+msgid "Keep all third-party JavaScript out of the critical path"
+msgstr "Держите сторонний JavaScript вне критического пути"
+
+#: pages/content/amp-dev/about/how-amp-works.html:54
+msgid "Third-party JS likes to use synchronous JS loading. They also like to <code>document.write</code> more sync scripts. For example, if you have five ads on your page, and each of them cause three synchronous loads, each with a 1 second latency connection, you’re in 15 seconds of load time just for JS loading."
+msgstr "Сторонняя JS любит использовать синхронную загрузку JS. Им также нравится <code> document.write </ code> больше скриптов синхронизации. Например, если у вас на странице пять объявлений, и каждая из них вызывает три синхронные загрузки, каждая с подключением с задержкой в 1 секунду, у вас есть 15 секунд времени загрузки только для загрузки JS."
+
+#: pages/content/amp-dev/about/how-amp-works.html:55
+msgid "AMP pages allow third-party JavaScript but only in sandboxed iframes. By restricting them to iframes, they can’t block the execution of the main page. Even if they trigger multiple style re-calculations, their tiny iframes have very little DOM. "
+msgstr "Страницы AMP допускают сторонний JavaScript, но только в изолированных фреймах. Ограничивая их фреймами, они не могут блокировать выполнение главной страницы. Даже если они запускают пересчеты нескольких стилей, у их крошечных фреймов очень мало DOM."
+
+#: pages/content/amp-dev/about/how-amp-works.html:56
+msgid "The time it takes to do style-recalculations and layouts are restricted by DOM size, so the iframe recalculations are very fast compared to recalculating styles and layout for the page."
+msgstr "Время, необходимое для пересчета стилей и макетов, ограничено размером DOM, поэтому пересчеты iframe выполняются очень быстро по сравнению с перерасчетом стилей и макета страницы."
+
+#: pages/content/amp-dev/about/how-amp-works.html:60
+msgid "All CSS must be inline and size-bound"
+msgstr "Весь CSS должен быть встроенным и привязанным к размеру"
+
+#: pages/content/amp-dev/about/how-amp-works.html:61
+msgid "CSS blocks all rendering, it blocks page load, and it tends to get bloated. In AMP HTML pages, only inline styles are allowed. This removes 1 or often more HTTP requests from the critical rendering path compared to most web pages. "
+msgstr "CSS блокирует весь рендеринг, он блокирует загрузку страницы и имеет тенденцию быть раздутым. На HTML-страницах AMP допускаются только встроенные стили. Это удаляет 1 или часто больше запросов HTTP из критического пути рендеринга по сравнению с большинством веб-страниц."
+
+#: pages/content/amp-dev/about/how-amp-works.html:62
+msgid "Also, the inline style sheet has a maximum size of 50 kilobytes. While this size is big enough for very sophisticated pages, it still requires the page author to practice good CSS hygiene."
+msgstr "Кроме того, встроенная таблица стилей имеет максимальный размер 50 килобайт. Хотя этот размер достаточно велик для очень сложных страниц, он все же требует от автора страницы соблюдения правил гигиены CSS."
+
+#: pages/content/amp-dev/about/how-amp-works.html:66
+msgid "Font triggering must be efficient"
+msgstr "Запуск шрифта должен быть эффективным"
+
+#: pages/content/amp-dev/about/how-amp-works.html:67
+msgid "Web fonts are super large, so <a href=\"https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization\">web font optimization</a> is crucial to performance. On a typical page that has a few sync scripts and a few external style sheets, the browser waits and waits to start downloading these huge fonts until all this happens."
+msgstr "Веб-шрифты очень большие, поэтому <a href = \"
+
+#: pages/content/amp-dev/about/how-amp-works.html:68
+msgid "The AMP system declares zero HTTP requests until fonts start downloading. This is only possible because all JS in AMP has the async attribute and only inline style sheets are allowed; there’s no HTTP requests blocking the browser from downloading fonts."
+msgstr "Система AMP объявляет нулевые HTTP-запросы до начала загрузки шрифтов. Это возможно только потому, что все JS в AMP имеют атрибут async и разрешены только встроенные таблицы стилей; нет никаких HTTP-запросов, блокирующих браузер от загрузки шрифтов."
+
+#: pages/content/amp-dev/about/how-amp-works.html:72
+msgid "Minimize style recalculations"
+msgstr "Минимизировать стиль пересчетов"
+
+#: pages/content/amp-dev/about/how-amp-works.html:73
+msgid "Each time you measure something, it triggers style recalculations which are expensive because the browser has to layout the entire page. In AMP pages, all DOM reads happen first before all the writes. This ensures there’s the max of one recalc of styles per frame. "
+msgstr "Каждый раз, когда вы что-то измеряете, он запускает пересчеты стилей, которые стоят дорого, потому что браузер должен макетировать всю страницу. На страницах AMP все чтения DOM выполняются в первую очередь, прежде чем все записи. Это гарантирует, что в каждом кадре может быть максимум один пересчет стилей."
+
+#: pages/content/amp-dev/about/how-amp-works.html:74
+msgid "Learn more about impact of style and layout recalculations on <a href=\"https://developers.google.com/web/fundamentals/performance/rendering/\">rendering performance</a>."
+msgstr "Узнайте больше о влиянии пересчета стиля и макета на <a href = \"
+
+#: pages/content/amp-dev/about/how-amp-works.html:78
+msgid "Only run GPU-accelerated animations"
+msgstr "Запускайте анимацию только на GPU"
+
+#: pages/content/amp-dev/about/how-amp-works.html:79
+msgid "The only way to have fast optimizations is to run them on the GPU. GPU knows about layers, it knows how to perform some things on these layers, it can move them, it can fade them, but it can’t update the page layout; it will hand that task over to the browser, and that’s not good."
+msgstr "Единственный способ быстрой оптимизации - запустить их на графическом процессоре. Графический процессор знает о слоях, он знает, как выполнять некоторые действия на этих слоях, он может перемещать их, он может исчезать, но не может обновлять макет страницы; он передаст эту задачу браузеру, и это нехорошо."
+
+#: pages/content/amp-dev/about/how-amp-works.html:80
+msgid "The rules for animation-related CSS ensure that animations can be GPU-accelerated. Specifically, AMP only allows animating and transitioning on transform and opacity so that page layout isn’t required. Learn more about <a href=\"https://developers.google.com/web/fundamentals/performance/rendering/stick-to-compositor-only-properties-and-manage-layer-count\">using transform and opacity for animation changes</a>."
+msgstr "Правила для CSS, относящегося к анимации, гарантируют, что анимация может быть ускорена графическим процессором. В частности, AMP позволяет анимировать и переходить только при преобразовании и непрозрачности, поэтому макет страницы не требуется. Узнайте больше о <a href = \"
+
+#: pages/content/amp-dev/about/how-amp-works.html:84
+msgid "Prioritize resource loading"
+msgstr "Приоритет загрузки ресурсов"
+
+#: pages/content/amp-dev/about/how-amp-works.html:85
+msgid "AMP controls all resource downloads: it prioritizes resource loading, loading only what’s needed, and prefetches lazy-loaded resources."
+msgstr "AMP контролирует все загрузки ресурсов: он определяет приоритет загрузки ресурсов, загружает только то, что нужно, и предварительно выбирает загруженные ресурсы."
+
+#: pages/content/amp-dev/about/how-amp-works.html:86
+msgid "When AMP downloads resources, it optimizes downloads so that the currently most important resources are downloaded first. Images and ads are only downloaded if they are likely to be seen by the user, above the fold, or if the user is likely to quickly scroll to them."
+msgstr "Когда AMP загружает ресурсы, он оптимизирует загрузку, так что наиболее важные на данный момент ресурсы загружаются первыми. Изображения и рекламные объявления загружаются только в том случае, если они могут быть просмотрены пользователем выше сгиба или если пользователь может быстро прокрутить их."
+
+#: pages/content/amp-dev/about/how-amp-works.html:87
+msgid "AMP also prefetches lazy-loaded resources. Resources are loaded as late as possible, but prefetched as early as possible. That way things load very fast but CPU is only used when resources are actually shown to users."
+msgstr "AMP также предварительно загружает лениво загруженные ресурсы. Ресурсы загружаются как можно позже, но предварительно загружаются как можно раньше. Таким образом, вещи загружаются очень быстро, но процессор используется только тогда, когда ресурсы фактически показываются пользователям."
+
+#: pages/content/amp-dev/about/how-amp-works.html:91
+msgid "Load pages in an instant"
+msgstr "Загрузка страниц в одно мгновение"
+
+#: pages/content/amp-dev/about/how-amp-works.html:92
+msgid "The new <a href=\"http://www.w3.org/TR/resource-hints/#dfn-preconnect\">preconnect API</a> is used heavily to ensure HTTP requests are as fast as possible when they are made. With this, a page can be rendered before the user explicitly states they’d like to navigate to it; the page might already be available by the time the user actually selects it, leading to instant loading."
+msgstr "Новый <a href = \"
+
+#: pages/content/amp-dev/about/how-amp-works.html:93
+msgid "While prerendering can be applied to all web content, it can also use up a lot of bandwidth and CPU. AMP is optimized to reduce both of these factors. Prerendering only downloads resources above the fold and prerendering doesn’t render things that might be expensive in terms of CPU."
+msgstr "Хотя предварительный рендеринг может быть применен ко всему веб-контенту, он также может потреблять большую пропускную способность и центральный процессор. AMP оптимизирован для уменьшения обоих этих факторов. Предварительный рендеринг загружает только ресурсы выше сгиба, а предварительный рендеринг не рендерит вещи, которые могут быть дорогими с точки зрения использования процессора."
+
+#: pages/content/amp-dev/about/how-amp-works.html:95
+msgid "Learn more about <a href=\"https://medium.com/@cramforce/why-amp-html-does-not-take-full-advantage-of-the-preload-scanner-7e7f788aa94e\">why AMP HTML doesn’t take full advantage of the preload scanner</a>."
+msgstr "Узнайте больше о <a href = \"
+
+#: pages/content/amp-dev/index.html:370
+msgid "Developer Benefits"
+msgstr "Преимущества для разработчиков"
+
+#: pages/content/amp-dev/about/ads.html:250
+msgid "Regular Ad"
+msgstr "Обычная реклама"
+
+msgid "JavaScript is powerful, it can modify just about every aspect of the page, but it can also block DOM construction and delay page rendering (see also <a href=\"https://developers.google.com/web/fundamentals/performance/critical-rendering-path/adding-interactivity-with-javascript\">Adding interactivity with JavaScript</a>). To keep JavaScript from delaying page rendering, AMP allows only asynchronous JavaScript."
+msgstr "JavaScript мощный, он может изменять почти каждый аспект страницы, но он также может блокировать построение DOM и задерживать рендеринг страницы (см. Также <a href = \"
+
+msgid "AMP uncouples document layout from resource layout. Only one HTTP request is needed to layout the entire doc (<a href=\"#font-triggering-must-be-efficient\">+fonts</a>). Since AMP is optimized to avoid expensive style recalculations and layouts in the browser, there won’t be any re-layout when resources load."
+msgstr "AMP отсоединяет макет документа от макета ресурса. Только один HTTP-запрос необходим для размещения всего документа (<a href = \"
+
+msgid "Any page that uses a custom script must tell the AMP system that it will eventually have a custom tag. For example, the <a href=\"../documentation/components/reference/amp-iframe.md\"><code>amp-iframe</code></a> script tells the system that there will be an <code>amp-iframe</code> tag. AMP creates the iframe box before it even knows what it will include:"
+msgstr "Любая страница, которая использует собственный сценарий, должна сообщить системе AMP, что в конечном итоге она будет иметь собственный тег. Например, <a href = \"
+
+msgid "AMP controls all resource downloads: it prioritizes resource loading, loading only what’s needed, and prefetches lazy-loaded resources."
+msgstr ""
+
+msgid "When AMP documents get prerendered for instant loading, only resources above the fold are actually downloaded. When AMP documents get prerendered for instant loading, resources that might use a lot of CPU (like third-party iframes) do not get downloaded."
+msgstr "Когда документы AMP подготавливаются для мгновенной загрузки, фактически загружаются только ресурсы, расположенные выше сгиба. Когда документы AMP подготавливаются для мгновенной загрузки, ресурсы, которые могут использовать много ресурсов ЦП (например, сторонние фреймы), не загружаются."
+
+msgid "Vision & Mission"
+msgstr "Видение и Миссия"
+
+msgid "Our vision is our north star we use to orient ourselves, and our mission describes the way we move into the direction of it."
+msgstr "Наше видение - это наша северная звезда, которую мы используем, чтобы ориентироваться, и наша миссия описывает то, как мы движемся в этом направлении."
+
+msgid "Vision"
+msgstr "видение"
+
+msgid "Mission"
+msgstr "миссия"
+
+msgid "A strong, user-first open web forever."
+msgstr "Сильный, открытый в первый раз пользователь навсегда."
+
+msgid "Provide a user-first format for web content, supporting the long-term success of every web publisher, merchant, and advertiser."
+msgstr "Предоставьте пользовательский формат для веб-контента, обеспечивающий долгосрочный успех каждого веб-издателя, продавца и рекламодателя."
+
+msgid "Design Principles"
+msgstr "Принципы дизайна"
+
+msgid "These design principles are meant to guide the ongoing design and development of AMP. They should help us make internally consistent decisions."
+msgstr "Эти принципы проектирования предназначены для руководства текущим проектированием и разработкой AMP. Они должны помочь нам принять внутренне согласованные решения."
+
+msgid "User Experience > Developer Experience > Ease of Implementation."
+msgstr "Опыт пользователя> Опыт разработчика> Простота реализации."
+
+msgid "When in doubt, do what’s best for the end user experience, even if it means that it’s harder for the page creator to build or for the library developer to implement."
+msgstr "Если есть сомнения, делайте то, что лучше для конечного пользователя, даже если это означает, что создателю страницы сложнее создать или реализовать разработчику библиотеки."
+
+msgid "Don’t design for a hypothetical faster future browser."
+msgstr "Не проектируйте для гипотетического более быстрого будущего браузера"
+
+msgid "We’ve chosen to build AMP as a library in the spirit of the <a href=\"https://github.com/extensibleweb/manifesto/blob/master/README.md\">EXTENSIBLE WEB MANIFESTO</a> to be able to fix the web of today, not the web of tomorrow. AMP should be fast in today’s browsers. When certain optimizations aren’t possible with today’s platform, AMP developers should participate in standards development to get these added to the web platform.</span>"
+msgstr "Мы решили построить AMP в качестве библиотеки в духе <a href = \"
+
+msgid "Don’t break the web."
+msgstr "Не ломай сеть."
+
+msgid "Ensure that if AMP has outages or problems it doesn’t hurt the rest of the web. That means if the Google AMP Cache, the URL API or the library fails it should be possible for websites to gracefully degrade. If something works with an AMP cache it should also work without a cache."
+msgstr "Убедитесь, что если у AMP есть перебои или проблемы, это не повредит остальной части сети. Это означает, что если Google AMP Cache, URL API или библиотека не будут работать, у веб-сайтов должна быть возможность изящного ухудшения качества. Если что-то работает с кешем AMP, оно также должно работать без кеша."
+
+msgid "Solve problems on the right layer."
+msgstr "Решите проблемы на правильном слое."
+
+msgid "E.g. don’t integrate things on the client side, just because that is easier, when the user experience would be better with a server side integration."
+msgstr "Например. не интегрируйте вещи на стороне клиента, просто потому, что это проще, когда взаимодействие с пользователем будет лучше при интеграции на стороне сервера."
+
+msgid "Only do things if they can be made fast."
+msgstr "Делайте вещи только тогда, когда они могут быть сделаны быстро."
+
+msgid "Don’t introduce components or features to AMP that can’t reliably run at 60fps or hinder the instant load experience on today’s most common mobile devices."
+msgstr "Не вводите в AMP компоненты или функции, которые не могут надежно работать со скоростью 60 кадров в секунду или мешают мгновенной загрузке на самых распространенных современных мобильных устройствах."
+
+msgid "Prioritise things that improve the user experience – but compromise when needed."
+msgstr "Приоритетные вещи, которые улучшают пользовательский опыт - но компромисс при необходимости."
+
+msgid "Some things can be made fast and are still a terrible user experience. AMPs should deliver a fantastic user experience and speed is just one part of that. Only compromise when lack of support for something would stop AMP from being widely used and deployed."
+msgstr "Некоторые вещи могут быть сделаны быстро и все еще ужасный пользовательский опыт. AMP должны обеспечивать фантастический пользовательский опыт, и скорость - это только часть этого. Только компромисс, когда отсутствие поддержки чего-либо может помешать широкому использованию и развертыванию AMP."
+
+msgid "No whitelists."
+msgstr "Нет белых списков."
+
+msgid "We won’t give any special treatment to specific sites, domains or origins except where needed for security or performance reasons."
+msgstr "Мы не будем предоставлять какой-либо особый подход к конкретным сайтам, доменам или источникам, кроме случаев, когда это необходимо по соображениям безопасности или производительности."
+
+msgid "Discover more..."
+msgstr "Открой для себя больше..."
+
+msgid "Create your first AMP page"
+msgstr "Создайте свою первую страницу AMP"
+
+msgid "Not sure how to get started? In this tutorial, you’ll learn how to create a basic AMP HTML page, how to stage it and validate that it’s AMP compliant, and finally ..."
+msgstr "Не знаете, как начать? В этом руководстве вы узнаете, как создать базовую HTML-страницу AMP, как ее организовать и проверить, что она соответствует AMP, и, наконец, ..."
+
+msgid "In this tutorial, you'll learn how to use data binding and expressions to build awesome, interactive AMP pages with amp-bind ..."
+msgstr "Из этого руководства вы узнаете, как использовать привязку данных и выражения для создания удивительных интерактивных страниц AMP с помощью amp-bind ..."
+
+msgid "Styling and layout on AMP HTML pages is very similar to normal HTML pages – in both cases, you'll use CSS."
+msgstr "Стили и макет на страницах AMP HTML очень похожи на обычные страницы HTML - в обоих случаях вы будете использовать CSS."
+
+msgid "Get Started with Tutorials"
+msgstr "Начните с учебников"
+
+msgid "AMP Websites"
+msgstr "Сайты AMP"
+
+msgid "AMP Email"
+msgstr "AMP Email"
+
+msgid "advertisers"
+msgstr "рекламодатели"
+
+msgid "publishers"
+msgstr "издатели"
+
+msgid "e-commerce"
+msgstr "электронная коммерция"
+
+msgid "nonprofit"
+msgstr "некоммерческий"
+
+msgid "social-media"
+msgstr "социальные медиа"
+
+msgid "Magazine article"
+msgstr "Статья в журнале"
+
+msgid "Breaking the status quo"
+msgstr "Нарушая статус-кво"
+
+msgid "This example of magazine article demonstrates how to build an immersive reading experience by adding animations that enhance the written content on the page."
+msgstr "Этот пример журнальной статьи демонстрирует, как создать захватывающий опыт чтения, добавляя анимацию, которая улучшает написанное на странице."
+
+msgid "<code>amp-position-observer</code> in combination with <code>amp-animation</code> allows a smooth \"scrolly-telling\" experience with minimal effort and without any custom JavaScript."
+msgstr "<code> amp-position-наблюдатель </ code> в сочетании с <code> amp-animation </ code> позволяет плавно \"
+
+msgid "Experience Demo"
+msgstr "Демонстрация опыта"
+
+msgid "Band page"
+msgstr "Страница группы"
+
+msgid "Always thought that all AMP pages look the same? Checkout this incredible band website featuring various AMP components to create a vivid and enjoyable experience."
+msgstr "Всегда думал, что все страницы AMP выглядят одинаково? Посетите этот невероятный веб-сайт с различными компонентами AMP, чтобы создать яркий и приятный опыт."
+
+msgid "The use of <code>amp-sidebar</code> gives you the same feeling as if you are in a single page app."
+msgstr "Использование <code> amp-sidebar </ code> дает вам такое же ощущение, как будто вы находитесь в одностраничном приложении."
+
+msgid "E-Commerce"
+msgstr "Электронная коммерция"
+
+msgid "AMP shines for content pages. But it can also power e-commerce experiences."
+msgstr "AMP светит для контента страниц. Но это также может способствовать развитию электронной коммерции."
+
+msgid "To learn more, we built a simple yet fully functional e-commerce site of our very own! Check out the site, and look at the code to learn about the best practices we discovered to build a great interactive experience on your domain and on AMP caches alike."
+msgstr "Чтобы узнать больше, мы создали собственный, но полностью функциональный сайт электронной коммерции! Посетите сайт и ознакомьтесь с кодом, чтобы узнать о лучших практиках, которые мы обнаружили, чтобы создать отличный интерактивный интерфейс для вашего домена и для кэшей AMP."
+
+msgid "See on GitHub"
+msgstr "Смотрите на GitHub"
+
+msgid "Here we feature interesting and outstanding pages that have been published using AMP. We kindly invite you to look through them to see what AMP is capable of."
+msgstr "Здесь мы показываем интересные и выдающиеся страницы, которые были опубликованы с использованием AMP. Мы приглашаем вас просмотреть их, чтобы увидеть, на что способен AMP."
+
+msgid "Musement’s mobile-first design helps users navigate 70% faster"
+msgstr "Мобильный дизайн Musement помогает пользователям перемещаться на 70% быстрее"
+
+msgid "To provide their blog content in a more attractive format, Ameba launched their article landing pages as AMP Stories"
+msgstr "Чтобы обеспечить содержание своего блога в более привлекательном формате, Ameba запустила свои целевые страницы статей под названием AMP Stories."
+
+msgid "Complex Networks drives a 3x revenue increase with AMP"
+msgstr "Сложные сети обеспечивают трехкратное увеличение дохода с помощью AMP"
+
+msgid "AARP increases mobile conversion rate by 15% with AMP"
+msgstr "AARP увеличивает коэффициент конверсии мобильной связи на 15% с помощью AMP"
+
+msgid "KG Media’s AMP optimizations results"
+msgstr "Результаты оптимизации AMP KG Media"
+
+msgid "Asahi.com uses a paired AMP approach for their free articles"
+msgstr "Asahi.com использует парный подход AMP для своих бесплатных статей"
+
+msgid "RCS MediaGroup reports good news with AMP and PWA"
+msgstr "RCS MediaGroup сообщает хорошие новости с AMP и PWA"
+
+msgid "Advance Create boosting ads landing pages with AMP"
+msgstr "Заранее создавайте целевые рекламные страницы с помощью AMP"
+
+msgid "Times of India reports 1.5X more revenue yields, 3.6X faster load time with AMP"
+msgstr "Times of India сообщает об увеличении выручки в 1,5 раза, а AMP - в 3,6 раза быстрее"
+
+msgid "greenslips.com.au boosts conversions by 12-15%, mobile speed by 15% with AMP"
+msgstr "greenslips.com.au повышает конверсию на 12-15%, мобильную скорость на 15% с AMP"
+
+msgid "Tokopedia boosts mobile performance with AMP and PWA"
+msgstr "Tokopedia повышает мобильную производительность с AMP и PWA"
+
+msgid "Readwhere provides seamless mobile content via AMP and PWA"
+msgstr "Readwhere предоставляет цельный мобильный контент через AMP и PWA"
+
+msgid "DiscoverCarHire.com drives conversions with faster mobile page load times via AMP"
+msgstr "DiscoverCarHire.com обеспечивает конверсию с более быстрым временем загрузки мобильных страниц через AMP"
+
+msgid "Jagran New Media boosts traffic by 115% and revenue by 4.5X by expanding AMP strategy"
+msgstr "Jagran New Media увеличивает трафик на 115% и доход в 4,5 раза за счет расширения стратегии AMP"
+
+msgid "Renovation Brands improves speed and site duration with AMP"
+msgstr "Renovation Brands улучшает скорость и продолжительность сайта с AMP"
+
+msgid "Metromile lowers costs, reaches more potential customers with AMP"
+msgstr "Metromile снижает затраты, достигает большего количества потенциальных клиентов с AMP"
+
+msgid "Carved increases conversion rate by 75% with AMP and PWA"
+msgstr "Резьба увеличивает конверсию на 75% с AMP и PWA"
+
+msgid "TransUnion scores more conversions with faster page loads via AMP"
+msgstr "TransUnion получает больше конверсий благодаря более быстрой загрузке страниц через AMP"
+
+msgid "The story of the all-new BMW.com"
+msgstr "История совершенно нового BMW.com"
+
+msgid "Innkeeper’s Advantage helps B&Bs book guests quicker with AMP"
+msgstr "Innkeeper's Advantage помогает B & B быстрее бронировать гостей с помощью AMP"
+
+msgid "Grupo Expansión boosts monetization with AMP"
+msgstr "Grupo Expansión повышает монетизацию с AMP"
+
+msgid "Merchology increases conversions, lowers load times with AMP"
+msgstr "Merchology увеличивает конверсию, уменьшает время загрузки с AMP"
+
+msgid "Eski.mobi serves businesses going mobile with AMP"
+msgstr "Eski.mobi обслуживает предприятия, которые становятся мобильными с AMP"
+
+msgid "Faster page loads with AMP deliver truckloads of new drivers to U.S. Xpress"
+msgstr "Более быстрая загрузка страниц с AMP доставляет новые автомобили водителям в США. Xpress"
+
+msgid "Event Tickets Center significantly boosts conversions with AMP"
+msgstr "Event Tickets Center значительно повышает конверсию с AMP"
+
+msgid "ConsumersAdvocate.org boosts site performance with AMP"
+msgstr "ConsumersAdvocate.org повышает производительность сайта с помощью AMP"
+
+msgid "Fastcommerce drives conversions for clients by building AMP-first"
+msgstr "Fastcommerce запускает конверсии для клиентов, создавая AMP-сначала"
+
+msgid "Leading French organic retailer doubles mobile conversions with AMP"
+msgstr "Ведущий французский розничный торговец органическими продуктами с AMP удваивает мобильную конверсию"
+
+msgid "CNBC sees mobile speed and engagement gains with AMP"
+msgstr "CNBC видит мобильную скорость и взаимодействие с AMP"
+
+msgid "Wego.com increases mobile conversion rates 95% with AMP"
+msgstr "Wego.com увеличивает мобильную конверсию на 95% с AMP"
+
+msgid "India’s leading rental site improved owner-to-renter connections by 77% with AMP"
+msgstr "Ведущий в Индии сайт аренды улучшил связь между собственниками и арендаторами на 77% благодаря AMP"
+
+msgid "WompMobile consistently improves e-commerce clients’ conversion rates with AMP sites"
+msgstr "WompMobile постоянно улучшает показатели конверсии клиентов электронной коммерции на сайтах AMP"
+
+msgid "Terra drives mobile viewership up with AMP"
+msgstr "Terra стимулирует мобильную аудиторию с помощью AMP"
+
+msgid "Milestone drives conversions with AMP pages for local hospitality site"
+msgstr "Milestone запускает конверсии с помощью страниц AMP для местного сайта гостеприимства"
+
+msgid "Hearst integrates key partner and product solutions on AMP"
+msgstr "Hearst интегрирует ключевые решения для партнеров и продуктов на AMP"
+
+msgid "Wired AMP’s its 20+ year archive to meet audiences online"
+msgstr "Wired AMP более чем 20-летний архив, чтобы встретить аудиторию онлайн"
+
+msgid "Slate gets efficient with AMP"
+msgstr "Шифер становится эффективным с AMP"
+
+msgid "Relay Media helps publishers get AMP’d"
+msgstr "Relay Media помогает издателям получить AMP"
+
+msgid "plista grows publisher revenue & user engagement with AMP"
+msgstr "Plista увеличивает доходы издателей и взаимодействие с пользователями с AMP"
+
+msgid "Create flawless web experiences"
+msgstr "Создать безупречный веб-опыт"
+
+msgid "Snackable formats for everyone"
+msgstr "Закусочные форматы для всех"
+
+msgid "Super fast ads on the web"
+msgstr "Супер быстрая реклама в интернете"
+
+msgid "Next gen email"
+msgstr "Электронная почта следующего поколения"
+
+msgid "Use cases"
+msgstr "Сценарии использования"
+
+msgid "Guides & Tutorials"
+msgstr "Руководства и учебники"
+
+msgid "The complete AMP library"
+msgstr "Полная библиотека AMP"
+
+msgid "Hands on Introduction to AMP"
+msgstr "Руки по введению в AMP"
+
+msgid "Learn AMP with free courses"
+msgstr "Учите AMP с бесплатными курсами"
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+msgid "Begin building"
+msgstr "Начать строительство"
+
+msgid "Ready to use"
+msgstr "Готов к использованию"
+
+msgid "Courses"
+msgstr "Курсы"
+
+msgid "Governance"
+msgstr "управление"
+
+msgid "AMP Roadshow"
+msgstr "AMP Roadshow"
+
+msgid "Help"
+msgstr "Помогите"
+
+msgid "Encouraging More Voices in AMP"
+msgstr "Поощряя больше голосов в AMP"
+
+msgid "An AMP Working Group is a segment of the community with knowledge/interest in specific area of AMP. Working Groups are created by AMP’s Technical Steering Committee."
+msgstr "Рабочая группа AMP - это сегмент сообщества, обладающий знаниями / интересами в конкретной области AMP. Рабочие группы создаются Техническим руководящим комитетом AMP."
+
+msgid "Most Working Groups provide bi-weekly status updates and present quarterly high-level updates in round-robin fashion at Design Reviews."
+msgstr "Большинство рабочих групп предоставляют обновления статуса каждые две недели и ежеквартально представляют высокоуровневые обновления в циклическом режиме в обзорах дизайна."
+
+msgid "Current Issues"
+msgstr "Текущие проблемы"
+
+msgid "The facilitator of {name} is: "
+msgstr "Фасилитатор {имя} это:"
+
+msgid "Members"
+msgstr "члены"
+
+msgid "Communication Channels"
+msgstr "Каналы связи"
+
+msgid "<a href={{ doc.html_url }} target=\"_blank\" rel=\"noopener\">The GitHub Team</a> also includes { name } WG members."
+msgstr "<a href = {{doc.html_url}} target = \"
+
+msgid "Other ways to get involved with AMP"
+msgstr "Другие способы принять участие в AMP"
+
+msgid "Contribute to AMP"
+msgstr "Способствовать AMP"
+
+msgid "The AMP Project would not be possible without help from all members of the community whether you are a developer, content creator or provider of services relevant to AMP There are many ways for you to contribute."
+msgstr "Проект AMP был бы невозможен без помощи всех членов сообщества, независимо от того, являетесь ли вы разработчиком, создателем контента или поставщиком услуг, имеющих отношение к AMP. У вас есть много способов внести свой вклад."
+
+msgid "Governance Body"
+msgstr "Орган управления"
+
+msgid "Learn more about the Advisory Committee and Technical Steering Committee."
+msgstr "Узнайте больше о Консультативном комитете и Техническом руководящем комитете."
+
+msgid "Working Group"
+msgstr "Рабочая группа"
+
+msgid "AMP for Email"
+msgstr "AMP для электронной почты"
+
+msgid "wg-amp4email Working Group is responsible for the development and maintenance of the AMP for Email specification and related features."
+msgstr "Рабочая группа wg-amp4email отвечает за разработку и сопровождение спецификации AMP для электронной почты и связанных с ней функций."
+
+msgid "View all"
+msgstr "Посмотреть все"
+
+msgid "Come join us in your city for a free, inclusive dev workshop with the AMP team."
+msgstr "Присоединяйтесь к нам в своем городе на бесплатном семинаре для разработчиков с командой AMP."
+
+msgid "Where we’ve been"
+msgstr "Где мы были"
+
+msgid "Where we’re going next"
+msgstr "Куда мы идем дальше"
+
+msgid "Your city isn’t on the list? Check back soon for additional dates and cities. Or..."
+msgstr "Вашего города нет в списке? Проверьте позже для дополнительных дат и городов. Или же..."
+
+msgid "That’s very kind. Fill out <a href=\"https://docs.google.com/forms/d/14B75eV89S1KaceNTG46ranAOPCj3wCLzgD3mxuGeUtU/viewform\" target=\"_blank\">this form</a> and we’ll see what we can do!"
+msgstr "Это очень мило. Заполните <a href = \"
+
+msgid "Want to host your own AMP Roadshow?"
+msgstr "Хотите провести свое собственное AMP Roadshow?"
+
+msgid "Why not? Fill out <a href=\"https://docs.google.com/forms/d/1PMWCq1MTqg-AslvBMvMlU_ozjyZK7WZ-4fUVs0UlheE/viewform\" target=\"_blank\">this form</a>, and we’ll share with you our talks and all the materials you need to do it yourself!"
+msgstr "Почему бы нет? Заполните <a href = \"
+
+msgid "Agenda"
+msgstr "Повестка дня"
+
+msgid "The agenda is designed to enable you to build even more beautiful, interactive and canonical AMP pages. We welcome both newcomers to AMP and those who already ship AMP pages. <span>This is a sample agenda – schedule varies based on the city.</span>"
+msgstr "Повестка дня предназначена для того, чтобы вы могли создавать еще более красивые, интерактивные и канонические страницы AMP. Мы приветствуем как новичков в AMP, так и тех, кто уже отправляет страницы AMP. <span> Это примерная повестка дня - расписание зависит от города. </ span>"
+
+msgid "We’ll cover a lot of ground in the few hours we have together. To enable you to build full-fledged AMP sites, the roadshow will deep dive into four big pillars:"
+msgstr "Мы пройдем много времени за несколько часов, проведенных вместе. Чтобы дать вам возможность создать полноценные сайты AMP, роудшоу глубоко погрузится в четыре больших столпа:"
+
+msgid "Content"
+msgstr "содержание"
+
+msgid "Amplify Live!"
+msgstr "Усилить Live!"
+
+msgid "During \"Amplify live!\", we’ll be on stage exploring the most interesting AMP challenges, allowing you to either follow along or do your own thing, like one of the many AMP codelabs. Bring your laptop!"
+msgstr "В течение \"
+
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+msgid "Does it cost anything?"
+msgstr "Это что-нибудь стоит?"
+
+msgid "No - tickets are free of charge."
+msgstr "Нет - билеты бесплатны."
+
+msgid "Who is the event for?"
+msgstr "Для кого это событие?"
+
+msgid "Web developers and designers with an interest in AMP--whether you’ve had experience using AMP and want to create better experiences, you’re curious about how you can use AMP to improve your site, or you want to contribute to AMP to make it better for everyone."
+msgstr "Веб-разработчики и дизайнеры, заинтересованные в AMP - имеете ли вы опыт использования AMP и хотите ли вы улучшить его, хотите узнать, как вы можете использовать AMP для улучшения своего сайта, или вы хотите внести свой вклад в AMP, чтобы сделать это лучше для всех."
+
+msgid "Am I all set after registering?"
+msgstr "У меня все настроено после регистрации?"
+
+msgid "We expect that in some cities more people will be interested in attending than we can accommodate, so we will be confirming attendees on a case-by-case basis."
+msgstr "Мы ожидаем, что в некоторых городах больше людей будет заинтересовано в посещении, чем мы можем вместить, поэтому мы будем подтверждать участников в каждом конкретном случае."
+
+msgid "Want the AMP Roadshow to visit your area?"
+msgstr "Хотите, чтобы AMP Roadshow посетили ваш район?"
+
+msgid "Design"
+msgstr "дизайн"
+
+msgid "AMP as canonical site"
+msgstr "AMP как канонический сайт"
+
+msgid "Responsive design"
+msgstr "Адаптивный дизайн"
+
+msgid "New AMP Effects"
+msgstr "Новые AMP-эффекты"
+
+msgid "New AMP UI components"
+msgstr "Новые компоненты пользовательского интерфейса AMP"
+
+msgid "Interactivity"
+msgstr "интерактивность"
+
+msgid "State management (amp-bind)"
+msgstr "Государственное управление (amp-bind)"
+
+msgid "Live data"
+msgstr "Живые данные"
+
+msgid "Forms & autocomplete"
+msgstr "Формы и автозаполнение"
+
+msgid "Selections"
+msgstr "Выбор"
+
+msgid "DevOps"
+msgstr "DevOps"
+
+msgid "Deploying AMP"
+msgstr "Развертывание AMP"
+
+msgid "AMP in your favorite CMS"
+msgstr "AMP в вашей любимой CMS"
+
+msgid "SEO & Discovery"
+msgstr "SEO и открытие"
+
+msgid "AMP & PWA"
+msgstr "AMP & PWA"
+
+msgid "Monetization"
+msgstr "монетизация"
+
+msgid "AMP for Landing Pages"
+msgstr "AMP для целевых страниц"
+
+msgid "Integrating ads"
+msgstr "Интеграция рекламы"
+
+msgid "Analytics"
+msgstr "аналитика"
+
+msgid "Paywalls & Payments"
+msgstr "Paywalls & Payments"
+
+msgid "Cities"
+msgstr "Города"
+
+msgid "Sign Up"
+msgstr "Зарегистрироваться"
+
+msgid "Learn more"
+msgstr "Учить больше"
+
+msgid "Intro + Keynote"
+msgstr "Intro + Keynote"
+
+msgid "AMP: A library for rich content experiences"
+msgstr "AMP: библиотека для богатого контента"
+
+msgid "Advanced interactivity with AMP"
+msgstr "Продвинутая интерактивность с AMP"
+
+msgid "Tutorial: Your first AMP site!"
+msgstr "Учебник: Ваш первый сайт AMP!"
+
+msgid "Creating an excellent AMP"
+msgstr "Создание отличного AMP"
+
+msgid "Letting your AMP into the world"
+msgstr "Впусти свой AMP в мир"
+
+msgid "Lunch"
+msgstr "Обед"
+
+msgid "Mystery talk"
+msgstr "Тайный разговор"
+
+msgid "AMP everywhere"
+msgstr "AMP везде"
+
+msgid "What’s next in AMP"
+msgstr "Что дальше в AMP"
+
+msgid "Coffee break"
+msgstr "Перерыв на кофе"
+
+msgid "Q&A with AMP team"
+msgstr "Q & A с командой AMP"
+
+msgid "Tutorial: Do more with AMP"
+msgstr "Учебник: делай больше с AMP"
+
+msgid "Happy hour"
+msgstr "Счастливый час"
+
+msgid "Choose your destination"
+msgstr "Выберите пункт назначения"
+
+msgid "Throughout the AMP documentation you will find a switch on the upper left side to quickly change the AMP format you’re working on."
+msgstr "Во всей документации AMP вы найдете переключатель в верхнем левом углу для быстрого изменения формата AMP, над которым вы работаете."
+
+msgid "CMS User?"
+msgstr "Пользователь CMS?"
+
+msgid "AMP integrates with many publishing platforms and content management systems! Find the full list under <a href=\"../support/faq/platform-and-vendor-partners.md\">Platform and Vendor Partners.</a>"
+msgstr "AMP интегрируется со многими издательскими платформами и системами управления контентом! Найдите полный список в <a href = \"
+
+msgid "Featured Videos"
+msgstr "Избранные видео"
+
+msgid "Get Involved"
+msgstr "Втягиваться"
+
+msgid "AMP is proudly an open source project with an active community of contributors. We welcome and appreciate documentation and translation contributions! Check out our community section to join our mission."
+msgstr "AMP - это проект с открытым исходным кодом с активным сообществом участников. Мы приветствуем и ценим вклад в документацию и перевод! Посетите наш раздел сообщества, чтобы присоединиться к нашей миссии."
+
+msgid "AMP<br> Ads"
+msgstr "AMP <br> Объявления"
+
+#: /content/amp-dev/about/websites.html:243
+msgid "AMP Caches"
+msgstr "AMP Cache"
+
+msgid "AMP for Email Working Group members will use <code>#wg-amp4email</code> channel on AMP's Slack (<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877\">signup</a>) for real-time discussion. The channel is open to anyone, regardless of membership in AMP for Email working group."
+msgstr "Члены AMP для рабочей группы электронной почты будут использовать канал <code> # wg-amp4email </ code> в Slack AMP (<a href = \"
+
+msgid "AMP for Email Working Group will post <strong>Announcements and Notices</strong> regarding events as an issue labeled with <code>Type: Event</code> in this repository."
+msgstr "Рабочая группа AMP для электронной почты опубликует <strong> Объявления и уведомления </ strong> о событиях как проблему, помеченную <code> Тип: Событие </ code> в этом репозитории."
+
+msgid "AMP for Email Working Group will post <strong>Quarterly Roadmap</strong> as an issue labeled with <code>Type: Roadmap</code> in this repository"
+msgstr "Рабочая группа AMP для электронной почты опубликует <strong> Квартальную дорожную карту </ strong> как проблему, помеченную <code> Тип: дорожная карта </ code> в этом хранилище."
+
+#: /content/amp-dev/index.html:289
+msgid "AMP is an open-source HTML framework that provides a straightforward way to create web pages that are fast, smooth-loading and prioritize the user-experience above all else. Can't believe it? Try it out for yourself in the playground below:"
+msgstr "AMP - это HTML-фреймворк с открытым исходным кодом, обеспечивающий простой способ создания веб-страниц, которые бывают быстрыми, легко загружаемыми и устанавливают приоритеты для пользовательского опыта над всеми остальными. Не можете в это поверить? Попробуйте сами на детской площадке ниже:"
+
+#: /content/amp-dev/about/ads.html:59
+msgid "AMP is fundamentally changing the way ads are built, delivered and measured on the web, making them faster and minimizing disruptions for users. This increases viewability and click-through rates to improve monetization, making everyone happy: users, publishers and advertisers alike."
+msgstr "AMP в корне меняет способ создания, доставки и измерения рекламы в Интернете, делая их более быстрыми и сводя к минимуму сбои для пользователей. Это повышает удобство просмотра и рейтинг кликов для повышения монетизации, делая всех счастливыми: пользователей, издателей и рекламодателей."
+
+msgid "AMP’s Working Groups are:"
+msgstr "Рабочие группы AMP:"
+
+msgid "Style & layout"
+msgstr "Стиль и макет"
+
+msgid "UI Working Group will post <strong>Status Updates</strong> every two weeks as an issue labeled with <code>Type: Status Update</code> in this repository."
+msgstr "Рабочая группа пользовательского интерфейса будет публиковать <strong> Обновления статуса </ strong> каждые две недели как проблему, помеченную <code> Тип: Обновление статуса </ code> в этом хранилище."
+
+msgid "offline"
+msgstr "не в сети"
+
+msgid "Learn Web Development with AMP"
+msgstr "Изучите веб-разработку с AMP"
+
+msgid "AMP can help you create fast websites more quickly!"
+msgstr "AMP поможет вам быстрее создавать быстрые сайты!"
+
+msgid "If you’re <b>an experienced web developer</b>, you can create rich, fast sites with less code."
+msgstr "Если вы <b> опытный веб-разработчик </ b>, вы можете создавать насыщенные и быстрые сайты с меньшим количеством кода."
+
+msgid "If you’re <b>a new web developer</b>, AMP helps you learn web development. If you know some HTML and CSS, you can use AMP to make an interactive website!"
+msgstr "Если вы <b> новый веб-разработчик </ b>, AMP поможет вам освоить веб-разработку. Если вы знаете HTML и CSS, вы можете использовать AMP для создания интерактивного веб-сайта!"
+
+msgid "About the courses"
+msgstr "О курсах"
+
+msgid "These three free courses are in use in schools and training programs around the world. Now you can take them here, online, on our site. Suitable for beginners and experienced web developers alike, they will take you from zero to AMP!"
+msgstr "Эти три бесплатных курса используются в школах и учебных программах по всему миру. Теперь вы можете взять их здесь, онлайн, на нашем сайте. Подходит как начинающим, так и опытным веб-разработчикам, они перенесут вас с нуля в AMP!"
+
+msgid "During this course, you’ll build a sample site for Chico’s famous, and fictional, Cheese Bicycles."
+msgstr "В ходе этого курса вы создадите образец сайта для знаменитых и вымышленных Cheese Bicycles Чико."
+
+msgid "Requirements"
+msgstr "Требования"
+
+msgid "Internet connection"
+msgstr "интернет-соединение"
+
+msgid "<a href=\"https://www.google.com/chrome/\" target=\"_blank\">Chrome browser</a>, ideally, to use the <a href=\"https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc\" target=\"_blank\">AMP Validator extension</a>"
+msgstr "<a href = \"
+
+msgid "We use the online editor <a href=\"https://glitch.com/\" target=\"_blank\">Glitch</a>. No IDE or local web server needed!"
+msgstr "Мы используем онлайн-редактор <a href = \"
+
+msgid "Prerequisites"
+msgstr "Предпосылки"
+
+msgid "basic knowledge of HTML and CSS"
+msgstr "базовые знания HTML и CSS"
+
+msgid "for the advanced course, JavaScript expressions and simple JSON"
+msgstr "для продвинутого курса, JavaScript-выражений и простого JSON"
+
+msgid "Take the Video Courses"
+msgstr "Пройдите видео курсы"
+
+msgid "All three courses can be now be taken by video on <a href=\"https://www.youtube.com/playlist?list=PLXTOW_XMsIDS45GB-eBV5s_M9EGIXMjI_\" target=\"_blank\">our YouTube channel!</a>"
+msgstr "Все три курса теперь можно записать на видео на <a href = \"
+
+msgid "AMP Websites Examples"
+msgstr "Примеры сайтов AMP"
+
+msgid "AMP Playground"
+msgstr "AMP Playground"
+
+msgid "Try it yourself with the AMP Playground. Test your ideas directly in the browser and get instant feedback."
+msgstr "Попробуйте сами с AMP Playground. Проверьте свои идеи прямо в браузере и получите мгновенную обратную связь."
+
+msgid "Filter by category"
+msgstr "Фильтровать по категории"
+
+msgid "<h1 class=\"ap-o-stage-content-headline\">Tools</h1> <h2 class=\"ap-o-stage-content-subline\">for creation, design and development</h2>"
+msgstr "<h1 class = \"
+
+msgid "Creation &amp; Design"
+msgstr "Создание и дизайн"
+
+msgid "CMS &amp; Platforms"
+msgstr "CMS и платформы"
+
+msgid "Developer Tools"
+msgstr "Инструменты разработчика"
+
+msgid "Service providers"
+msgstr "Поставщики услуг"
+
+msgid "Here you can find everything you need to build AMP experiences."
+msgstr "Здесь вы можете найти все необходимое для создания впечатлений от AMP."
+
+msgid "The complete documented AMP library and its references."
+msgstr "Полная документированная библиотека AMP и ее ссылки."
+
+msgid "The fastest way to learn is to peak over the tangible examples."
+msgstr "Самый быстрый способ научиться - это показать все реальные примеры."
+
+msgid "Don't want to start from scratch? Start with a ready-made design."
+msgstr "Не хотите начинать с нуля? Начните с готового дизайна."
+
+msgid "Begin building for creation, design and development."
+msgstr "Начните строить для создания, дизайна и разработки."
+
+msgid "Build your first AMP Website"
+msgstr "Создайте свой первый сайт AMP"
+
+msgid "Build your first AMP Story"
+msgstr "Создайте свою первую историю AMP"
+
+msgid "Build your first AMP Ad"
+msgstr "Создайте свою первую рекламу AMP"
+
+msgid "Build your first AMP Email"
+msgstr "Создайте свой первый AMP Email"
+
+msgid "Create compelling, silky smooth and instant loading websites."
+msgstr "Создавайте привлекательные, шелковистые, гладкие и быстро загружаемые сайты."
+
+msgid "Create snackable, immersive and tappable stories on your website."
+msgstr "Создайте закуски, захватывающие и осязаемые истории на вашем сайте."
+
+msgid "Extend your website with fast and lightweight ad experience."
+msgstr "Расширьте свой сайт с быстрым и легким рекламным опытом."
+
+msgid "Create emails that encourage readers to interact dynamically with content."
+msgstr "Создавайте электронные письма, которые поощряют читателей динамически взаимодействовать с контентом."
+
+msgid "See the latest videos about AMP and find out more on our <a href=\"https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw">YouTube Channel.</a>"
+msgstr "Смотрите последние видео о AMP и узнайте больше на нашем <a href = \"
+
+msgid "CMS"
+msgstr "CMS"
+
+msgid "Content Platform"
+msgstr "Платформа контента"
+
+msgid "Debugging"
+msgstr "Отладка"
+
+msgid "Development"
+msgstr "развитие"
+
+msgid "Email Service"
+msgstr "Сервис электронной почты"
+
+msgid "Email Templates Editor"
+msgstr "Редактор почтовых шаблонов"
+
+msgid "Essential"
+msgstr "существенный"
+
+msgid "Landing pages"
+msgstr "Целевые страницы"
+
+msgid "Optimization"
+msgstr "оптимизация"
+
+msgid "Testing"
+msgstr "тестирование"
+
+msgid "Allows the creation of rich, eye-catching marketing content with Adobe Animate."
+msgstr ""
+
+msgid "Create interactive email templates fast with Drag-n-Drop & HTML editor. Try free library of ready-to-use modules and templates."
+msgstr "Быстрое создание интерактивных шаблонов электронной почты с помощью Drag-n-Drop и HTML-редактора. Попробуйте бесплатную библиотеку готовых модулей и шаблонов."
+
+msgid "Create AMPHTML-valid and ready to be published individual designs or full sets of static or animated marketing visuals, within minutes."
+msgstr ""
+
+msgid "Online AMPHTML banner maker which allows you to easily create AMP ads without prior coding knowledge."
+msgstr ""
+
+msgid "Create engaging, interactive AMPHTML Ad compliant designs and motion graphics that can run on any device."
+msgstr ""
+
+msgid "Instapage automates the creation, optimization, and personalization of post-click experiences at scale."
+msgstr "Instapage автоматизирует создание, оптимизацию и персонализацию событий после нажатия в масштабе."
+
+msgid "WYSIWYG drag and drop editor with templates, illustrations, icons, and the ability to upload your own images and videos."
+msgstr ""
+
+msgid "Newsroom Studio helps you create engaging, instant loading mobile experiences."
+msgstr ""
+
+msgid "Unbounce is a platform to create landing pages, website popups, and sticky bars."
+msgstr "Unbounce - это платформа для создания целевых страниц, всплывающих окон веб-сайтов и наклеек."
+
+msgid "AMP-first content creation with the power and flexibility of WordPress."
+msgstr "AMP-первое создание контента с мощью и гибкостью WordPress."
+
+msgid "Bold by Quintype is a headless CMS built for enterprise publishers with built-in support for AMP."
+msgstr "Bold by Quintype - это безголовая CMS, созданная для корпоративных издателей со встроенной поддержкой AMP."
+
+msgid "Helps you measure your site's Search traffic and performance, fix issues, and make your site shine in Google Search results."
+msgstr "Помогает вам измерить поисковый трафик и производительность вашего сайта, исправить проблемы и сделать ваш сайт блестящим в результатах поиска Google."
+
+msgid "Test if and how your AMP page appears in Google Search."
+msgstr "Проверьте, отображается ли ваша AMP-страница в поиске Google."
+
+msgid "Platform to share and discover how-to stories that includes a creation tool on your phone to help you create how-to stories."
+msgstr "Платформа для обмена и поиска практических историй, которые включают в себя инструмент создания на вашем телефоне, чтобы помочь вам создавать практические истории."
+
+msgid "Build AMP sites, posts, and stories. Win search, social, and email. Fast. Flexible. Secure. Modern."
+msgstr "Создавайте AMP сайты, посты и истории. Выиграй поиск, социальные сети и электронную почту. Быстро. Гибкое. Закрепить. Современное."
+
+msgid "Platform to share and discover how-to stories that includes a creation tool on your phone to help you create how-to stories."
+msgstr ""
+
+msgid "Essential component for AMP development and available in a variety of versions."
+msgstr "Необходимый компонент для разработки AMP и доступен в различных версиях."
+
+msgid "Beta-test new features of AMP before they're available for everyone."
+msgstr "Бета-тестирование новых функций AMP, прежде чем они станут доступны для всех."
+
+msgid "Helps you find out whether your Google Analytics and AdWords tracking is correctly set up."
+msgstr "Помогает узнать, правильно ли настроены ваши отслеживания Google Analytics и AdWords."
+
+msgid "A collection of AMP tools making it easier to publish and host AMP pages."
+msgstr "Коллекция инструментов AMP, облегчающая публикацию и размещение страниц AMP."
+
+msgid "Validation tool that offers additional debug information on top of the AMP validator."
+msgstr "Инструмент проверки, который предлагает дополнительную отладочную информацию поверх валидатора AMP."
+
+msgid "Pre-built Google Analytics dashboard template that helps you get to your analytics insights faster."
+msgstr "Предварительно созданный шаблон панели инструментов Google Analytics, который поможет вам быстрее понять аналитику."
+
+msgid "Chrome extension that helps you understand the feasibility of converting your site to AMP."
+msgstr "Расширение Chrome, которое поможет вам понять целесообразность преобразования вашего сайта в AMP."
+
+msgid "Generate custom templates for your AMP websites, stories, emails or ads."
+msgstr "Создайте пользовательские шаблоны для ваших сайтов AMP, историй, электронных писем или рекламы."
+
+msgid "Start prototyping in an interactive online editor with the ability to use templates and our examples."
+msgstr "Начните создавать прототипы в интерактивном онлайн-редакторе с возможностью использования шаблонов и наших примеров."
+
+msgid "A prototyping tool that automatically converts a HTML page to AMP for demonstrating performance gains with AMP."
+msgstr "Инструмент для создания прототипов, который автоматически конвертирует HTML-страницу в AMP для демонстрации прироста производительности с AMP."
+
+msgid "Litmus makes it easy to build, test, and monitor every email for the best results."
+msgstr "Litmus позволяет легко создавать, тестировать и отслеживать каждое письмо для достижения наилучших результатов."
+
+msgid "Makes authoring AMP easy by validating for errors/warnings as you type within VS Code."
+msgstr "Упрощает авторизацию AMP, проверяя ошибки / предупреждения при вводе в VS Code."
+
+msgid "React framework that generates AMP and PWA pages from a single codebase."
+msgstr "Реагировать на структуру, которая генерирует страницы AMP и PWA из единой кодовой базы."
+
+msgid "A tool to help for prototyping ads to be served in AMP Stories. Choose from pre-existing templates to get started."
+msgstr "Инструмент, помогающий создавать макеты рекламы, которая будет отображаться в AMP Stories. Выберите из существующих шаблонов, чтобы начать."
+
+msgid "NodemailerApp is an email debugging app that includes a local SMTP server and renders AMP for Email emails."
+msgstr "NodemailerApp - это приложение для отладки электронной почты, которое включает локальный SMTP-сервер и отображает AMP для электронной почты."
+
+msgid "Cloud-based email sending service designed to help digital marketers and application developers send emails."
+msgstr "Облачная служба отправки электронной почты, разработанная, чтобы помочь цифровым маркетологам и разработчикам приложений отправлять электронные письма."
+
+msgid "Aweber's platform and API allows you to create and send emails your customers will love."
+msgstr "Платформа и API Aweber позволяют создавать и отправлять электронные письма, которые понравятся вашим клиентам."
+
+msgid "Pepipost is an innovative transactional email solution that offers you with a streamlined user experience that you only get from high-end premium software. The software is designed to ensure that your emails are sent to your recipients' inbox and not get mixed and lost in spam and other folders."
+msgstr "Pepipost - это инновационное решение для транзакционной электронной почты, которое предлагает вам оптимизированный пользовательский интерфейс, который вы получаете только от высококачественного программного обеспечения премиум-класса. Программное обеспечение предназначено для того, чтобы ваши электронные письма отправлялись в почтовые ящики получателей и не смешивались и не терялись в спаме и других папках."
+
+msgid "Delivery and Analytics for Better Email Performance."
+msgstr "Доставка и аналитика для повышения производительности электронной почты."
+
+msgid "Reach customers using a flexible email API and marketing tools to increase customer engagement."
+msgstr "Привлекайте клиентов, используя гибкий API электронной почты и маркетинговые инструменты для повышения вовлеченности клиентов."
+
+msgid "Mailgun's leading API-based email delivery service allows you to send dynamic email effortlessly."
+msgstr "Ведущая служба доставки почты на основе API Mailgun позволяет отправлять динамическую электронную почту без особых усилий."
+
+msgid "Clang is a complete omnichannel marketing platform for email marketing and marketing automation."
+msgstr "Clang - это полная многоканальная маркетинговая платформа для маркетинга по электронной почте и автоматизации маркетинга."
+
+msgid "Effective Newsletter Software for more conversions and revenue"
+msgstr "Эффективное программное обеспечение для рассылки новостей для увеличения конверсии и получения дохода"
+
+msgid "Send interactive emails using SendPulse email editor or API."
+msgstr "Отправляйте интерактивные электронные письма, используя редактор электронной почты SendPulse или API."
+
+msgid "Supercharge conversions of your bulk and triggered campaigns with real-time recommendations in AMP powered emails"
+msgstr "Превосходные конверсии ваших массовых и инициированных кампаний с рекомендациями в реальном времени в электронных письмах AMP"
+
+msgid "Adobe Campaign Classic brings email to life with AMP"
+msgstr "Adobe Campaign Classic оживляет электронную почту с помощью AMP"
+
+msgid "Copernica is a tool to create automated email campaigns with an powerful drag & drop editor."
+msgstr "Copernica - это инструмент для создания автоматизированных кампаний по электронной почте с мощным редактором drag & drop."
+
+msgid "WompMobile is an Accelerator Platform to develop, validate, launch and manage AMP experiences. Built-in tools monitor for errors, ensure validation, purge the AMP cache, and create Signed-Exchange and Server-Side-Rendered AMPs."
+msgstr "WompMobile - это ускорительная платформа для разработки, проверки, запуска и управления процессами AMP. Встроенные инструменты отслеживают ошибки, обеспечивают проверку, очищают кэш AMP и создают AMP со знаком и Exchange-рендеринг."
+
+msgid "The AMP Project Roadmap"
+msgstr "Дорожная карта проекта AMP"
+
+msgid "This is a high level overview suitable for all audiences. For a more detailed developer view, <a href=\"https://github.com/ampproject/amphtml/projects/43">head to GitHub.</a>"
+msgstr "Это обзор высокого уровня, подходящий для любой аудитории. Для более детального просмотра разработчиком, <a href = \"
+
+msgid "AMP Story"
+msgstr "AMP Story"
+
+msgid "Ads"
+msgstr "Объявления"
+
+msgid "Audio&Video"
+msgstr "Аудио видео"
+
+msgid "Dynamic/Personalized Content"
+msgstr "Динамический / Персонализированный Контент"
+
+msgid "Email"
+msgstr "Электронное письмо"
+
+msgid "In Development"
+msgstr "В разработке"
+
+msgid "Next Up"
+msgstr "Следующий"
+
+msgid "PWA"
+msgstr "PWA"
+
+msgid "Runtime"
+msgstr "время выполнения"
+
+msgid "Shipped"
+msgstr "Высылаем"
+
+msgid "Tooling"
+msgstr "механическая обработка"
+
+msgid "User Input"
+msgstr "Пользовательский ввод"
+
+msgid "Validator"
+msgstr "Validator"
+
+msgid "You can often convert your entire archive in days – especially when using common CMS like Wordpress or Drupal."
+msgstr "Вы можете часто конвертировать весь свой архив за несколько дней - особенно при использовании обычных CMS, таких как Wordpress или Drupal."
+
+msgid "All"
+msgstr "Все"
+
+msgid "Learn AMP"
+msgstr "Изучите AMP"
+
+msgid "Teach AMP"
+msgstr "Учить AMP"
+
+msgid "Websites"
+msgstr "Веб-сайты"
+
+msgid "Stories"
+msgstr "Рассказы"
+
+msgid "Art & Design"
+msgstr "Арт Дизайн"
+
+msgid "Food & Drink"
+msgstr "Еда, напиток"
+
+msgid "News & Blog"
+msgstr "Новости & Блог"
+
+msgid "Story Ads"
+msgstr "История рекламы"
+
+msgid "AMP for WordPress"
+msgstr "AMP для WordPress"
+
+msgid "Bold by Quintype"
+msgstr "Жирный по Quintype"
+
+msgid "Google Search Console"
+msgstr "Консоль поиска Google"
+
+msgid "Google AMP Test"
+msgstr "Google AMP Test"
+
+msgid "AMP Validator"
+msgstr "AMP Validator"
+
+msgid "Experiment Configurator"
+msgstr "Конфигуратор эксперимента"
+
+msgid "VS Code Extension"
+msgstr "VS Code Extension"
+
+msgid "Access & Subscriptions"
+msgstr "Доступ и подписки"
+
+msgid "Outreach"
+msgstr "пропаганда"
+
+msgid "Caching"
+msgstr "Кэширование"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Bike Shop"
+msgstr "Магазин велосипедов"
+
+msgid "Travel"
+msgstr "Путешествовать"
+
+msgid "Simple Blog"
+msgstr "Простой блог"
+
+msgid "Simple Article"
+msgstr "Простая статья"
+
+msgid "Video"
+msgstr "видео"
+
+msgid "Text Only"
+msgstr "Только текст"
+
+msgid "Select your format for a more streamlined experience"
+msgstr "Выберите формат для более удобного использования"
+
+msgid "Presentation"
+msgstr "презентация"
+
+msgid "Code of Conduct"
+msgstr "Кодекс поведения"
+
+msgid "Performance"
+msgstr "Производительность"
+
+msgid "User Interface"
+msgstr "Пользовательский интерфейс"
+
+msgid "Viewers"
+msgstr "Зрителям"
+
+msgid "Students"
+msgstr "Ученики"
+
+msgid "Teachers"
+msgstr "Учителя"
+
+msgid "<p>Responsible for user specific controlled access to AMP content (amp-subscriptions, amp-access and related extensions)</p>"
+msgstr "<p> Отвечает за пользовательский контролируемый доступ к содержимому AMP (amp-подписки, amp-access и связанные расширения) </ p>"
+
+msgid "What is the Accelerated Mobile Pages project?"
+msgstr "Что такое проект «Ускоренные мобильные страницы»?"
+
+msgid "<p>The Accelerated Mobile Pages (AMP) Project is an open source initiative that came out of discussions between publishers and technology companies about the need to improve the entire mobile content ecosystem for everyone -- publishers, consumer platforms, advertisers, creators, and users.</p>\n<p>Today, the expectation is that content should load super fast and be easy to explore. The reality is that content can take several seconds to load, or, because the user abandons the slow page, never fully loads at all. Accelerated Mobile Pages are web pages designed to load near instantaneously -- they are a step towards a better mobile web for all.</p>"
+msgstr "<p> Проект «Ускоренные мобильные страницы» (AMP) - это инициатива с открытым исходным кодом, которая возникла в результате дискуссий между издателями и технологическими компаниями о необходимости улучшить всю экосистему мобильного контента для всех - издателей, потребительских платформ, рекламодателей, авторов и пользователи. </ p> \ n <p> Сегодня ожидается, что контент должен загружаться очень быстро и быть простым в изучении. Реальность такова, что загрузка контента может занять несколько секунд или, поскольку пользователь покидает медленную страницу, никогда не загружается полностью. Ускоренные мобильные страницы - это веб-страницы, предназначенные для мгновенной загрузки - это шаг к лучшему мобильному вебу для всех. </ P>"
+
+msgid "What are the benefits of Accelerated Mobile Pages?"
+msgstr "Каковы преимущества ускоренных мобильных страниц?"
+
+msgid "<p>Speed matters and instant is the ideal. Research has shown higher bounce rates associated with slower-loading web pages. Using the AMP format will make it far more compelling for people to consume and engage with more content. But this isn’t just about speed and performance. We also want to promote enhanced distribution so that publishers and advertisers can take advantage of the open web’s potential for their content to appear everywhere quickly -- across platforms and apps -- which can lead to more revenue.</p>"
+msgstr "<p> Скорость имеет значение, а мгновение - это идеал. Исследования показали более высокий показатель отказов, связанный с медленной загрузкой веб-страниц. Использование формата AMP сделает его более привлекательным для людей, которые будут потреблять больше контента. Но это не только скорость и производительность. Мы также хотим продвигать улучшенное распространение, чтобы издатели и рекламодатели могли использовать потенциал открытого веб-сайта для того, чтобы их контент быстро появлялся везде - на разных платформах и в приложениях - что может привести к увеличению дохода. </ P>"
+
+msgid "How do Accelerated Mobile Pages work?"
+msgstr "Как работают ускоренные мобильные страницы?"
+
+msgid "<p>Accelerated Mobile Pages are just like any other HTML page, but with a limited set of allowed technical functionality that is defined and governed by the open source AMP spec. Just like all web pages, Accelerated Mobile Pages will load in any modern browser or app webview.</p>\n<p>AMP files take advantage of various technical and architectural approaches that prioritize speed to provide a faster experience for users. AMP developers can use a rich and growing library of web components that offer the ability to embed rich media objects like video and social posts, display advertising, or collect analytics. The goal is not to homogenize how content looks and feels, but instead to build a more common technical core between pages that speeds up load times.</p>\n<p>In addition, AMP files can be cached in the cloud in order to reduce the time content takes to get to a user’s mobile device. By using the AMP format, content producers are making the content in AMP files available to be cached by third parties. Under this type of framework, publishers and advertisers continue to control their content, but platforms can easily cache or mirror the content for optimal delivery speed to users. Google has provided the <a href="https://developers.google.com/amp/cache/">Google AMP Cache</a> that can be used by anyone at no cost, and all AMPs will be cached by the Google AMP Cache. Other companies may build their own AMP cache as well.</p>\n<p>In summary, the goal is that the combination of limited technical functionality with a distribution system built around caching will lead to better performing pages, and increased audience development.</p>"
+msgstr "<p> Ускоренные мобильные страницы аналогичны любой другой HTML-странице, но с ограниченным набором разрешенных технических функций, которые определяются и регулируются спецификацией AMP с открытым исходным кодом. Как и все веб-страницы, «Ускоренные мобильные страницы» будут загружаться в любой современный браузер или веб-приложение. </ P> \ n <p> Файлы AMP используют различные технические и архитектурные подходы, которые устанавливают приоритеты в скорости для обеспечения более быстрой работы пользователей. Разработчики AMP могут использовать богатую и растущую библиотеку веб-компонентов, которые предлагают возможность встраивать мультимедийные объекты, такие как видео и сообщения в социальных сетях, отображать рекламу или собирать аналитику. Цель состоит не в том, чтобы гомогенизировать внешний вид контента, а в том, чтобы создать более общее техническое ядро между страницами, которое ускоряет время загрузки. </ P> \ n <p> Кроме того, файлы AMP могут кэшироваться в облаке в чтобы сократить время, необходимое контенту, чтобы добраться до мобильного устройства пользователя. Используя формат AMP, производители контента делают контент в файлах AMP доступным для кэширования третьими лицами. При таком типе платформы издатели и рекламодатели продолжают контролировать свой контент, но платформы могут легко кэшировать или зеркалировать контент для оптимальной скорости доставки пользователям. Google предоставил <a href ="
+
+msgid "Why does the Accelerated Mobile Pages Project take an open source approach?"
+msgstr "Почему в проекте «Ускоренные мобильные страницы» используется подход с открытым исходным кодом?"
+
+msgid "<p>The companies involved in the project want to make the mobile web work better for all -- not just for one platform, one set of technologies, or one set of publishers, or one set of advertisers. Making the project open source enables people to share and contribute their ideas and code for making the mobile web fast. We are just at the beginning of that journey and we look forward to other publishers, advertisers and technology companies joining along the way.</p>"
+msgstr "<p> Компании, участвующие в проекте, хотят, чтобы мобильный интернет работал лучше для всех - не только для одной платформы, одного набора технологий или одного набора издателей или одного набора рекламодателей. Создание проекта с открытым исходным кодом позволяет людям делиться своими идеями и кодом и делиться ими для быстрой мобильной сети. Мы только в начале этого пути и с нетерпением ждем, чтобы другие издатели, рекламодатели и технологические компании присоединились к этому пути. </ P>"
+
+msgid "Who can use Accelerated Mobile Pages?"
+msgstr "Кто может использовать Ускоренные Мобильные Страницы?"
+
+msgid "<p>The project is open to all players in the ecosystem - publishers, consumer platforms, advertisers and creators. To get an idea who some of the companies and sites are who use AMP, head to the <a href="/support/faqs/supported-platforms.html">Who page</a>.</p>"
+msgstr "<p> Проект открыт для всех участников экосистемы - издателей, потребительских платформ, рекламодателей и создателей. Чтобы понять, кто из компаний и сайтов использует AMP, перейдите на страницу <a href ="
+
+msgid "What are the consequences of using Accelerated Mobile Pages?"
+msgstr "Каковы последствия использования ускоренных мобильных страниц?"
+
+msgid "<p>By using the AMP format, content producers are making the content in AMP files available to be crawled, indexed &amp; displayed (subject to the robots exclusion protocol) and cached by third parties.</p>"
+msgstr "<p> Используя формат AMP, производители контента делают контент в файлах AMP доступным для сканирования, индексации и отображения (в соответствии с протоколом исключения роботов) и кэширования третьими лицами. </ p>"
+
+msgid "What responsibilities do I have when using Accelerated Mobile Pages?"
+msgstr "Какие обязанности у меня возникают при использовании ускоренных мобильных страниц?"
+
+msgid "<p>If a publisher or advertiser collects data from users who view its AMP pages, such data collection is governed by their privacy policy.  It is the publisher or advertiser’s responsibility to disclose its privacy policy, ideally by including a link to it within each of their AMP pages.</p>\n<p>Furthermore, the laws in many jurisdictions, such as in the European Union, require a website to give visitors information about cookies and other forms of local storage used on the site (including AMP pages). In many cases, these laws also require that the website obtain consent.  It is the website's responsibility to determine, based on its use of cookies, what type of notice would be appropriate.  Additional information and tools for generating cookie notices can be found at www.cookiechoices.org.  Note that the AMP component <a href="/docs/reference/components/amp-user-notification.html">amp-user-notification</a> provides a way to display a dismissable notification to the user.</p>\n<p>If an AMP page is shown within a viewer on a third party platform, such as a Google AMP Viewer on Google Search, the viewer may be a hybrid environment in which the AMP page and the third party platform may each collect data about the user.  In such a case, data collection by each party is governed by that party’s privacy policy (i.e., in a hybrid viewer environment, data collected by the AMP page is governed by its privacy policy and data collected by the third party platform is governed by the platform’s privacy policy).  It is each party’s responsibility to disclose its privacy policy and comply with relevant data regulations, including European laws relating to its use of cookies.</p>"
+msgstr "<p> Если издатель или рекламодатель собирает данные от пользователей, просматривающих его страницы AMP, такой сбор данных регулируется их политикой конфиденциальности. Издатель или рекламодатель несет ответственность за раскрытие своей политики конфиденциальности, в идеале путем включения ссылки на нее на каждой из своих страниц AMP. </ P> \ n <p> Кроме того, законы во многих юрисдикциях, например, в Европейском союзе требовать от веб-сайта предоставления посетителям информации о файлах cookie и других формах локального хранилища, используемых на сайте (включая страницы AMP). Во многих случаях эти законы также требуют, чтобы веб-сайт получил согласие. Веб-сайт несет ответственность за определение того, какой тип уведомления будет уместным на основе использования файлов cookie. Дополнительную информацию и инструменты для создания уведомлений о файлах cookie можно найти на сайте www.cookiechoices.org. Обратите внимание, что компонент AMP <a href ="
+
+msgid "What type of content works best using Accelerated Mobile Pages?"
+msgstr "Какой тип контента лучше всего работает с использованием ускоренных мобильных страниц?"
+
+msgid "<p>The goal is for all content, from news stories to videos and from blogs to commerce pages and GIFs, to work using Accelerated Mobile Pages.</p>"
+msgstr "<p> Цель состоит в том, чтобы весь контент, от новостных сюжетов до видеороликов, от блогов до коммерческих страниц и GIF-файлов, работал с использованием ускоренных мобильных страниц. </ p>"
+
+msgid "Does making my content work for Accelerated Mobile Pages entail more work?"
+msgstr "Работает ли мой контент для ускоренных мобильных страниц в большей степени?"
+
+msgid "<p>In short, not much. Since “AMP HTML” is built entirely out of existing web technologies, the development process mirrors the one publishers  and advertisers are already using today. Publishers  and advertisers can familiarize themselves with the <a href="/docs/fundamentals/spec.html">AMP HTML specification</a> on GitHub. For those used to the current process, we don’t expect a significant learning curve.</p>"
+msgstr "<p> Короче говоря, не так много. Поскольку «AMP HTML» полностью построен на основе существующих веб-технологий, процесс разработки отражает то, что издатели и рекламодатели уже используют сегодня. Издатели и рекламодатели могут ознакомиться с <a href ="
+
+msgid "How can a publisher or advertiser get content into AMP HTML?"
+msgstr "Как издатель или рекламодатель может вставить контент в AMP HTML?"
+
+msgid "<p>Publishers and Content Management System (CMS) providers can develop an integration with their CMS to generate AMP content. Automattic has already published a <a href="https://wordpress.org/plugins/amp/">WordPress AMP plugin</a> and we hope that all content management systems will add support for AMP HTML pages.</p>"
+msgstr "<p> Поставщики издателей и систем управления контентом (CMS) могут разработать интеграцию со своими CMS для создания контента AMP. Automattic уже опубликовал <a href ="
+
+msgid "Is AMP only for mobile?"
+msgstr "AMP только для мобильных?"
+
+msgid "<p>AMP was designed with responsiveness in mind, to work across <em>all</em> screen sizes.  However, some features for third-party platforms (e.g., Google's Top Stories carousel) may only be designed for the mobile experience.  Check with the third-party platform for how they use AMP.  For more information about mobile and desktop AMP pages, see Paul Bakaus' blog post on <a href="https://paulbakaus.com/2016/07/01/about-that-mobile-in-accelerated-mobile-pages/">About that ‘mobile’ in Accelerated Mobile Pages</a>.</p>"
+msgstr "<p> AMP был разработан с учетом оперативности, чтобы работать на <em> всех </ em> экранах. Тем не менее, некоторые функции для сторонних платформ (например, карусель Топ-историй Google) могут быть предназначены только для мобильных устройств. Узнайте у сторонней платформы, как они используют AMP. Дополнительную информацию о AMP-страницах для мобильных устройств и настольных компьютеров см. В блоге Пола Бакауса на <a href ="
+
+msgid "Platform Involvement"
+msgstr "Участие платформы"
+
+msgid "How can a consumer platform get involved in Accelerated Mobile Pages?"
+msgstr "Как потребительская платформа может участвовать в Ускоренных мобильных страницах?"
+
+msgid "<p>The project is open to everyone, and existing members of the project are very enthusiastic to engage with consumer platforms on the initiative. Google has opened its cache for use for free by anyone, including to consumer platforms that would like to display AMP content in their environment. Please get in touch via <a href=\"https://github.com/ampproject/amphtml/issues/new\">GitHub</a> and we will address your questions as quickly as we can.</p>"
+msgstr "<p> Проект открыт для всех, и существующие участники проекта с энтузиазмом взаимодействуют с потребительскими платформами по инициативе. Google открыл бесплатный кеш для всех, в том числе для потребительских платформ, которые хотели бы отображать контент AMP в своей среде. Пожалуйста, свяжитесь через <a href = \"
+
+msgid "How can an advertising or technology vendor get involved in Accelerated Mobile Pages?"
+msgstr "Как поставщик рекламы или технологий может участвовать в Ускоренных мобильных страницах?"
+
+msgid "<p>Please review the <a href=\"https://github.com/ampproject/amphtml/tree/master/3p#ads\">contributing guidelines</a> and get in touch via <a href=\"https://github.com/ampproject/amphtml/issues/new\">GitHub</a>.</p>"
+msgstr "<p> Пожалуйста, просмотрите <a href = \"
+
+msgid "How does advertising work on Accelerated Mobile Pages?"
+msgstr "Как работает реклама на Ускоренных мобильных страницах?"
+
+msgid "<p>A goal of the Accelerated Mobile Pages Project is to ensure effective ad monetization on the mobile web while embracing a user-centric approach. There is currently support for a comprehensive range of ad formats, ad networks and technologies in Accelerated Mobile Pages. As part of that, those involved with the project are also engaged in crafting Sustainable Ad Practices to ensure that ads in AMP files are fast, safe, compelling and effective for users.</p>"
+msgstr "<p> Цель проекта «Ускоренные мобильные страницы» - обеспечить эффективную монетизацию рекламы в мобильном Интернете и одновременно ориентироваться на пользователя. В настоящее время в Accelerated Mobile Pages поддерживается широкий спектр рекламных форматов, рекламных сетей и технологий. В рамках этого участники проекта также занимаются разработкой устойчивых методов рекламы, чтобы обеспечить быструю, безопасную, привлекательную и эффективную рекламу для пользователей в файлах AMP. </ P>"
+
+msgid "Are publishers able to sell their own ad inventory?"
+msgstr "Могут ли издатели продавать свои рекламные ресурсы?"
+
+msgid "<p>Yes, as with their existing websites, publishers control their ad inventory and how they sell it.</p>"
+msgstr "<p> Да, как и на существующих веб-сайтах, издатели контролируют свои рекламные ресурсы и способы их продажи. </ p>"
+
+msgid "How do subscriptions and paywalls work with Accelerated Mobile Pages?"
+msgstr "Как подписки и платные сети работают с ускоренными мобильными страницами?"
+
+msgid "<p>It is a core objective of the Accelerated Mobile Pages project to support subscriptions and paywalls. AMP currently supports a flexible access framework where publishers can control the document viewing experience for subscribers, metered users and anonymous users.</p>"
+msgstr "<p> Основной задачей проекта «Ускоренные мобильные страницы» является поддержка подписок и платных сетей. В настоящее время AMP поддерживает гибкую структуру доступа, благодаря которой издатели могут контролировать процесс просмотра документов для подписчиков, пользователей с ограниченным доступом и анонимных пользователей. </ P>"
+
+msgid "How are analytics being handled in this AMP format?"
+msgstr "Как аналитика обрабатывается в этом формате AMP?"
+
+msgid "<p>Ensuring publishers are able to get robust analytics insight is a core design goal for the project. AMP currently supports the collection of analytics information using features like amp-analytics, which can integrate with 3rd party systems without compromising the AMP file speed or size. Several analytics providers are <a href=\"/support/faqs/supported-platforms.html#analytics\">participating</a> in the project.</p>"
+msgstr "<p> Обеспечение того, чтобы издатели могли получить надежную аналитическую информацию, является основной целью проекта. В настоящее время AMP поддерживает сбор аналитической информации с использованием таких функций, как amp-analytics, которые могут интегрироваться со сторонними системами без ущерба для скорости или размера файла AMP. Несколько поставщиков аналитики являются <a href = \"
+
+msgid "Do publishers receive credit for the traffic from a measurement perspective?"
+msgstr "Получают ли издатели кредит на трафик с точки зрения измерения?"
+
+msgid "<p>Yes, an AMP file is the same as the rest of your site – this space is the publisher’s canvas.</p>"
+msgstr "<p> Да, файл AMP такой же, как и на остальной части вашего сайта. Это пространство - холст издателя. </ p>"
+
+msgid "How do I become a part of this project?"
+msgstr "Как мне стать частью этого проекта?"
+
+msgid "<p>We welcome interested individuals and companies who want to get involved to get in touch via <a href=\"https://github.com/ampproject/amphtml/issues/new\">GitHub</a>, so that we can add you to a distribution list and keep you posted on any new information.</p>"
+msgstr "<p> Мы приглашаем заинтересованных лиц и компании, которые хотят принять участие, связаться через <a href = \"
+
+msgid "Content Platforms"
+msgstr "Контентные платформы"
+
+msgid "Audio/Video"
+msgstr "Аудио видео"
+
+msgid "Real Time Config"
+msgstr "Конфигурация в реальном времени"
+
+msgid "Supported Platforms, Vendors and Partners"
+msgstr "Поддерживаемые платформы, поставщики и партнеры"
+
+msgid "AMP Conf 2020: Save the date!"
+msgstr "AMP Conf 2020: сохрани дату!"
