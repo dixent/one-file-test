@@ -1,0 +1,75 @@
+# Kodi Media Center language file
+# Addon Name: SponsorBlock
+# Addon id: script.service.sponsorblock
+# Addon Provider: siku2
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# next number: 32013
+
+
+# SETTINGS
+
+#   general category
+
+msgctxt "#32001"
+msgid "General"
+msgstr "Общая"
+
+msgctxt "#32006"
+msgid "Show dialog after ad skip"
+msgstr "Показывать диалог после пропуска рекламы"
+
+msgctxt "#32011"
+msgid "Enable Sponsor Skip Count Tracking"
+msgstr "Включить отслеживание пропусков спонсора"
+
+msgctxt "#32012"
+msgid "Auto Upvote"
+msgstr "Авто Upvote"
+
+#   api category
+
+msgctxt "#32007"
+msgid "API"
+msgstr "API"
+
+msgctxt "#32002"
+msgid "Server Domain"
+msgstr "Домен сервера"
+
+msgctxt "#32003"
+msgid "User ID"
+msgstr "Логин пользователя"
+
+
+# NOTIFICATIONS
+
+msgctxt "#32004"
+msgid "Failed to submit vote"
+msgstr "Не удалось подать голос"
+
+msgctxt "#32005"
+msgid "Submitted vote"
+msgstr "Подано голосование"
+
+
+# SPONSOR SKIPPED DIALOG
+
+msgctxt "#32008"
+msgid "Skipped sponsor segment"
+msgstr "Пропущенный спонсорский сегмент"
+
+msgctxt "#32009"
+msgid "unskip"
+msgstr "unskip"
+
+msgctxt "#32010"
+msgid "report"
+msgstr "доклад"
