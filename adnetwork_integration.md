@@ -63,3 +63,12 @@ For instructions on creating a Fast Fetch integration, see the [Fast Fetch Netwo
 *   [`amp-ad`](../../../documentation/components/reference/amp-ad.md)
 *   [List of supported ad vendors](../../../documentation/guides-and-tutorials/develop/monetization/ads_vendors.md)
 *   [Blog entry describing launch of Fast Fetch](https://blog.amp.dev/2017/08/21/even-faster-loading-ads-in-amp/)
+
+```html
+<amp-ad width="300" height="250"
+    type="a9"
+    data-aax_size="300x250"
+    data-aax_pubname="test123"
+    data-aax_src="302">
+</amp-ad>
+```
