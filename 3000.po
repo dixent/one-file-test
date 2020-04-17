@@ -3110,3 +3110,6 @@ msgstr ""
 
 msgid "Some test text big very test test uniq all uniq! Text text!"
 msgstr ""
+
+msgid "Some test text big very test test uniq all uniq! Text text! number 2"
+msgstr ""
