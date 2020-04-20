@@ -1,3 +1,6 @@
+msgid "Hop Hey lalaley"
+msgstr ""
+
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
 msgstr ""
