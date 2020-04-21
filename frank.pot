@@ -1,3 +1,9 @@
+msgid "Hop Hey lalaley"
+msgstr ""
+
+msgid "Hop Hey lalaley part 2"
+msgstr ""
+
 msgid "Hop Hey lalaley part 3"
 msgstr ""
 
