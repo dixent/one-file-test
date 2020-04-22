@@ -2,16 +2,16 @@ msgid "Hop Hey lalaley"
 msgstr "ホップ・ヘイ・ラレー"
 
 msgid "Hop Hey lalaley part 2"
-msgstr ""
+msgstr "Hop Hey lalaleyパート2"
 
 msgid "Hop Hey lalaley part 3"
-msgstr ""
+msgstr "Hop Hey lalaleyパート3"
 
 msgid "Hop Hey lalaley part 4"
-msgstr ""
+msgstr "ホップ・ヘイ・ラレーパート4"
 
 msgid "Hop Hey lalaley part 5"
-msgstr ""
+msgstr "Hop Hey lalaleyパート5"
 
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
@@ -1011,37 +1011,37 @@ msgid "social"
 msgstr "ソーシャル"
 
 msgid "advertising-analytics"
-msgstr "Advertising & Analytics"
+msgstr "広告分析"
 
 msgid "introduction"
-msgstr "Introduction"
+msgstr "前書き"
 
 msgid "components"
-msgstr "Components"
+msgstr "コンポーネント"
 
 msgid "guides"
-msgstr "Guides"
+msgstr "ガイド"
 
 msgid "e-commerce"
-msgstr "E-Commerce"
+msgstr "電子商取引"
 
 msgid "interactivity-dynamic-content"
-msgstr "Interactivity & Dynamic Content"
+msgstr "双方向性動的コンテンツ"
 
 msgid "multimedia-animations"
-msgstr "Multimedia & Animations"
+msgstr "マルチメディアアニメーション"
 
 msgid "news-publishing"
-msgstr "News & Publishing"
+msgstr "ニュース出版"
 
 msgid "personalization"
-msgstr "Personalization"
+msgstr "個人化"
 
 msgid "style-layout"
-msgstr "Style & Layout"
+msgstr "スタイルレイアウト"
 
 msgid "user-consent"
-msgstr "User consent"
+msgstr "ユーザーの同意"
 
 msgid "visual-effects"
-msgstr "Visual effects"
+msgstr "視覚効果"
