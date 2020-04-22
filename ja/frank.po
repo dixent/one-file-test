@@ -1,3 +1,18 @@
+msgid "Hop Hey lalaley"
+msgstr "ホップ・ヘイ・ラレー"
+
+msgid "Hop Hey lalaley part 2"
+msgstr ""
+
+msgid "Hop Hey lalaley part 3"
+msgstr ""
+
+msgid "Hop Hey lalaley part 4"
+msgstr ""
+
+msgid "Hop Hey lalaley part 5"
+msgstr ""
+
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
 msgid "A screenshot of a website using AMP."
 msgstr ""
@@ -994,3 +1009,39 @@ msgstr "プレゼンテーション"
 #: /content/amp-dev/documentation/components/reference/amp-vk.md
 msgid "social"
 msgstr "ソーシャル"
+
+msgid "advertising-analytics"
+msgstr "Advertising & Analytics"
+
+msgid "introduction"
+msgstr "Introduction"
+
+msgid "components"
+msgstr "Components"
+
+msgid "guides"
+msgstr "Guides"
+
+msgid "e-commerce"
+msgstr "E-Commerce"
+
+msgid "interactivity-dynamic-content"
+msgstr "Interactivity & Dynamic Content"
+
+msgid "multimedia-animations"
+msgstr "Multimedia & Animations"
+
+msgid "news-publishing"
+msgstr "News & Publishing"
+
+msgid "personalization"
+msgstr "Personalization"
+
+msgid "style-layout"
+msgstr "Style & Layout"
+
+msgid "user-consent"
+msgstr "User consent"
+
+msgid "visual-effects"
+msgstr "Visual effects"
