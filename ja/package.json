@@ -1,0 +1,29 @@
+{
+  "name": "vue-ssr-docs",
+  "version": "1.0.0",
+  "private": "本当",
+  "description": "vue-server-rendererのドキュメント",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepressビルドドキュメント"
+  },
+  "repository": {
+    "type": "ギット",
+    "url": "git + https：//github.com/vuejs/vue-ssr-docs.git"
+  },
+  "keywords": [
+    "Vue",
+    "ssr",
+    "docs"
+  ],
+  "author": "エヴァン・ユー",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vue-ssr-docs/issues"
+  },
+  "homepage": "https://github.com/vuejs/vue-ssr-docs#readme",
+  "devDependencies": {
+    "vuepress": "^ 0.14.8",
+    "vuepress-theme-vue": "^ 1.1.0"
+  }
+}
