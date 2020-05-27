@@ -1,2 +1,3 @@
 settings:
   frontmatter_not_escaped: true
+  tenser_flow_notebooks: true
