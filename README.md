@@ -106,13 +106,6 @@ The diagram below shows some examples of potential improvements in speed:
 
 As can be seen, even a program which is 50% parallelisable will benefit very little beyond 10 processing units, whereas a program which is 95% parallelisable can still achieve significant speed improvements with over a thousand processing units.
 
-As [Moore's Law](#moores-law) slows, and the acceleration of individual processor speed slows, parallelisation is key to improving performance. Graphics programming is an excellent example - with modern Shader based computing, individual pixels or fragments can be rendered in parallel - this is why modern graphics cards often have many thousands of processing cores (GPUs or Shader Units).
-
-See also:
-
-- [Brooks' Law](#brooks-law)
-- [Moore's Law](#moores-law)
-
 ### The Broken Windows Theory
 
 [The Broken Windows Theory on Wikipedia](https://en.wikipedia.org/wiki/Broken_windows_theory)
