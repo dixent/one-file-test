@@ -14,4 +14,8 @@ This method receives [the context](/api/context) as the first argument, you can 
 
 Hop-Hey lalaley
 
+Two some new p1
+
+_Two some new p2_
+
 Nuxt.js will automatically merge the returned object with the component data.
