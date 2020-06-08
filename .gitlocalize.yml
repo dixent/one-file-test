@@ -1,3 +1,5 @@
 settings:
-  frontmatter_not_escaped: true
-  postprocess_jupyter_notebooks_with_nbfmt_py: true
+  postprocess_jupyter_notebooks_with_nbfmt_py:
+    - "true"
+  advise_cla_signing:
+    - "true"
