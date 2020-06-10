@@ -19,7 +19,7 @@ TensorFlow docsコミュニティに参加するのであれば、以下の2つ�
 
 リファレンスドキュメントの品質と、短期集中型ドキュメント作成(訳注:doc sprints)とコミュニティに深くかかわる方法を知るために、[TensorFlow 2 API Docs advice](https://docs.google.com/document/d/1e20k9CuaZ_-hp25-sSd8E8qldxKPKQR-SkwojYr_r-U/preview)を参照してください。
 
-### Versions and branches
+### バージョンとブランチ
 
 サイトの[API リファレンス](https://www.tensorflow.org/api_docs/python/tf)のバージョンは、通常最新の安定バイナリを元に作成されています。これは`pip install tensorflow`でインストールされるパッケージのバージョンと一致しています。
 
@@ -43,8 +43,8 @@ TensorFlow 2 リファレンスドキュメントを生成するには、`tensor
 
 <pre class="prettyprint lang-bsh">
 <code class="devsite-terminal">git clone https://github.com/tensorflow/tensorflow tensorflow</code>
-<code class="devsite-terminal">cd tensorflow/tensorflow/tools/docs</code>
-<code class="devsite-terminal">pip install tensorflow</code>
+<code class="devsite-terminal">cd tensorflow / tensorflow / tools / docs</code>
+<code class="devsite-terminal">pipインストールtensorflow</code>
 <code class="devsite-terminal">python generate2.py --output_dir=/tmp/out</code>
 </pre>
 
@@ -70,12 +70,12 @@ Gitでの次の手順は、ローカルプロジェクトを初めてセット�
 
 <a class="external" href="https://github.com/tensorflow/docs">tensorflow / docs</a> GitHubページで、*フォーク*ボタンをクリックすることで<svg class="octicon octicon-repo-forked" viewbox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"></svg><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path> あなたのGitHubアカウント上にリポジトリのコピーを作成します。フォークしたら、あなたには、上流のTensorFlowリポジトリに追随してリポジトリコピーを最新に保つ責任があります。
 
-#### Clone your repo
+#### リポジトリをクローンする
 
 *あなたの*リモートリポジトリ<var>username</var>/docsのコピーをローカルマシンにダウンロードします。これは、変更を加える作業用ディレクトリです。
 
 <pre class="prettyprint lang-bsh">
-<code class="devsite-terminal">git clone git@github.com:username/docs</code>
+<code class="devsite-terminal">git clone git@github.com：username / docs</code>
 <code class="devsite-terminal">cd ./docs</code>
 </pre>
 
@@ -93,9 +93,9 @@ Gitでの次の手順は、ローカルプロジェクトを初めてセット�
 
 <pre class="prettyprint lang-bsh"> <code class="devsite-terminal">git checkout master</code> <code class="devsite-terminal">git pull <var>upstream</var> master</code>  <code class="devsite-terminal">git push</code>  # Push changes to your GitHub account (defaults to origin)</pre>
 
-### GitHub workflow
+### GitHubワークフロー
 
-#### 1. Create a new branch
+#### 1.新しいブランチを作成する
 
 `tensorflow/docs`からリポジトリを更新した後、次のようにローカル*マスター*ブランチから新しいブランチを作成します。
 
@@ -109,9 +109,9 @@ Gitでの次の手順は、ローカルプロジェクトを初めてセット�
 
 <pre class="prettyprint lang-bsh"> # View changes <code class="devsite-terminal">git status</code>  # See which files have changed <code class="devsite-terminal">git diff</code>    # See changes within files  <code class="devsite-terminal">git add <var>path/to/file.md</var></code> <code class="devsite-terminal">git commit -m "Your meaningful commit message for the change."</code></pre>
 
-Add more commits, as necessary.
+必要に応じて、さらにコミットを追加します。
 
-#### 3. Create a pull request
+#### 3.プルリクエストを作成する
 
 以下のようにして、ローカルブランチをGitHub上のリモートリポジトリ（github.com/<var>username</var>/docs）にアップロードします。
 
@@ -190,7 +190,7 @@ Jupyter notebookファイルをダウンロードしてローカルGitワーク�
 - （簡体字）中国語: [docs-zh-cn@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-zh-cn)
 - イタリア語: [docs-it@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-it)
 - 日本語: [docs-ja@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-ja)
-- Korean: [docs-ko@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-ko)
+- 韓国語： [docs-ko@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-ko)
 - ロシア語: [docs-ru@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-ru)
 - トルコ語: [docs-tr@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/docs-tr)
 
@@ -203,7 +203,7 @@ Jupyter notebookファイルをダウンロードしてローカルGitワーク�
 
 ### 訳文中のコード部分を最新に保つ
 
-For an open source project like TensorFlow, keeping documentation up-to-date is challenging. After talking with the community, readers of translated content will tolerate text that is a little out-of-date, but out-of-date code is frustrating. To make it easier to keep the code in sync, use the [nb-code-sync](https://github.com/tensorflow/docs/blob/master/tools/nb_code_sync.py) tool for the translated notebooks:
+TensorFlowなどのオープンソースプロジェクトの場合、ドキュメントを最新の状態に保つことは困難です。コミュニティと話し合った後、翻訳されたコンテンツの読者は少し古くなったテキストを許容しますが、古くなったコードはイライラします。コードの同期を維持しやすくするには、翻訳されたノートブックに[nb-code-sync](https://github.com/tensorflow/docs/blob/master/tools/nb_code_sync.py)ツールを使用します。
 
 <pre class="prettyprint lang-bsh">
 <code class="devsite-terminal">./tools/nb_code_sync.py [--lang=en] site/lang/notebook.ipynb</code>
