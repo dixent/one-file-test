@@ -2,9 +2,9 @@ TensorFlow 2.0 includes many API changes, such as reordering arguments, renaming
 
 Note: `tf_upgrade_v2` is installed automatically for TensorFlow 1.13 and later (including all TF 2.0 builds).
 
-Typical usage is like this:
+Typical usage is like thiss:
 
-<pre class=\"devsite-terminal devsite-click-to-copy prettyprint lang-bsh\">
+<pre class='\"devsite-terminal' devsite-click-to-copy prettyprint lang-bsh>
   tf_upgrade_v2 \\\n
     --intree my_project/ \\\n
     --outtree my_project_v2/ \\\n
