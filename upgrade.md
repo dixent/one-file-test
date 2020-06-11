@@ -1,7 +1,16 @@
-```
-# upgrade the .py files and copy all the other files to the outtree\n
-!tf_upgrade_v2 \\\n
-    --intree models/samples/cookbook/regression/ \\\n
-    --outtree regression_v2/ \\\n
-    --reportfile tree_report.txt
-```
+TensorFlow 2.0 includes many API changes, such as reordering arguments, renaming symbols, and changing default values for parameters. Manually performing all of these modifications would be tedious and prone to error. To streamline the changes, and to make your transition to TF 2.0 as seamless as possible, the TensorFlow team has created the `tf_upgrade_v2` utility to help transition legacy code to the new API
+
+Note: `tf_upgrade_v2` is installed automatically for TensorFlow 1.13 and later (including all TF 2.0 builds).
+
+Typical usage is like this:
+
+<pre class=\"devsite-terminal devsite-click-to-copy prettyprint lang-bsh\">
+  tf_upgrade_v2 \\\n
+    --intree my_project/ \\\n
+    --outtree my_project_v2/ \\\n
+    --reportfile report.txt\n
+</pre>
+
+It will accelerate your upgrade process by converting existing TensorFlow 1.x Python scripts to TensorFlow 2.0.
+
+The conversion script automates as much as possible, but there are still syntactical and stylistic changes that cannot be performed by the script.
