@@ -3,3 +3,5 @@ settings:
     - "true"
   advise_cla_signing:
     - "true"
+  frontmatter_not_escaped:
+    - "true"
