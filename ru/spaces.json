@@ -14,7 +14,7 @@
   "command.help.error1": "Эта категория не существует. Пожалуйста, используйте `$ prefixhelp` для просмотра всех категорий.",
   "command.help.error2": "Вы ввели слишком много аргументов. Пожалуйста, либо просто запустите `$ prefixhelp`, либо укажите категорию после него.",
   "command.help.description": "Показывает все команды",
-  "command.help.usage": " [Категория]",
+  "command.help.usage": "[Категория]",
   "command.language.title": "язык",
   "command.language.name": ": flag_us: американский английский",
   "command.language.error": "Вы не предоставили действительный языковой идентификатор. Доступные языки - $ langs.",
