@@ -12,10 +12,4 @@ Sometimes you just want to fetch data and pre-render it on the server without us
 It will be called server-side once (on the first request to the Nuxt app) and client-side when navigating to further routes.
 This method receives [the context](/api/context) as the first argument, you can use it to fetch some data and Nuxt.js will merge it with the component data.
 
-Hop-Hey lalaley
-
-Two some new p1
-
-_Two some new p2_
-
 Nuxt.js will automatically merge the returned object with the component data.
