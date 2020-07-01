@@ -4,11 +4,11 @@ Note: `tf_upgrade_v2` is installed automatically for TensorFlow 1.13 and later (
 
 Typical usage is like this:
 
-<pre class=\"devsite-terminal devsite-click-to-copy prettyprint lang-bsh\">
-  tf_upgrade_v2 \\\n
-    --intree my_project/ \\\n
-    --outtree my_project_v2/ \\\n
-    --reportfile report.txt\n
+<pre class="devsite-terminal devsite-click-to-copy prettyprint lang-bsh">
+  tf_upgrade_v2
+    --intree my_project
+    --outtree my_project_v2
+    --reportfile report.txt
 </pre>
 
 It will accelerate your upgrade process by converting existing TensorFlow 1.x Python scripts to TensorFlow 2.0.

@@ -15,8 +15,3 @@ It will accelerate your upgrade process by converting existing TensorFlow 1.x Py
 
 The conversion script automates as much as possible, but there are still syntactical and stylistic changes that cannot be performed by the script.
 
-Not exist content
-
-
-
-Second dont exist content
