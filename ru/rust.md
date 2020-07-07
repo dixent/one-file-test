@@ -114,7 +114,7 @@ To learn more, run the command again with --verbose.
 Конечно, мы не можем охватить все произошедшие изменения. Поэтому мы обратились к некоторым из наших команд и спросили, какими изменениями они больше всего гордятся:
 
 <details>
- <summary>1.43.0 Сообщение об ошибке</summary>
+ <summary>1.2.0 Сообщение об ошибке</summary>
 </details>
 
 ```
@@ -191,7 +191,7 @@ To learn more, run the command again with --verbose.
 Очевидно, что мы не смогли охватить все изменения или улучшения в Rust, которые произошли с 2015 года. Какими были ваши любимые изменения или новые любимые проекты Rust? Не стесняйтесь размещать свой ответ и обсуждение на [нашем форуме Discourse](https://users.rust-lang.org/t/five-years-of-rust/42661).
 
 <details>
- <summary>1.43.0 Сообщение об ошибке</summary>
+ <summary>1.43.0 Error Message</summary>
 </details>
 
 ```
@@ -233,7 +233,7 @@ fn main() {
 ```
 
 <details>
- <summary>1.2.0 Сообщение об ошибке</summary>
+ <summary>1.2.0 Error Message</summary>
 </details>
 
 ```
@@ -270,7 +270,7 @@ To learn more, run the command again with --verbose.
 ![A terminal screenshot of the 1.2.0 error message.](/images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png)
 
 <details>
- <summary>1.43.0 Сообщение об ошибке</summary>
+ <summary>1.43.0 Error Message</summary>
 </details>
 
 ```
@@ -297,40 +297,40 @@ To learn more, run the command again with --verbose.
 
 
 
-![A terminal screenshot of the 1.43.0 error message.]
+![A terminal screenshot of the 1.43.0 error message.](/images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png)
 
 ## Цитаты от участников команд
 
 Конечно, мы не можем охватить все произошедшие изменения. Поэтому мы обратились к некоторым из наших команд и спросили, какими изменениями они больше всего гордятся:
 
-> Для rustdoc значительными изменениями были:
+> For rustdoc, the big things were:
 > - Автоматически сгенерированная документация для автоматических реализованных типажей
 > - Сам поиск и его оптимизации (последним является преобразование метаданных в JSON)
 > - Возможность более точного тестирования документационных блоков "compile_fail, should_panic, allow_fail"
-> - Тесты документации теперь генерируются как отдельные двоичные файлы.
+> - Тесты документации теперь генерируются как отдельные двоичные файлы. — Guillaume Gomez ([rustdoc](/images/2020-05-15-five-years-of-rust/help-error-1.43.0.png))
 > — Guillaume Gomez ([rustdoc])
 
-> Rust теперь имеет базовую поддержку IDE! Я полагаю, что между IntelliJ Rust, RLS и rust-analyzer большинство пользователей должны получить «не ужасный» опыт для своего редактора. Пять лет назад под «написанием Rust» подразумевалось использование старой школы Vim/Emacs.
-> — Алексей Кладов ([IDEs and editors])
+> Rust now has baseline IDE support! Between IntelliJ Rust, RLS and rust-analyzer, I feel that most users should be able to find "not horrible" experience for their editor of choice. Five years ago, "writing Rust" meant using old school Vim/Emacs setup.
+> — Aleksey Kladov ([IDEs and editors])
 
-> Для меня это было бы следующим: добавление первоклассной поддержки популярных встроенных архитектур и усилия по созданию экосистемы, позволяющей сделать разработку микроконтроллеров с помощью Rust лёгкой, безопасной и в то же время увлекательной.
+> For me that would be: Adding first class support for popular embedded architectures and achieving a striving ecosystem to make micro controller development with Rust an easy and safe, yet fun experience.
 > — Daniel Egger ([Embedded WG])
 
-> Команда релизов работала только с начала 2018 года, но даже за это время мы получили ~ 40000 коммитов только в `rust-lang/rust` без каких-либо существенных регрессий в стабильной версии. Учитывая, как быстро мы улучшаем компилятор и стандартные библиотеки, я думаю, что это действительно впечатляет (хотя, конечно, команда релизов здесь не является единственным участником). В целом, я обнаружил, что команда релизов проделала отличную работу по управлению масштабированием для увеличения трафика на трекерах, публикуемых PR и т. д.
+> The release team has only been around since (roughly) early 2018, but even in that time, we've landed ~40000 commits just in rust-lang/rust without any significant regressions in stable.
+> Considering how quickly we're improving the compiler and standard libraries, I think that's really impressive (though of course the release team is not the sole contributor here). Overall, I've found that the release team has done an excellent job of managing to scale to the increasing traffic on issue trackers, PRs being filed, etc.
 > — Mark Rousskov ([Release])
-> — Mark Rousskov ([Release](https://www.rust-lang.org/governance/teams/release))
 
-> За последние 3 года нам удалось превратить интерпретатор [Miri] из экспериментального в практический инструмент для изучения дизайна языка и поиска ошибок в реальном коде, отличное сочетание теории и практики проектирования языков. С теоретической точки зрения у нас есть [Stacked Borrows], на данный момент наиболее конкретное предложение для модели псевдонимов Rust. С практической точки зрения, хотя изначально мы проверяли только несколько ключевых библиотек в Miri, мы недавно увидели большое количество людей, использующих Miri для [поиска и исправления ошибок](https://github.com/rust-lang/miri/#bugs-found-by-miri) в своих собственных крейтах, зависимостях и аналогичное понимание среди участников, улучшающих Miri, например, добавив поддержку доступа к файловой системе, раскручивания стека и многопоточности.
+> Within the last 3 years we managed to turn [Miri] from an experimental interpreter into a practical tool for exploring language design and finding bugs in real code—a great combination of PL theory and practice.  On the theoretical side we have [Stacked Borrows], the most concrete proposal for a Rust aliasing model so far. On the practical side, while initially only a few key libraries were checked in Miri by us, recently we saw a great uptake of people using Miri to [find and fix bugs](https://github.com/rust-lang/miri/#bugs-found-by-miri) in their own crates and dependencies, and a similar uptake in contributors improving Miri e.g. by adding support for file system access, unwinding, and concurrency.
 > — Ralf Jung ([Miri])
 
-> Если бы мне пришлось выбрать одну вещь, которой я больше всего горжусь, это была работа над NLL. Это не только потому, что я думаю, что это сильно повлияло на удобство использования Rust, но и потому, что мы реализовали его, сформировав рабочую группу NLL. Эта рабочая группа привлекла много замечательных участников, многие из которых до сих пор работают над компилятором. Открытый исходный код в лучшем виде!
+> If I had to pick one thing I'm most proud of, it was the work on non-lexical lifetimes (NLL). It's not only because I think it made a big difference in the usability of Rust, but also because of the way that we implemented it by forming the NLL working group. This working group brought in a lot of great contributors, many of whom are still working on the compiler today. Open source at its best!
 > — Niko Matsakis ([Language])
 
 ## Сообщество
 
 Поскольку язык изменился и сильно вырос за последние пять лет, изменилось и его сообщество. В Rust было написано так много замечательных проектов, и присутствие Rust в производстве выросло в геометрической прогрессии. Мы хотели бы поделиться статистикой о том, насколько вырос Rust.
 
-- Rust четыре года подряд признавался [«Самым любимым языком программированием»] по опросам разработчиков Stack Overflow, проводимых в последние года, начиная с версии 1.0.
+- Rust четыре года подряд признавался [«Самым любимым языком программированием»](https://www.rust-lang.org/governance/teams/rustdoc) по опросам разработчиков Stack Overflow, проводимых в последние года, начиная с версии 1.0.
 - Только в этом году мы обработали более 2,25 петабайта (1PB = 1000 ТБ) различных версий компилятора, инструментария и документации!
 - В то же время мы обработали более 170 ТБ пакетов для примерно 1,8 миллиарда запросов на crates.io, удвоив ежемесячный трафик по сравнению с прошлым годом.
 
@@ -362,13 +362,11 @@ To learn more, run the command again with --verbose.
 [1.31]: https://blog.rust-lang.org/2018/12/06/Rust-1.31-and-rust-2018.html
 [1.34]: https://blog.rust-lang.org/2019/04/11/Rust-1.34.0.html
 [1.39]: https://blog.rust-lang.org/2019/11/07/Rust-1.39.0.html
-[A terminal screenshot of the 1.43.0 error message.]:  /images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png
-[Miri]: /images/2020-05-15-five-years-of-rust/borrow-error-1.43.0.png
-[Stacked Borrows]:    /images/2020-05-15-five-years-of-rust/help-error-1.2.0.png
-[rustdoc]:   /images/2020-05-15-five-years-of-rust/help-error-1.43.0.png
-[IDEs and editors]:   /images/2020-05-15-five-years-of-rust/trait-error-1.2.0.png
-[Embedded WG]:  /images/2020-05-15-five-years-of-rust/trait-error-1.43.0.png
-[Release]: https://github.com/rust-lang/miri
-[Miri]: https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md
-[Language]:  https://github.com/rust-lang/miri/#bugs-found-by-miri
-[«Самым любимым языком программированием»]: https://www.rust-lang.org/governance/teams/rustdoc
+[Miri]:  /images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png
+[Stacked Borrows]: /images/2020-05-15-five-years-of-rust/borrow-error-1.43.0.png
+[rustdoc]:    /images/2020-05-15-five-years-of-rust/help-error-1.2.0.png
+[IDEs and editors]:   /images/2020-05-15-five-years-of-rust/help-error-1.43.0.png
+[Embedded WG]:   /images/2020-05-15-five-years-of-rust/trait-error-1.2.0.png
+[Release]:  /images/2020-05-15-five-years-of-rust/trait-error-1.43.0.png
+[Miri]: https://github.com/rust-lang/miri
+[Language]: https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md
