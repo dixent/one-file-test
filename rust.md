@@ -15,6 +15,8 @@ whether as the kernel for your operating system or your next web app. It is buil
 entirely by an open and diverse community of individuals, primarily volunteers who
 generously donate their time and expertise to help make Rust what it is.
 
+New p!
+
 ## Major Changes since 1.0
 
 #### 2015
