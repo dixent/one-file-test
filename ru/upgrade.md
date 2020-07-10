@@ -14,4 +14,3 @@ Typical usage is like this:
 It will accelerate your upgrade process by converting existing TensorFlow 1.x Python scripts to TensorFlow 2.0.
 
 The conversion script automates as much as possible, but there are still syntactical and stylistic changes that cannot be performed by the script.
-
