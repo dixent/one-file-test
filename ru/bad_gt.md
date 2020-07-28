@@ -1,0 +1,3 @@
+Хоп эй! Лала лей!
+
+To do this, first **change** the `type` of the <a href="../../../../documentation/components/reference/amp-carousel.md"><code data-md-type="codespan">amp-carousel</code></a> from `carousel` to `slides`, **change** the `layout` to `responsive` and **set** the `width` to 300 or <strong>100</strong> (ensuring it has both a `height` and `width` defined).  **Add** the `"layout=responsive"` attribute to the <a href="../../../../documentation/components/reference/amp-img.md"><code data-md-type="codespan">amp-img</code></a> children of the <a href="../../../../documentation/components/reference/amp-carousel.md"><code data-md-type="codespan">amp-carousel</code></a>.
