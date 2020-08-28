@@ -1,0 +1,6 @@
+exclusive_tags:
+  - opened: "[sourcecode:html]"
+    change_opened: "```\n"
+    closed: "[/sourcecode]"
+    change_closed: "\n```"
+    remove_tag: "\n"
