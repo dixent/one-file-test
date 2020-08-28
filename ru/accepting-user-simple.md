@@ -1,7 +1,7 @@
-Создается следующий HTML-код:
+The following HTML is generated:
 
-[sourcecode:html]
-{% raw %}<p>Bob is an excellent builder!</p>
-{% endraw %}[/sourcecode]
+[sourcecode:html] {% raw %}
 
-Переменные усов могут заменять не только текст. Вы также можете использовать переменные усов в значениях атрибутов. Это полезно при определении URL-адреса изображения. Например, при наличии следующих данных:
+<p>Bob is an excellent builder!</p>
+
+Mustache variables can replace more than just text. You can use mustache variables in the values of attributes as well. This is useful in defining the URL of an image. For example, when given the following data:
