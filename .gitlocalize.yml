@@ -1,6 +1,6 @@
 exclusive_tags:
-  - opened: "[sourcecode:html]"
+  - opened: !ruby/regexp /\[sourcecode:html\]/
     change_opened: "```\n"
-    closed: "[/sourcecode]"
+    closed: !ruby/regexp /\[\/sourcecode\]/
     change_closed: "\n```"
-    remove_tag: "\n"
+    remove_tag: !ruby/regexp /\n/
