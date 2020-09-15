@@ -2,5 +2,7 @@
   "foo": {
     "bar": "<span style=\"color: red\">Bar</span>"
   },
-  "baz": "Buzz"
+  "baz": "Buzz",
+  "mybool": true,
+  "secondbool": false
 }
