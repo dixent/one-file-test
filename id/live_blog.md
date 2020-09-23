@@ -1,14 +1,20 @@
 ---
 $title: Membuat blog langsung
+$order: 102
+description: Blog langsung adalah halaman web yang sering diperbarui selama acara yang sedang berlangsung, seperti acara olahraga atau pemilihan. Di AMP, Anda dapat menerapkan blog langsung dengan menggunakan ...
+tutorial: benar
+formats:
+- situs web
+author: kul3r4.dll
+contributors:
+- bpaduch
 ---
 
 Blog langsung adalah halaman yang sering diperbarui sepanjang acara yang sedang berlangsung, seperti acara olahraga atau pemilu. Di AMP, Anda dapat menerapkan blog langsung menggunakan komponen [`amp-live-list`](../../../documentation/components/reference/amp-live-list.md).
 
 Tutorial ini memberikan gambaran singkat tentang komponen [`amp-live-list`](../../../documentation/components/reference/amp-live-list.md) dan berfokus pada beberapa detail implementasi untuk blog langsung, seperti [paginasi](#pagination) dan [deep linking](#deeplinking). Kami akan menggunakan [contoh blog langsung] (live_blog.md) AMP By Example untuk mengilustrasikan implementasi blog langsung di AMP.
 
-[tip type="success"]
-Gunakan markup metadata [LiveBlogPosting](http://schema.org/LiveBlogPosting) agar blog Anda dapat diintegrasikan dengan fitur platform pihak ketiga.
-[/tip]
+[tip type="success"] Gunakan markup metadata [LiveBlogPosting](http://schema.org/LiveBlogPosting) agar blog Anda dapat diintegrasikan dengan fitur platform pihak ketiga. [/tip]
 
 {{ image('/static/img/docs/tutorials/amp-live-list-ampbyexample.png', 700, 1441, align='right third') }}
 
