@@ -7,7 +7,9 @@ Blog langsung adalah halaman yang sering diperbarui sepanjang acara yang sedang 
 Tutorial ini memberikan gambaran singkat tentang komponen [`amp-live-list`](../../../documentation/components/reference/amp-live-list.md) dan berfokus pada beberapa detail implementasi untuk blog langsung, seperti [paginasi](#pagination) dan [deep linking](#deeplinking). Kami akan menggunakan [contoh blog langsung] (live_blog.md) AMP By Example untuk mengilustrasikan implementasi blog langsung di AMP.
 
 [tip type="success"]
+
 Gunakan markup metadata [LiveBlogPosting](http://schema.org/LiveBlogPosting) agar blog Anda dapat diintegrasikan dengan fitur platform pihak ketiga.
+
 [/tip]
 
 {{ image('/static/img/docs/tutorials/amp-live-list-ampbyexample.png', 700, 1441, align='right third') }}
