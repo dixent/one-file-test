@@ -1,15 +1,5 @@
 ---
 $title: Create a live blog
-$order: 102
-description: 'Live blogs are web pages that are updated frequently throughout an on-going event, such as a sporting event or an election. In AMP, you can implement a live blog by using ...'
-tutorial: true
-
-formats:
-    - websites
-
-author: kul3r4
-contributors:
-  - bpaduch
 ---
 
 Live blogs are web pages that are updated frequently throughout an on-going event, such as a sporting event or an election. In AMP, you can implement a live blog by using the [`amp-live-list`](../../../documentation/components/reference/amp-live-list.md) component.
