@@ -64,7 +64,8 @@ limitations under the License.
 <tr>
 <td>Can include optional meta tags in HTML head as identifiers, in the format of <code><meta name="amp4ads-id" content="vendor=${vendor},type=${type},id=${id}"></code>. Those meta tags must be placed before the <code>amp4ads-v0.js</code> script. The value of <code>vendor</code> and <code>id</code> are strings containing only [0-9a-zA-Z_-]. The value of <code>type</code> is either <code>creative-id</code> or <code>impression-id</code>.</td>
 <td>Those custom identifiers can be used to identify the impression or the creative. They can be helpful for reporting and debugging.<br><br><p>Example:</p> <pre> <meta name="amp4ads-id" content="vendor=adsense,type=creative-id,id=1283474"> </pre>
-<meta name="amp4ads-id" content="vendor=adsense,type=impression-id,id=xIsjdf921S"> </td>
+<meta name="amp4ads-id" content="vendor=adsense,type=impression-id,id=xIsjdf921S">
+</td>
 </tr>
 <tr>
 <td> <code><amp-analytics></amp-analytics></code> viewability tracking may only target the full-ad selector, via  <code>"visibilitySpec": { "selector": "amp-ad" }</code> as defined in <a href="https://github.com/ampproject/amphtml/issues/4018">Issue #4018</a> and <a href="https://github.com/ampproject/amphtml/pull/4368">PR #4368</a>. In particular, it may not target any selectors for elements within the ad creative.</td>
