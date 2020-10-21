@@ -2,8 +2,7 @@
 
 Используйте `preview="top-frame"` вместе с `orientation="portrait"` для предварительного просмотра историй AMP.
 
-
-<pre>[example preview="top-frame"
+[example preview="top-frame"
          orientation="portrait"
          playground="true"]
     ```html
@@ -36,23 +35,18 @@
       </amp-story>
     </body>
     ```
-  [/example]</pre>
-### Встроенный образец
+  [/example]### Встроенный образец
 
 Вот простой встроенный образец. Вы можете определить CSS с помощью встроенных стилей:
 
-
-<pre>[example preview="inline" playground="true"]
+[example preview="inline" playground="true"]
     ```html
     <div style="background: red; width: 200px; height: 200px;">Hello World</div>
     ```
-  [/example]</pre>
-Вот как это выглядит:
+  [/example]Вот как это выглядит:
 
-```
 [example preview="inline" playground="true"]
 ```html
 <div style="background: red; width: 200px; height: 200px;">Hello World</div>
 ```
 [/example]
-```
