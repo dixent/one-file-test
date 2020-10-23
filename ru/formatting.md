@@ -1,5 +1,5 @@
 ---
-"$title": Formatting guides & tutorials
+"$title": Руководства и руководства по форматированию2
 "$order": '3'
 description: Требования к форматированию файлов для amp.dev
 formats:
