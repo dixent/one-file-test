@@ -171,11 +171,14 @@ Python-Markdown имеет некоторые ограничения. Испол
 Примеры кода могут иметь предварительный просмотр и / или ссылку на версию [AMP Playground](https://playground.amp.dev/) .
 
 <div class="ap-m-code-snippet">
-  <pre>[example preview="inline" playground="true"]
-    ```html
-    <div style="background: red; width: 200px; height: 200px;">Hello World</div>
-    ```
-  [/example]</pre>
+  <pre data-md-type="custom_block_code_with_pre"><code>&lsqb;example preview="default: none|inline|top-frame"
+          playground="default: true|false"
+          imports="<custom-element-1>,<custom-element-2>,..."
+          template="<custom-template>"]
+  ```html
+    // code sample
+  ```
+  &lsqb;/example]</code></pre>
 </div>
 
 Примечание. Предварительный просмотр будет автоматически преобразован в текущий выбранный формат при его открытии на игровой площадке 🤯!
@@ -199,14 +202,11 @@ Python-Markdown имеет некоторые ограничения. Испол
 Вот простой встроенный образец. Вы можете определить CSS с помощью встроенных стилей:
 
 <div class="ap-m-code-snippet">
-<pre data-md-type="custom_block_code_with_pre"><code>&lsqb;example preview="default: none|inline|top-frame"
-          playground="default: true|false"
-          imports="<custom-element-1>,<custom-element-2>,..."
-          template="<custom-template>"]
-  ```html
-    // code sample
-  ```
-  &lsqb;/example]</code></pre>
+<pre>[example preview="inline" playground="true"]
+    ```html
+    <div style="background: red; width: 200px; height: 200px;">Hello World</div>
+    ```
+  [/example]</pre>
 </div>
 
 Вот как это выглядит:
