@@ -6,6 +6,13 @@ formats:
   - stories
   - ads
 teaser: Hop
+array:
+  key: value
+  inside_array:
+    array:
+    - 1
+    - 2
+    - 3
 ---
 
 ## Header
