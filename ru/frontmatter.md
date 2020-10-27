@@ -7,7 +7,7 @@ formats:
 - Объявления
 teaser: Хмель
 array:
-  key: Text content content content content content content
+  key: Текстовое содержимоеконтент контентконтент контент
   inside_array:
     array:
     - '1'
