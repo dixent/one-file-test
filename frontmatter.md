@@ -7,7 +7,9 @@ formats:
   - ads
 teaser: Hop
 array:
-  key: value
+  key: Text content content
+    content content
+    content content
   inside_array:
     array:
     - 1
