@@ -11,6 +11,10 @@ First, we will look at the Layers API, which is a higher-level API for building 
 
 ## Creating models with the Layers API
 
+## Hop hey
+
+Hop hey content!
+
 There are two ways to create a model using the Layers API: A _sequential_ model, and a _functional_ model. The next two sections look at each type more closely.
 
 ### The sequential model
