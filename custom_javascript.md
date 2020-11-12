@@ -257,11 +257,8 @@ This function does the following:
 1. Grabs the contents of the password `<input>`.
 1. Creates a flag called `failed`, initialized to `false`.
 1. Iterates through each of our regexes and tests each against the password:
-    * If the password fails a test, call `checkFail()` to turn the corresponding rule red. Also, set `failed` to `true`.
     * If the password passes a test, call `checkPass()` to turn the corresponding rule green.
 1. Finally, if no rule failed, the password is valid, and we enable the Submit button.
-
-All we need now are a couple of event listeners. Remember how we were unable to use the `focus` event in AMP? In `<amp-script>`, we can. Whenever the password `<input>` receives the `focus` event, we'll display the rules. And whenever the user presses a key in that input, we'll call `checkPassword()`.
 
 Add these two event listeners to the bottom of `initCheckPassword()`, directly before the closing brace:
 
