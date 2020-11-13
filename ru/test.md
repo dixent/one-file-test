@@ -2,7 +2,7 @@ project_path: /web/fundamentals/_project.yaml book_path: /web/fundamentals/_book
 
 {# wf_updated_on: 2019-05-02 #} {# wf_published_on: 2016-09-27 #} {# wf_blink_components: N / A #}
 
-# Модель оболочки 1 приложения {: .page-title}
+# Модель оболочки 21 приложения {: .page-title}
 
 {% include "web / _shared / Contributors / addyosmani.html"%}
 
