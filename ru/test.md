@@ -2,7 +2,7 @@ project_path: /web/fundamentals/_project.yaml book_path: /web/fundamentals/_book
 
 {# wf_updated_on: 2019-05-02 #} {# wf_published_on: 2016-09-27 #} {# wf_blink_components: N / A #}
 
-# Модель оболочки приложения {: .page-title}
+# Модель оболочки 1 приложения {: .page-title}
 
 {% include "web / _shared / Contributors / addyosmani.html"%}
 
@@ -55,12 +55,12 @@ project_path: /web/fundamentals/_project.yaml book_path: /web/fundamentals/_book
 
 Структурируйте свое приложение, чтобы четко различать оболочку страницы и динамическое содержимое. В общем, ваше приложение должно загружать самую простую возможную оболочку, но при начальной загрузке должно включать в себя достаточно значимого содержимого страницы. Определите правильный баланс между скоростью и актуальностью данных для каждого из ваших источников данных.
 
-&lt;figure&gt;
-  &lt;img src="images/wikipedia.jpg"
-    alt="Offline Wikipedia app using an application shell with content caching"&gt;
-  &lt;figcaption&gt;Jake Archibald’s &lt;a href="https://wiki-offline.jakearchibald.com/wiki/Rick_and_Morty"&gt;offline Wikipedia application&lt;/a&gt; is a good example of a PWA that uses an app shell model. It loads instantly on repeat visits, but dynamically fetches content using JS. This content is then cached offline for future visits.
-&lt;/figcaption&gt;
-&lt;/figure&gt;
+<figure>
+  <img src="images/wikipedia.jpg"
+    alt="Offline Wikipedia app using an application shell with content caching">
+  <figcaption>Jake Archibald’s <a href="https://wiki-offline.jakearchibald.com/wiki/Rick_and_Morty">offline Wikipedia application</a> is a good example of a PWA that uses an app shell model. It loads instantly on repeat visits, but dynamically fetches content using JS. This content is then cached offline for future visits.
+</figcaption>
+</figure>
 
 ### Пример HTML для оболочки приложения {: # example-html-for-appshell}
 
