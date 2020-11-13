@@ -77,52 +77,52 @@ project_path: /web/fundamentals/_project.yaml book_path: /web/fundamentals/_book
 <div class="clearfix"></div>
 
 ```
-&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-  &lt;meta charset="utf-8"&gt;
-  &lt;title&gt;App Shell&lt;/title&gt;
-  &lt;link rel="manifest" href="/manifest.json"&gt;
-  &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
-  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
-  &lt;link rel="stylesheet" type="text/css" href="styles/inline.css"&gt;
-&lt;/head&gt;
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>App Shell</title>
+  <link rel="manifest" href="/manifest.json">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles/inline.css">
+</head>
 
-&lt;body&gt;
-  &lt;header class="header"&gt;
-    &lt;h1 class="header__title"&gt;App Shell&lt;/h1&gt;
-  &lt;/header&gt;
+<body>
+  <header class="header">
+    <h1 class="header__title">App Shell</h1>
+  </header>
 
-  &lt;nav class="nav"&gt;
+  <nav class="nav">
   ...
-  &lt;/nav&gt;
+  </nav>
 
-  &lt;main class="main"&gt;
+  <main class="main">
   ...
-  &lt;/main&gt;
+  </main>
 
-  &lt;div class="dialog-container"&gt;
+  <div class="dialog-container">
   ...
-  &lt;/div&gt;
+  </div>
 
-  &lt;div class="loader"&gt;
-    &lt;!-- Show a spinner or placeholders for content --&gt;
-  &lt;/div&gt;
+  <div class="loader">
+    <!-- Show a spinner or placeholders for content -->
+  </div>
 
-  &lt;script src="app.js" async&gt;&lt;/script&gt;
-  &lt;script&gt;
-  if (&#39;serviceWorker&#39; in navigator) {
-    navigator.serviceWorker.register(&#39;/sw.js&#39;).then(function(registration) {
+  <script src="app.js" async></script>
+  <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').then(function(registration) {
       // Registration was successful
-      console.log(&#39;ServiceWorker registration successful with scope: &#39;, registration.scope);
+      console.log('ServiceWorker registration successful with scope: ', registration.scope);
     }).catch(function(err) {
       // registration failed :(
-      console.log(&#39;ServiceWorker registration failed: &#39;, err);
+      console.log('ServiceWorker registration failed: ', err);
     });
   }
-  &lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+  </script>
+</body>
+</html>
 ```
 
 <div class="clearfix"></div>
@@ -140,22 +140,22 @@ An app shell can be cached using a manually written service worker or a generate
 Below is example service worker code that caches static resources from the app shell into the [Cache API](https://developer.mozilla.org/en-US/docs/Web/API/Cache) using service worker's `install` event:
 
 ```
-var cacheName = &#39;shell-content&#39;;
+var cacheName = 'shell-content';
 var filesToCache = [
-  &#39;/css/styles.css&#39;,
-  &#39;/js/scripts.js&#39;,
-  &#39;/images/logo.svg&#39;,
+  '/css/styles.css',
+  '/js/scripts.js',
+  '/images/logo.svg',
 
-  &#39;/offline.html&#39;,
+  '/offline.html',
 
-  &#39;/&#39;,
+  '/',
 ];
 
-self.addEventListener(&#39;install&#39;, function(e) {
-  console.log(&#39;[ServiceWorker] Install&#39;);
+self.addEventListener('install', function(e) {
+  console.log('[ServiceWorker] Install');
   e.waitUntil(
     caches.open(cacheName).then(function(cache) {
-      console.log(&#39;[ServiceWorker] Caching app shell&#39;);
+      console.log('[ServiceWorker] Caching app shell');
       return cache.addAll(filesToCache);
     })
   );
@@ -169,13 +169,13 @@ self.addEventListener(&#39;install&#39;, function(e) {
 Вот базовый пример использования sw-precache как части процесса сборки [gulp](http://gulpjs.com) :
 
 ```
-gulp.task(&#39;generate-service-worker&#39;, function(callback) {
-  var path = require(&#39;path&#39;);
-  var swPrecache = require(&#39;sw-precache&#39;);
-  var rootDir = &#39;app&#39;;
+gulp.task('generate-service-worker', function(callback) {
+  var path = require('path');
+  var swPrecache = require('sw-precache');
+  var rootDir = 'app';
 
-  swPrecache.write(path.join(rootDir, &#39;service-worker.js&#39;), {
-    staticFileGlobs: [rootDir + &#39;/**/*.{js,html,css,png,jpg,gif}&#39;],
+  swPrecache.write(path.join(rootDir, 'service-worker.js'), {
+    staticFileGlobs: [rootDir + '/**/*.{js,html,css,png,jpg,gif}'],
     stripPrefix: rootDir
   }, callback);
 });
