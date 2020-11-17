@@ -1,6 +1,1 @@
-Эта строка создает новую переменную с именем `foo` и связывает ее со значением переменной `bar` . В Rust переменные по умолчанию неизменяемы. Мы будем подробно обсуждать эту концепцию в [«Переменные и изменчивость»] [переменные и изменчивость]<!-- игнорировать --> в главе 3. В следующем примере показано, как использовать `mut` перед именем переменной, чтобы сделать переменную изменяемой:
-
-```rust,ignore
-let foo = 5; // immutable
-let mut bar = 5; // mutable
-```
+By default, Rust brings only a few types into the scope of every program in [the *prelude*][prelude]<!-- ignore -->. If a type you want to use isn’t in the prelude, you have to bring that type into scope explicitly with a `use` statement. Using the `std::io` library provides you with a number of useful features, including the ability to accept user input.
