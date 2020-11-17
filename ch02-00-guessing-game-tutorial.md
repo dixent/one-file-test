@@ -1,11 +1,5 @@
-This line creates a new variable named `foo` and binds it to the value of the
-`bar` variable. In Rust, variables are immutable by default. We’ll be
-discussing this concept in detail in the [“Variables and
-Mutability”][variables-and-mutability]<!-- ignore --> section in Chapter 3.
-The following example shows how to use `mut` before the variable name to make
-a variable mutable:
-
-```rust,ignore
-let foo = 5; // immutable
-let mut bar = 5; // mutable
-```
+By default, Rust brings only a few types into the scope of every program in
+[the *prelude*][prelude]<!-- ignore -->. If a type you want to use isn’t in the
+prelude, you have to bring that type into scope explicitly with a `use`
+statement. Using the `std::io` library provides you with a number of useful
+features, including the ability to accept user input.
