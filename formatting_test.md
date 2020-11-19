@@ -52,6 +52,19 @@ Here is simple inline sample embed. You can define CSS via inline styles:
   [/example]</pre>
 </div>
 
+<div class="ap-m-code-snippet">
+  <pre>
+  &lsqb;example preview="default: none|inline|top-frame"
+          playground="default: true|false"
+          imports="&lt;custom-element-1&gt;,&lt;custom-element-2&gt;,..."
+          template="&lt;custom-template&gt;"]
+  ```html
+    // code sample
+  ```
+  &lsqb;/example]
+  </pre>
+</div>
+
 This is what it looks like:
 
 [example preview="inline" playground="true"]
