@@ -1,6 +1,6 @@
-
-
-[sourcecode:html]
-{% raw %}&amp;lt;script async custom-element="ampp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"&amp;gt;&amp;lt;/script&amp;gt;
-{% endraw %}
-[/sourcecode]
+<div>
+  [sourcecode:html]
+  {% raw %}<script async custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script>
+  {% endraw %}
+  [/sourcecode]
+</div>
