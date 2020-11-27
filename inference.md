@@ -387,18 +387,18 @@ of different ways, depending on where the model is stored:
 
 ```c++
 class FlatBufferModel {
-  // Build a model based on a file. Return a nullptr in case of failure.
-  static std::unique_ptr<FlatBufferModel> BuildFromFile(
-      const char* filename,
-      ErrorReporter* error_reporter);
+  // Build a model based on a file. Return a nullptr in case of failure.
+  static std::unique_ptr<FlatBufferModel> BuildFromFile(
+      const char* filename,
+      ErrorReporter* error_reporter);
 
-  // Build a model based on a pre-loaded flatbuffer. The caller retains
-  // ownership of the buffer and should keep it alive until the returned object
-  // is destroyed. Return a nullptr in case of failure.
-  static std::unique_ptr<FlatBufferModel> BuildFromBuffer(
-      const char* buffer,
-      size_t buffer_size,
-      ErrorReporter* error_reporter);
+  // Build a model based on a pre-loaded flatbuffer. The caller retains
+  // ownership of the buffer and should keep it alive until the returned object
+  // is destroyed. Return a nullptr in case of failure.
+  static std::unique_ptr<FlatBufferModel> BuildFromBuffer(
+      const char* buffer,
+      size_t buffer_size,
+      ErrorReporter* error_reporter);
 };
 ```
 
