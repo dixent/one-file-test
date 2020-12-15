@@ -6,7 +6,6 @@
     "isActive": "waar",
     "balance": "$ 1 713,90",
     "picture": "http://placehold.it/32x32",
-    "age": 29,
     "eyeColor": "groen",
     "name": "Mavis Conner",
     "gender": "vroulik",
@@ -42,7 +41,8 @@
       }
     ],
     "greeting": "Hallo, Mavis Conner! U het 2 ongeleesde boodskappe.",
-    "favoriteFruit": "piesang"
+    "favoriteFruit": "piesang",
+    "age": 291
   },
   "1": {
     "_id": "5e721c324480ba036e1ef83c",
