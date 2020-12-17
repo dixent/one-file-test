@@ -4,7 +4,7 @@
   "private": "cierto",
   "description": "documentos para vue-server-renderer",
   "scripts": {
-    "dev": "vuepress dev docs",
+    "dev": "vuepress dev docs 2",
     "build": "vuepress build docs"
   },
   "repository": {
