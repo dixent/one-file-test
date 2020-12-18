@@ -83,11 +83,11 @@ expression?.method()?;           // New
 ```rust
 use std::io::Write;
 
-fn trait_obj(w: &amp;amp;Write) {
+fn trait_obj(w: &amp;amp;amp;Write) {
     generic(w);
 }
 
-fn generic&amp;lt;W: Write&amp;gt;(_w: &amp;amp;W) {}
+fn generic&amp;amp;lt;W: Write&amp;amp;gt;(_w: &amp;amp;amp;W) {}
 ```
 
 <details>
@@ -117,18 +117,18 @@ To learn more, run the command again with --verbose.
 ```
    Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
 error[E0277]: the size for values of type `dyn std::io::Write` cannot be known at compilation time
- --&amp;gt; src/lib.rs:6:13
+ --&amp;amp;gt; src/lib.rs:6:13
   |
 6 |     generic(w);
   |             ^ doesn't have a size known at compile-time
 ...
-9 | fn generic&amp;lt;W: Write&amp;gt;(_w: &amp;amp;W) {}
+9 | fn generic&amp;amp;lt;W: Write&amp;amp;gt;(_w: &amp;amp;amp;W) {}
   |    ------- -       - help: consider relaxing the implicit `Sized` restriction: `+  ?Sized`
   |            |
   |            required by this bound in `generic`
   |
   = help: the trait `std::marker::Sized` is not implemented for `dyn std::io::Write`
-  = note: to learn more, visit &amp;lt;https://doc.rust-lang.org/book/ch19-04-advanced-types.html#dynamically-sized-types-and-the-sized-trait&amp;gt;
+  = note: to learn more, visit &amp;amp;lt;https://doc.rust-lang.org/book/ch19-04-advanced-types.html#dynamically-sized-types-and-the-sized-trait&amp;amp;gt;
 
 error: aborting due to previous error
 
@@ -156,23 +156,23 @@ fn main() {
 
 ```
    Compiling error-messages v0.1.0 (file:///Users/ep/src/rust/error-messages)
-src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnMut&amp;lt;(char,)&amp;gt;` is not implemented for the type `collections::string::String` [E0277]
+src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnMut&amp;amp;lt;(char,)&amp;amp;gt;` is not implemented for the type `collections::string::String` [E0277]
 src/lib.rs:3     println!("{:?}", s.find("".to_owned()));
                                     ^~~~~~~~~~~~~~~~~~~
 note: in expansion of format_args!
-&amp;lt;std macros&amp;gt;:2:25: 2:56 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 2:62 note: in expansion of print!
-&amp;lt;std macros&amp;gt;:3:1: 3:54 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 3:58 note: in expansion of println!
+&amp;amp;lt;std macros&amp;amp;gt;:2:25: 2:56 note: expansion site
+&amp;amp;lt;std macros&amp;amp;gt;:1:1: 2:62 note: in expansion of print!
+&amp;amp;lt;std macros&amp;amp;gt;:3:1: 3:54 note: expansion site
+&amp;amp;lt;std macros&amp;amp;gt;:1:1: 3:58 note: in expansion of println!
 src/lib.rs:3:5: 3:45 note: expansion site
-src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnOnce&amp;lt;(char,)&amp;gt;` is not implemented for the type `collections::string::String` [E0277]
+src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnOnce&amp;amp;lt;(char,)&amp;amp;gt;` is not implemented for the type `collections::string::String` [E0277]
 src/lib.rs:3     println!("{:?}", s.find("".to_owned()));
                                     ^~~~~~~~~~~~~~~~~~~
 note: in expansion of format_args!
-&amp;lt;std macros&amp;gt;:2:25: 2:56 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 2:62 note: in expansion of print!
-&amp;lt;std macros&amp;gt;:3:1: 3:54 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 3:58 note: in expansion of println!
+&amp;amp;lt;std macros&amp;amp;gt;:2:25: 2:56 note: expansion site
+&amp;amp;lt;std macros&amp;amp;gt;:1:1: 2:62 note: in expansion of print!
+&amp;amp;lt;std macros&amp;amp;gt;:3:1: 3:54 note: expansion site
+&amp;amp;lt;std macros&amp;amp;gt;:1:1: 3:58 note: in expansion of println!
 src/lib.rs:3:5: 3:45 note: expansion site
 error: aborting due to 2 previous errors
 Could not compile `error-messages`.
@@ -189,17 +189,17 @@ To learn more, run the command again with --verbose.
 
 ```
    Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
-error[E0277]: expected a `std::ops::FnMut&lt;(char,)&gt;` closure, found `std::string::String`
- --&gt; src/lib.rs:3:29
+error[E0277]: expected a `std::ops::FnMut&amp;lt;(char,)&amp;gt;` closure, found `std::string::String`
+ --&amp;gt; src/lib.rs:3:29
   |
 3 |     println!("{:?}", s.find("".to_owned()));
   |                             ^^^^^^^^^^^^^
   |                             |
-  |                             expected an implementor of trait `std::str::pattern::Pattern&lt;'_&gt;`
-  |                             help: consider borrowing here: `&amp;"".to_owned()`
+  |                             expected an implementor of trait `std::str::pattern::Pattern&amp;lt;'_&amp;gt;`
+  |                             help: consider borrowing here: `&amp;amp;"".to_owned()`
   |
-  = note: the trait bound `std::string::String: std::str::pattern::Pattern&lt;'_&gt;` is not satisfied
-  = note: required because of the requirements on the impl of `std::str::pattern::Pattern&lt;'_&gt;` for `std::string::String`
+  = note: the trait bound `std::string::String: std::str::pattern::Pattern&amp;lt;'_&amp;gt;` is not satisfied
+  = note: required because of the requirements on the impl of `std::str::pattern::Pattern&amp;lt;'_&amp;gt;` for `std::string::String`
 
 error: aborting due to previous error
 
@@ -218,7 +218,7 @@ To learn more, run the command again with --verbose.
 ```rust
 fn main() {
     let mut x = 7;
-    let y = &amp;amp;mut x;
+    let y = &amp;amp;amp;mut x;
 
     println!("{} {}", x, y);
 }
@@ -233,18 +233,18 @@ src/lib.rs:5:23: 5:24 error: cannot borrow `x` as immutable because it is also b
 src/lib.rs:5     println!("{} {}", x, y);
                                    ^
 note: in expansion of format_args!
-&lt;std macros&gt;:2:25: 2:56 note: expansion site
-&lt;std macros&gt;:1:1: 2:62 note: in expansion of print!
-&lt;std macros&gt;:3:1: 3:54 note: expansion site
-&lt;std macros&gt;:1:1: 3:58 note: in expansion of println!
+&amp;lt;std macros&amp;gt;:2:25: 2:56 note: expansion site
+&amp;lt;std macros&amp;gt;:1:1: 2:62 note: in expansion of print!
+&amp;lt;std macros&amp;gt;:3:1: 3:54 note: expansion site
+&amp;lt;std macros&amp;gt;:1:1: 3:58 note: in expansion of println!
 src/lib.rs:5:5: 5:29 note: expansion site
 src/lib.rs:3:18: 3:19 note: previous borrow of `x` occurs here; the mutable borrow prevents subsequent moves, borrows, or modification of `x` until the borrow ends
-src/lib.rs:3     let y = &amp;mut x;
+src/lib.rs:3     let y = &amp;amp;mut x;
                               ^
 src/lib.rs:6:2: 6:2 note: previous borrow ends here
 src/lib.rs:1 fn main() {
 src/lib.rs:2     let mut x = 7;
-src/lib.rs:3     let y = &amp;mut x;
+src/lib.rs:3     let y = &amp;amp;mut x;
 src/lib.rs:4
 src/lib.rs:5     println!("{} {}", x, y);
 src/lib.rs:6 }
@@ -265,9 +265,9 @@ To learn more, run the command again with --verbose.
 ```
    Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
 error[E0502]: cannot borrow `x` as immutable because it is also borrowed as mutable
- --&gt; src/lib.rs:5:23
+ --&amp;gt; src/lib.rs:5:23
   |
-3 |     let y = &amp;mut x;
+3 |     let y = &amp;amp;mut x;
   |             ------ mutable borrow occurs here
 4 |
 5 |     println!("{} {}", x, y);
@@ -291,28 +291,28 @@ To learn more, run the command again with --verbose.
 
 Конечно, мы не можем охватить все произошедшие изменения. Поэтому мы обратились к некоторым из наших команд и спросили, какими изменениями они больше всего гордятся:
 
-> Для rustdoc значительными изменениями были:
+> Для Рустдока важными вещами были:
 > - Автоматически сгенерированная документация для автоматических реализованных типажей
 > - Сам поиск и его оптимизации (последним является преобразование метаданных в JSON)
 > - Возможность более точного тестирования документационных блоков "compile_fail, should_panic, allow_fail"
-> - Тесты документации теперь генерируются как отдельные двоичные файлы. — Guillaume Gomez ([rustdoc](/images/2020-05-15-five-years-of-rust/help-error-1.43.0.png))
-> — Guillaume Gomez ([rustdoc])
+> - Тесты документации теперь генерируются как отдельные двоичные файлы. — Guillaume Gomez ([rustdoc](/images/2020-05-15-five-years-of-rust/help-error-1.43.0.png)) — Guillaume Gomez ([rustdoc](/images/2020-05-15-five-years-of-rust/help-error-1.2.0.png))
+> - Гийом Гомес ( [rustdoc] )
 
-> Rust теперь имеет базовую поддержку IDE! Я полагаю, что между IntelliJ Rust, RLS и rust-analyzer большинство пользователей должны получить «не ужасный» опыт для своего редактора. Пять лет назад под «написанием Rust» подразумевалось использование старой школы Vim/Emacs.
-> — Алексей Кладов ([IDEs and editors])
+> Rust теперь имеет базовую поддержку IDE! Я считаю, что между IntelliJ Rust, RLS и rust-analyzer большинство пользователей смогут найти «не ужасные» возможности для своего редактора. Пять лет назад «написание Rust» означало использование старой школы Vim / Emacs.
+> - Алексей Кладов ( [IDE и редакторы] )
 
-> Для меня это было бы следующим: добавление первоклассной поддержки популярных встроенных архитектур и усилия по созданию экосистемы, позволяющей сделать разработку микроконтроллеров с помощью Rust лёгкой, безопасной и в то же время увлекательной.
-> — Daniel Egger ([Embedded WG])
+> Для меня это было бы: добавление первоклассной поддержки популярных встроенных архитектур и создание стремящейся экосистемы, чтобы сделать разработку микроконтроллеров с помощью Rust простой и безопасной, но увлекательной.
+> - Даниэль Эггер ( [Embedded WG] )
 
-> Команда релизов работала только с начала 2018 года, но даже за это время мы получили ~ 40000 коммитов только в `rust-lang/rust` без каких-либо существенных регрессий в стабильной версии. Учитывая, как быстро мы улучшаем компилятор и стандартные библиотеки, я думаю, что это действительно впечатляет (хотя, конечно, команда релизов здесь не является единственным участником). В целом, я обнаружил, что команда релизов проделала отличную работу по управлению масштабированием для увеличения трафика на трекерах, публикуемых PR и т. д.
-> — Mark Rousskov ([Release])
-> - Марк Руссков ( [Релиз](https://www.rust-lang.org/governance/teams/release) )
+> Команда релизов существует только с (примерно) начала 2018 года, но даже за это время мы получили ~ 40000 коммитов только в rust-lang / rust без каких-либо значительных регрессов в стабильной версии.
+> Учитывая, насколько быстро мы улучшаем компилятор и стандартные библиотеки, я думаю, что это действительно впечатляет (хотя, конечно, команда разработчиков здесь не единственный участник). В целом, я обнаружил, что команда разработчиков проделала отличную работу по масштабированию в соответствии с растущим трафиком на средства отслеживания проблем, поданные PR и т. Д.
+> - Марк Руссков ( [Релиз] )
 
-> За последние 3 года нам удалось превратить интерпретатор [Miri] из экспериментального в практический инструмент для изучения дизайна языка и поиска ошибок в реальном коде, отличное сочетание теории и практики проектирования языков. С теоретической точки зрения у нас есть [Stacked Borrows], на данный момент наиболее конкретное предложение для модели псевдонимов Rust. С практической точки зрения, хотя изначально мы проверяли только несколько ключевых библиотек в Miri, мы недавно увидели большое количество людей, использующих Miri для [поиска и исправления ошибок](https://github.com/rust-lang/miri/#bugs-found-by-miri) в своих собственных крейтах, зависимостях и аналогичное понимание среди участников, улучшающих Miri, например, добавив поддержку доступа к файловой системе, раскручивания стека и многопоточности.
-> — Ralf Jung ([Miri])
+> За последние 3 года нам удалось превратить [Мири] из экспериментального интерпретатора в практический инструмент для изучения языкового дизайна и поиска ошибок в реальном коде - отличное сочетание теории и практики PL. С теоретической точки зрения у нас есть [Stacked Borrows] , наиболее конкретное предложение для модели псевдонимов Rust. С практической точки зрения, хотя изначально мы проверили в Miri только несколько ключевых библиотек, недавно мы увидели большой интерес людей, использующих Miri для [поиска и исправления ошибок](https://github.com/rust-lang/miri/#bugs-found-by-miri) в своих ящиках и зависимостях, а также аналогичный интерес участников, улучшающих Miri, например добавив поддержку доступа к файловой системе, восстановления и параллелизма.
+> - Ральф Юнг ( [Мири] )
 
-> Если бы мне пришлось выбрать одну вещь, которой я больше всего горжусь, это была работа над NLL. Это не только потому, что я думаю, что это сильно повлияло на удобство использования Rust, но и потому, что мы реализовали его, сформировав рабочую группу NLL. Эта рабочая группа привлекла много замечательных участников, многие из которых до сих пор работают над компилятором. Открытый исходный код в лучшем виде!
-> — Niko Matsakis ([Language])
+> Если бы мне пришлось выбрать что-то, чем я больше всего горжусь, так это работу над нелексическими жизнями (NLL). Это не только потому, что я думаю, что это сильно повлияло на удобство использования Rust, но и потому, что мы реализовали его, сформировав рабочую группу NLL. Эта рабочая группа собрала много замечательных участников, многие из которых до сих пор работают над компилятором. Открытый исходный код в лучшем виде!
+> - Нико Мацакис ( [Язык] )
 
 ## Сообщество
 
@@ -350,11 +350,11 @@ To learn more, run the command again with --verbose.
 [1.31]: https://blog.rust-lang.org/2018/12/06/Rust-1.31-and-rust-2018.html
 [1.34]: https://blog.rust-lang.org/2019/04/11/Rust-1.34.0.html
 [1.39]: https://blog.rust-lang.org/2019/11/07/Rust-1.39.0.html
-[Miri]:  /images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png
+[Мири]:  /images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png
 [Stacked Borrows]: /images/2020-05-15-five-years-of-rust/borrow-error-1.43.0.png
 [rustdoc]:    /images/2020-05-15-five-years-of-rust/help-error-1.2.0.png
-[IDEs and editors]:   /images/2020-05-15-five-years-of-rust/help-error-1.43.0.png
+[IDE и редакторы]:   /images/2020-05-15-five-years-of-rust/help-error-1.43.0.png
 [Embedded WG]:   /images/2020-05-15-five-years-of-rust/trait-error-1.2.0.png
-[Release]:  /images/2020-05-15-five-years-of-rust/trait-error-1.43.0.png
-[Miri]: https://github.com/rust-lang/miri
-[Language]: https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md
+[Релиз]:  /images/2020-05-15-five-years-of-rust/trait-error-1.43.0.png
+[Мири]: https://github.com/rust-lang/miri
+[Язык]: https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md
