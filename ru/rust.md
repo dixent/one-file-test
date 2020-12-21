@@ -1,337 +1,161 @@
 ---
-layout: Пять лет Rust
-title: The Rust Core Team
-author: Команда ядра Rust
+layout: post
+title: "Five Years of Rust"
+author: The Rust Core Team
 ---
 
-В этом бардаке, который сейчас происходит в мире, легко забыть, что прошло уже пять лет с выпуска 1.0 в 2015м году! Rust за эти пять лет сильно изменился, так что мы хотели бы вспомнить о работе всех участников сообщества, начиная с момента стабилизации языка.
+With all that's going on in the world you'd be forgiven for forgetting that as
+of today, it has been five years since we released 1.0 in 2015! Rust has changed
+a lot these past five years, so we wanted reflect back on all of our
+contributors' work since the stabilization of the language.
 
-Напомним, если кто забыл: Rust - это язык программирования общего назначения, который обладает средствами, позволяющими строить надёжное и эффективное программное обеспечение. Rust может быть использован в любой области: от ядра вашей операционной системы до вашего следующего web-приложения. Этот язык полностью построен участниками открытого многоликого сообщества, в основном волонтёрами, кто щедро делился своим временем и знаниями для того, чтобы помочь сделать Rust таким, какой он есть сейчас.
+Rust is a general purpose programming language empowering everyone to build
+reliable and efficient software. Rust can be built to run anywhere in the stack,
+whether as the kernel for your operating system or your next web app. It is built
+entirely by an open and diverse community of individuals, primarily volunteers who
+generously donate their time and expertise to help make Rust what it is.
 
-## Основные изменения с версии 1.0
+## Major Changes since 1.0
 
 #### 2015
 
-**[1.2] — Параллельная кодогенерация:** уменьшение времени компиляции всегда являлось главной темой в каждом выпуске Rust, и сейчас трудно представить, что когда-то был короткий период времени, когда Rust вообще не имел параллельной кодогенерации.
+**[1.2] — Parallel Codegen:** Compile time improvements are large theme to every
+release of Rust, and it's hard to imagine that there was a short time where
+Rust had no parallel code generation at all.
 
-**[1.3] — The Rustonomicon:** наш первый выпуск фантастической книги "The Rustonomicon", книги, которая исследует тёмную сторону языка Rust, Unsafe Rust и смежные темы. Она стала прекрасным источником сведений для любого, кто хочет изучить и понять самые трудные аспекты языка.
+**[1.3] — The Rustonomicon:** Our first release of the fantastic "Rustonomicon", a
+book that explores Unsafe Rust and its surrounding topics has become a great
+resource for anyone looking to learn and understand one of the hardest aspects
+of the language.
 
-**[1.4] — Поддержка Windows MSVC уровня 1:** продвижение платформы на уровень поддержки 1 принесло нативную поддержку 64-битной Windows с инструментарием Microsoft Visual C++ (MSVC). До 1.4 вам нужно было устанавливать MinGW (порт окружения GNU под Windows) чтобы использовать и компилировать ваши программы на Rust. Поддержка Windows стала одним из самых больших улучшений Rust за эти пять лет. Лишь недавно Microsoft [анонсировала публичный пре-релиз официальной поддержки Rust для WinRT API!] И наконец, сейчас стало значительно легче строить высококачественные и кроссплатформенные приложения, нежели это было когда-либо ранее.
+**[1.4] — Windows MSVC Tier 1 Support:** The first tier 1 platform promotion was
+bringing native support for 64-bit Windows using the Microsoft Visual C++ toolchain
+(MSVC). Before 1.4 you needed to also have MinGW (a third party GNU environment)
+installed in order to use and compile your Rust programs. Rust's Windows support
+is one of the biggest improvements these past five years. Just recently
+Microsoft [announced a public preview of their official Rust support for the
+WinRT API!][winrt] Now it's easier than ever build top quality native and cross
+platform apps.
 
-**[1.5] — Cargo Install:** добавлена поддержка возможности сборки исполняемых файлов с помощью компилятора Rust вместе с поддержкой предустановленных дополнений cargo породило целую экосистему приложений, утилит и инструментов для разработчиков, которые сообщество обожает и от которых зависит. Cargo теперь поддерживает довольно много команд, которые сначала были просто плагинами, сделанными участниками сообщества и выложенными на crates.io!
+[winrt]: https://blogs.windows.com/windowsdeveloper/2020/04/30/rust-winrt-public-preview/
+
+**[1.5] — Cargo Install:** The addition of being able to build Rust binaries
+alongside cargo's pre-existing plugin support has given birth to an entire
+ecosystem of apps, utilities, and developer tools that the community has come
+to love and depend on. Quite a few of the commands cargo has today were first
+plugins that the community built and shared on crates.io!
 
 #### 2016
 
-**[1.6] — Libcore:** `libcore` - это подмножество стандартной библиотеки, содержащее только API, которое не требует функций выделения памяти или функций уровня операционной системы. Стабилизация `libcore` позволила компилировать Rust без выделения памяти или зависимости от операционной системы, что стало одним из первых основных шагов к поддержке Rust для разработки встраиваемых систем.
+**[1.6] — Libcore:** `libcore` is a subset of the standard library that only
+contains APIs that don't require allocation or operating system level features.
+The stabilization of libcore brought the ability to compile Rust with no allocation
+or operating system dependency was one of the first major steps towards Rust's
+support for embedded systems development.
 
-**[1.10] — Динамические библиотеки с C ABI:** крейт типа `cdylib` компилируется в динамическую библиотеку с C-интерфейсом, что позволяет встраивать проекты Rust в любую систему, которая поддерживает ABI языка C. Некоторые из самых больших историй успеха Rust среди пользователей - это возможность написать небольшую критическую часть системы на Rust и легко интегрировать в большую кодовую базу. И теперь это стало проще, чем когда-либо.
+**[1.10] — C ABI Dynamic Libraries:** The `cdylib` crate type allows Rust to be
+compiled as a C dynamic library, enabling you to embed your Rust projects in
+any system that supports the C ABI. Some of Rust's biggest success stories
+among users is being able to write a small critical part of their system in
+Rust and seamlessly integrate in the larger codebase, and it's now easier
+than ever.
 
-**[1.12] - Cargo Workspaces:** позволяют организовать несколько проектов Rust и совместно использовать один и тот же lock-файл. Рабочие пространства были неоценимы при создании крупных многоуровневых проектов.
+**[1.12] — Cargo Workspaces:** Workspaces allow you to organise multiple rust
+projects and share the same lockfile. Workspaces have been invaluable in
+building large multi-crate level projects.
 
-**[1.13] — Оператор `Try`:** первым основным синтаксическим изменением был оператор `?` или оператор "Try". Он позволяет легко распространять ошибку по стеку вызовов. Раньше вам приходилось использовать макрос `try!`, который требовал оборачивать всё выражение каждый раз, когда вы сталкивались с `Result`, теперь вместо этого можно легко связать методы с помощью `?`.
+**[1.13] — The Try Operator:** The first major syntax addition was the `?` or
+the "Try" operator. The operator allows you to easily propagate your error
+through your call stack. Previously you had to use the `try!` macro, which
+required you to wrap the entire expression each time you encountered a result,
+now you can easily chain methods with `?` instead.
 
 ```rust
 try!(try!(expression).method()); // Old
 expression?.method()?;           // New
 ```
 
-**[1.14] — Rustup 1.0:** Rustup - это менеджер инструментальных средств. Он позволяет беспрепятственно использовать любую версию Rust или любой его инструментарий. То, что начиналось как скромный скрипт, стало тем, что персонал по эксплуатации нежно называет *"химера"*. Возможность обеспечить первоклассное управление версиями компилятора в Linux, macOS, Windows и десятке целевых платформ была мифом ещё пять лет назад.
+**[1.14] — Rustup 1.0:** Rustup is Rust's Toolchain manager, it allows you to
+seamlessly use any version of Rust or any of its tooling. What started as a
+humble shell script has become what the maintainers affectionately call a
+*"chimera"*. Being able to provide first class compiler version management across
+Linux, macOS, Windows, and the dozens of target platforms would have been a
+myth just five years ago.
 
 #### 2017
 
-**[1.15] — Выводимые процедурные макросы:** выводимые макросы позволяют создавать мощные, обширные и строго типизированные API без часто повторяющегося кода. Это была первая стабильная версия Rust с которой стало можно использовать макросы из библиотек `serde` или `diesel`.
+**[1.15] — Derive Procedural Macros:** Derive Macros allow you to create powerful
+and extensive strongly typed APIs without all the boilerplate. This was the
+first version of Rust you could use libraries like `serde` or `diesel`'s
+derive macros on stable.
 
-**[1.17] — Rustbuild:** одним из самых больших улучшений для наших контрибьюторов в разработке языка стал переход от начальной системы сборки на основе `make` на использование Cargo. Благодаря этому участникам и новичкам `rust-lang/rust` стало намного проще создавать и вносить свой вклад в проект.
+**[1.17] — Rustbuild:** One of the biggest improvements for our contributors to
+the language was moving our build system from the initial `make` based system
+to using cargo. This has opened up `rust-lang/rust` to being a lot easier for
+members and newcomers alike to build and contribute to the project.
 
-**[1.20] — Ассоциированные константы:** ранее константы могли быть связаны только с модулем. В 1.20 мы стабилизировали ассоциативные константы для структур, перечислений и, что важно, для типажей. Это упростило добавление богатых наборов предустановленных значений в типы вашего API, таких как общие IP-адреса или использующиеся числовые константы.
+**[1.20] — Associated Constants:** Previously constants could only be associated
+with a module. In 1.20 we stabilised associating constants on struct, enums,
+and importantly traits. Making it easier to add rich sets of preset values for
+types in your API, such as common IP addresses or interesting numbers.
 
 #### 2018
 
-**[1.24] — Инкрементальная компиляция:** до версии 1.24, когда вы вносили изменения в библиотеку, компилятору приходилось перекомпилировать весь код. Теперь он стал намного умнее в плане кэширования, насколько это было возможно, и ему нужно только заново перегенерировать изменения.
+**[1.24] — Incremental Compilation:** Before 1.24 when you made a change in your
+library rustc would have to re-compile all of the code. Now rustc is a lot
+smarter about caching as much as possible and only needing to re-generate
+what's needed.
 
-**[1.26] - `impl Trait`:** добавление `impl Trait` дало вам выразительные динамические API с преимуществами и производительностью статической диспетчеризации.
+**[1.26] — impl Trait:** The addition of `impl Trait` gives you expressive
+dynamic APIs with the benefits and performance of static dispatch.
 
-**[1.28] — Глобальные аллокаторы:** ранее вы были ограничены использованием аллокатора, предоставленного Rust. Теперь с помощью API глобального аллокатора можно выбрать аллокатор, который соответствует вашим потребностям. Это был важный шаг в создании библиотеки `alloc`, другого подмножества стандартной библиотеки, содержащей только те её части, для которых требуется аллокатор, например `Vec` или `String`. Теперь стало проще, чем когда-либо, переиспользовать части стандартной библиотеки на различных системах.
+**[1.28] — Global Allocators:** Previously you were restricted to using the
+allocator that rust provided. With the global allocator API you can now
+customise your allocator to one that suits your needs. This was an important
+step in enabling the creation of the `alloc` library, another subset of the
+standard library containing only the parts of std that need an allocator like
+`Vec` or `String`. Now it's easier than ever to use even more parts of the
+standard library on a variety of systems.
 
-**[1.31] — 2018 редакция:** выпуск 2018 редакции стал нашим самым большим выпуском языка после версии 1.0, добавив изменения синтаксиса и улучшения в код на Rust, написанного полностью обратно совместимым образом. Это позволяет библиотекам, созданным с разными редакциями, беспрепятственно работать вместе.
+**[1.31] — 2018 edition:** The release of the 2018 edition was easily our biggest
+release since 1.0, adding a collection of syntax changes and improvements to
+writing Rust written in a completely backwards compatible fashion, allowing
+libraries built with different editions to seamlessly work together.
 
-- **Нелексические времена жизни (NLL)**: огромное улучшение в анализаторе заимствований Rust, позволяющее ему принимать более проверяемый безопасный код.
-- **Улучшения в системе модулей**: большие улучшения UX в объявлении и использовании модулей.
-- **Константные функции**: константные функции позволяют запускать и вычислять код Rust во время компиляции.
-- **Rustfmt 1.0**: новый инструмент форматирования кода, созданный специально для Rust.
-- **Clippy 1.0**: анализатор Rust для поиска распространённых ошибок. Clippy значительно упрощает проверку того, что ваш код не только безопасен, но и корректен.
-- **Rustfix**: со всеми изменениями синтаксиса мы знали, что хотим предоставить инструментарий, позволяющий сделать переход максимально простым. Теперь, когда требуются изменения в синтаксисе Rust, можно просто выполнить команду `cargo fix` для решения проблем, связанной с изменениями синтаксиса.
+- **Non-Lexical Lifetimes** A huge improvement to Rust's borrow checker,
+  allowing it to accept more verifiable safe code.
+- **Module System Improvements** Large UX improvements to how we define and
+  use modules.
+- **Const Functions** Const functions allow you to run and evaluate Rust code
+  at compile time.
+- **Rustfmt 1.0** A new code formatting tool built specifically for Rust.
+- **Clippy 1.0** Rust's linter for catching common mistakes. Clippy makes it a lot
+  easier to make sure that your code is not only safe but correct.
+- **Rustfix** With all the syntax changes, we knew we wanted to provide the
+  tooling to make the transition as easy as possible. Now when changes are
+  required to Rust's syntax they're just a `cargo fix` away from being resolved.
 
 #### 2019
 
-**[1.34] — Альтернативный реестр крейтов:** поскольку Rust всё больше и больше используется в производстве, возникает большая потребность в возможности размещении и использовании проектов в приватных пространствах. Вместе с этим в Cargo всегда разрешены зависимости из git-репозиториев. С помощью альтернативных реестров ваша организация может легко создать и делиться своим собственным реестром крейтов, которые можно использовать в ваших проектах, как если бы они были на crates.io.
+**[1.34] — Alternative Crate Registries:** As Rust is used more and more in
+production, there is a greater need to be able to host and use your projects
+in non-public spaces, while cargo has always allowed remote git dependencies,
+with Alternative Registries your organisation can easily build and share your
+own registry of crates that can be used in your projects like they were
+on crates.io.
 
-**[1.39] — Async/Await:** стабилизация ключевых слов `async`/`await` для обработки `Future` была одной из главных вех в превращении асинхронного программирования в "объект первого класса" Rust. Уже через шесть месяцев после его выпуска, асинхронное программирование превратилось в разнообразную и производительную экосистему.
+**[1.39] — Async/Await:** The stabilisation of the async/await keywords for
+handling Futures was one of the major milestones to making async programming
+in Rust a first class citizen. Even just six months after its release the
+async programming has blossomed into a diverse and performant ecosystem.
 
 #### 2020
 
-**[1.42](https://blog.rust-lang.org/2020/03/12/Rust-1.42.html) — Шаблоны срезов:** хотя это было и не самое большое изменение, добавление шаблона `..` (остальное) был долгожданной функцией, которая значительно улучшает выразительность сопоставления образцов для срезов.
+**[1.42] — Subslice patterns:** While not the biggest change, the addition
+  of the `..` (rest) pattern has been a long awaited quality of life
+  feature that greatly improves the expressivity of pattern matching
+  with slices.
 
-## Диагностики и ошибки
-
-Одна вещь, которую мы не упомянули, это то насколько улучшены сообщения об ошибках и диагностика в Rust с 1.0. Глядя на старые сообщения об ошибках кажется, что это теперь другой язык.
-
-Мы выделили несколько примеров, которые лучше всего демонстрируют насколько мы улучшили сообщения об ошибках. Теперь они показывают пользователям, где они допустили ошибки, и помогают понять почему код не работает, а также подсказывают, как можно их исправить.
-
-##### Первый пример (Типажи)
-
-```rust
-use std::io::Write;
-
-fn trait_obj(w: &amp;amp;Write) {
-    generic(w);
-}
-
-fn generic&amp;lt;W: Write&amp;gt;(_w: &amp;amp;W) {}
-```
-
-<details>
- <summary>1.2.0 Сообщение об ошибке</summary></details>
-
-```
-   Compiling error-messages v0.1.0 (file:///Users/usr/src/rust/error-messages)
-src/lib.rs:6:5: 6:12 error: the trait `core::marker::Sized` is not implemented for the type `std::io::Write` [E0277]
-src/lib.rs:6     generic(w);
-                 ^~~~~~~
-src/lib.rs:6:5: 6:12 note: `std::io::Write` does not have a constant size known at compile-time
-src/lib.rs:6     generic(w);
-                 ^~~~~~~
-error: aborting due to previous error
-Could not compile `error-messages`.
-
-To learn more, run the command again with --verbose.
-```
-
-
-
-![A terminal screenshot of the 1.2.0 error message.](https://github.com/ruRust/translations/blob/master/images/2020-05-15-five-years-of-rust/trait-error-1.2.0.png?raw=true)
-
-<details>
- <summary>1.43.0 Сообщение об ошибке</summary></details>
-
-```
-   Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
-error[E0277]: the size for values of type `dyn std::io::Write` cannot be known at compilation time
- --&amp;gt; src/lib.rs:6:13
-  |
-6 |     generic(w);
-  |             ^ doesn't have a size known at compile-time
-...
-9 | fn generic&amp;lt;W: Write&amp;gt;(_w: &amp;amp;W) {}
-  |    ------- -       - help: consider relaxing the implicit `Sized` restriction: `+  ?Sized`
-  |            |
-  |            required by this bound in `generic`
-  |
-  = help: the trait `std::marker::Sized` is not implemented for `dyn std::io::Write`
-  = note: to learn more, visit &amp;lt;https://doc.rust-lang.org/book/ch19-04-advanced-types.html#dynamically-sized-types-and-the-sized-trait&amp;gt;
-
-error: aborting due to previous error
-
-For more information about this error, try `rustc --explain E0277`.
-error: could not compile `error-messages`.
-
-To learn more, run the command again with --verbose.
-```
-
-
-
-![A terminal screenshot of the 1.43.0 error message.](https://github.com/ruRust/translations/blob/master/images/2020-05-15-five-years-of-rust/help-error-1.43.0.png?raw=true)
-
-##### Второй пример (помощь)
-
-```rust
-fn main() {
-    let s = "".to_owned();
-    println!("{:?}", s.find("".to_owned()));
-}
-```
-
-<details>
- <summary>1.2.0 Сообщение об ошибке</summary></details>
-
-```
-   Compiling error-messages v0.1.0 (file:///Users/ep/src/rust/error-messages)
-src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnMut&amp;lt;(char,)&amp;gt;` is not implemented for the type `collections::string::String` [E0277]
-src/lib.rs:3     println!("{:?}", s.find("".to_owned()));
-                                    ^~~~~~~~~~~~~~~~~~~
-note: in expansion of format_args!
-&amp;lt;std macros&amp;gt;:2:25: 2:56 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 2:62 note: in expansion of print!
-&amp;lt;std macros&amp;gt;:3:1: 3:54 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 3:58 note: in expansion of println!
-src/lib.rs:3:5: 3:45 note: expansion site
-src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnOnce&amp;lt;(char,)&amp;gt;` is not implemented for the type `collections::string::String` [E0277]
-src/lib.rs:3     println!("{:?}", s.find("".to_owned()));
-                                    ^~~~~~~~~~~~~~~~~~~
-note: in expansion of format_args!
-&amp;lt;std macros&amp;gt;:2:25: 2:56 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 2:62 note: in expansion of print!
-&amp;lt;std macros&amp;gt;:3:1: 3:54 note: expansion site
-&amp;lt;std macros&amp;gt;:1:1: 3:58 note: in expansion of println!
-src/lib.rs:3:5: 3:45 note: expansion site
-error: aborting due to 2 previous errors
-Could not compile `error-messages`.
-
-To learn more, run the command again with --verbose.
-```
-
-
-
-![A terminal screenshot of the 1.2.0 error message.](/images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png)
-
-<details>
- <summary>1.43.0 Сообщение об ошибке</summary></details>
-
-```
-   Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
-error[E0277]: expected a `std::ops::FnMut&lt;(char,)&gt;` closure, found `std::string::String`
- --&gt; src/lib.rs:3:29
-  |
-3 |     println!("{:?}", s.find("".to_owned()));
-  |                             ^^^^^^^^^^^^^
-  |                             |
-  |                             expected an implementor of trait `std::str::pattern::Pattern&lt;'_&gt;`
-  |                             help: consider borrowing here: `&amp;"".to_owned()`
-  |
-  = note: the trait bound `std::string::String: std::str::pattern::Pattern&lt;'_&gt;` is not satisfied
-  = note: required because of the requirements on the impl of `std::str::pattern::Pattern&lt;'_&gt;` for `std::string::String`
-
-error: aborting due to previous error
-
-For more information about this error, try `rustc --explain E0277`.
-error: could not compile `error-messages`.
-
-To learn more, run the command again with --verbose.
-```
-
-
-
-![A terminal screenshot of the 1.43.0 error message.](https://github.com/ruRust/translations/blob/master/images/2020-05-15-five-years-of-rust/help-error-1.43.0.png?raw=true)
-
-##### Третий пример (Проверка заимствований)
-
-```rust
-fn main() {
-    let mut x = 7;
-    let y = &amp;amp;mut x;
-
-    println!("{} {}", x, y);
-}
-```
-
-<details>
- <summary>1.2.0 Сообщение об ошибке</summary></details>
-
-```
-   Compiling error-messages v0.1.0 (file:///Users/ep/src/rust/error-messages)
-src/lib.rs:5:23: 5:24 error: cannot borrow `x` as immutable because it is also borrowed as mutable
-src/lib.rs:5     println!("{} {}", x, y);
-                                   ^
-note: in expansion of format_args!
-&lt;std macros&gt;:2:25: 2:56 note: expansion site
-&lt;std macros&gt;:1:1: 2:62 note: in expansion of print!
-&lt;std macros&gt;:3:1: 3:54 note: expansion site
-&lt;std macros&gt;:1:1: 3:58 note: in expansion of println!
-src/lib.rs:5:5: 5:29 note: expansion site
-src/lib.rs:3:18: 3:19 note: previous borrow of `x` occurs here; the mutable borrow prevents subsequent moves, borrows, or modification of `x` until the borrow ends
-src/lib.rs:3     let y = &amp;mut x;
-                              ^
-src/lib.rs:6:2: 6:2 note: previous borrow ends here
-src/lib.rs:1 fn main() {
-src/lib.rs:2     let mut x = 7;
-src/lib.rs:3     let y = &amp;mut x;
-src/lib.rs:4
-src/lib.rs:5     println!("{} {}", x, y);
-src/lib.rs:6 }
-             ^
-error: aborting due to previous error
-Could not compile `error-messages`.
-
-To learn more, run the command again with --verbose.
-```
-
-
-
-![Снимок экрана терминала с сообщением об ошибке 1.2.0.](https://github.com/ruRust/translations/blob/master/images/2020-05-15-five-years-of-rust/trait-error-1.2.0.png?raw=true)
-
-<details>
- <summary>1.43.0 Сообщение об ошибке</summary></details>
-
-```
-   Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
-error[E0502]: cannot borrow `x` as immutable because it is also borrowed as mutable
- --&gt; src/lib.rs:5:23
-  |
-3 |     let y = &amp;mut x;
-  |             ------ mutable borrow occurs here
-4 |
-5 |     println!("{} {}", x, y);
-  |                       ^  - mutable borrow later used here
-  |                       |
-  |                       immutable borrow occurs here
-
-error: aborting due to previous error
-
-For more information about this error, try `rustc --explain E0502`.
-error: could not compile `error-messages`.
-
-To learn more, run the command again with --verbose.
-```
-
-
-
-![Снимок экрана терминала с сообщением об ошибке 1.43.0.](https://github.com/ruRust/translations/blob/master/images/2020-05-15-five-years-of-rust/trait-error-1.43.0.png?raw=true)
-
-## Цитаты от участников команд
-
-Конечно, мы не можем охватить все произошедшие изменения. Поэтому мы обратились к некоторым из наших команд и спросили, какими изменениями они больше всего гордятся:
-
-> Для rustdoc значительными изменениями были:
-> - Автоматически сгенерированная документация для автоматических реализованных типажей
-> - Сам поиск и его оптимизации (последним является преобразование метаданных в JSON)
-> - Возможность более точного тестирования документационных блоков "compile_fail, should_panic, allow_fail"
-> - Тесты документации теперь генерируются как отдельные двоичные файлы. — Guillaume Gomez ([rustdoc](/images/2020-05-15-five-years-of-rust/help-error-1.43.0.png))
-> — Guillaume Gomez ([rustdoc])
-
-> Rust теперь имеет базовую поддержку IDE! Я полагаю, что между IntelliJ Rust, RLS и rust-analyzer большинство пользователей должны получить «не ужасный» опыт для своего редактора. Пять лет назад под «написанием Rust» подразумевалось использование старой школы Vim/Emacs.
-> — Алексей Кладов ([IDEs and editors])
-
-> Для меня это было бы следующим: добавление первоклассной поддержки популярных встроенных архитектур и усилия по созданию экосистемы, позволяющей сделать разработку микроконтроллеров с помощью Rust лёгкой, безопасной и в то же время увлекательной.
-> — Daniel Egger ([Embedded WG])
-
-> Команда релизов работала только с начала 2018 года, но даже за это время мы получили ~ 40000 коммитов только в `rust-lang/rust` без каких-либо существенных регрессий в стабильной версии. Учитывая, как быстро мы улучшаем компилятор и стандартные библиотеки, я думаю, что это действительно впечатляет (хотя, конечно, команда релизов здесь не является единственным участником). В целом, я обнаружил, что команда релизов проделала отличную работу по управлению масштабированием для увеличения трафика на трекерах, публикуемых PR и т. д.
-> — Mark Rousskov ([Release])
-> - Марк Руссков ( [Релиз](https://www.rust-lang.org/governance/teams/release) )
-
-> За последние 3 года нам удалось превратить интерпретатор [Miri] из экспериментального в практический инструмент для изучения дизайна языка и поиска ошибок в реальном коде, отличное сочетание теории и практики проектирования языков. С теоретической точки зрения у нас есть [Stacked Borrows], на данный момент наиболее конкретное предложение для модели псевдонимов Rust. С практической точки зрения, хотя изначально мы проверяли только несколько ключевых библиотек в Miri, мы недавно увидели большое количество людей, использующих Miri для [поиска и исправления ошибок](https://github.com/rust-lang/miri/#bugs-found-by-miri) в своих собственных крейтах, зависимостях и аналогичное понимание среди участников, улучшающих Miri, например, добавив поддержку доступа к файловой системе, раскручивания стека и многопоточности.
-> — Ralf Jung ([Miri])
-
-> Если бы мне пришлось выбрать одну вещь, которой я больше всего горжусь, это была работа над NLL. Это не только потому, что я думаю, что это сильно повлияло на удобство использования Rust, но и потому, что мы реализовали его, сформировав рабочую группу NLL. Эта рабочая группа привлекла много замечательных участников, многие из которых до сих пор работают над компилятором. Открытый исходный код в лучшем виде!
-> — Niko Matsakis ([Language])
-
-## Сообщество
-
-Поскольку язык изменился и сильно вырос за последние пять лет, изменилось и его сообщество. На Rust было написано очень много замечательных проектов, и присутствие Rust в промышленной разработке выросло в геометрической прогрессии. Мы хотим поделиться статистикой о том, насколько вырос Rust.
-
-- Rust четыре года подряд признавался [«Самым любимым языком программированием»](https://www.rust-lang.org/governance/teams/rustdoc) по опросам разработчиков Stack Overflow, проводимых в последние года, начиная с версии 1.0.
-- Только в этом году мы обработали более 2,25 петабайта (1PB = 1000 ТБ) различных версий компилятора, инструментария и документации!
-- В то же время мы обработали более 170 ТБ пакетов для примерно 1,8 миллиарда запросов на crates.io, удвоив ежемесячный трафик по сравнению с прошлым годом.
-
-Когда Rust версии 1.0 был выпущен, можно было подсчитать количество компаний, которые использовали его в промышленной разработке. Сегодня его используют сотни технологических компаний, а некоторые из крупнейших технологических компаний, таких как Apple, Amazon, Dropbox, Facebook, Google и Microsoft, решили использовать Rust в своих проектах для надёжности и производительности.
-
-## Заключение
-
-Очевидно, что мы не могли охватить все изменения или улучшения в Rust, произошедшие с 2015 года. Какие изменения или новые любимые проекты на Rust вам больше всего нравятся? Не стесняйтесь размещать свой ответ и обсуждение на [нашем форуме Discourse](TODO:%20CREATE%20FORUM%20POST%20BEFORE%20MERGE) .
-
-Наконец, мы хотели поблагодарить всех, кто внес свой вклад в Rust, вне зависимости от того, внесли ли вы новую функцию или исправили опечатку, ваша работа сделала Rust таким потрясающим, каким он является сегодня. Нам не терпится увидеть, как Rust и его сообщество будут продолжать расти и меняться, и посмотрим, что вы все построите с Rust в ближайшее десятилетие!
-
-
-[анонсировала публичный пре-релиз официальной поддержки Rust для WinRT API!]: https://blogs.windows.com/windowsdeveloper/2020/04/30/rust-winrt-public-preview/
 [1.2]: https://blog.rust-lang.org/2015/08/06/Rust-1.2.html
 [1.3]: https://blog.rust-lang.org/2015/09/17/Rust-1.3.html
 [1.4]: https://blog.rust-lang.org/2015/10/29/Rust-1.4.html
@@ -350,11 +174,339 @@ To learn more, run the command again with --verbose.
 [1.31]: https://blog.rust-lang.org/2018/12/06/Rust-1.31-and-rust-2018.html
 [1.34]: https://blog.rust-lang.org/2019/04/11/Rust-1.34.0.html
 [1.39]: https://blog.rust-lang.org/2019/11/07/Rust-1.39.0.html
-[Miri]:  /images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png
-[Stacked Borrows]: /images/2020-05-15-five-years-of-rust/borrow-error-1.43.0.png
-[rustdoc]:    /images/2020-05-15-five-years-of-rust/help-error-1.2.0.png
-[IDEs and editors]:   /images/2020-05-15-five-years-of-rust/help-error-1.43.0.png
-[Embedded WG]:   /images/2020-05-15-five-years-of-rust/trait-error-1.2.0.png
-[Release]:  /images/2020-05-15-five-years-of-rust/trait-error-1.43.0.png
-[Miri]: https://github.com/rust-lang/miri
-[Language]: https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md
+
+## Error Diagnostics
+
+One thing that we haven't mentioned much is how much Rust's error messages and
+diagnostics have improved since 1.0. Looking at older error messages now feels
+like looking at a different language.
+
+We’ve highlighted a couple of examples that best showcase just how much we’ve
+improved showing users where they made mistakes and importantly help them
+understand why it doesn’t work and teach them how they can fix it.
+
+##### First Example (Traits)
+```rust
+use std::io::Write;
+
+fn trait_obj(w: &Write) {
+    generic(w);
+}
+
+fn generic<W: Write>(_w: &W) {}
+```
+
+
+<details>
+ <summary>1.2.0 Error Message</summary>
+
+```
+   Compiling error-messages v0.1.0 (file:///Users/usr/src/rust/error-messages)
+src/lib.rs:6:5: 6:12 error: the trait `core::marker::Sized` is not implemented for the type `std::io::Write` [E0277]
+src/lib.rs:6     generic(w);
+                 ^~~~~~~
+src/lib.rs:6:5: 6:12 note: `std::io::Write` does not have a constant size known at compile-time
+src/lib.rs:6     generic(w);
+                 ^~~~~~~
+error: aborting due to previous error
+Could not compile `error-messages`.
+
+To learn more, run the command again with --verbose.
+```
+
+</details>
+
+![A terminal screenshot of the 1.2.0 error message.][trait-error-1.2.0]
+
+<details>
+ <summary>1.43.0 Error Message</summary>
+
+```
+   Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
+error[E0277]: the size for values of type `dyn std::io::Write` cannot be known at compilation time
+ --> src/lib.rs:6:13
+  |
+6 |     generic(w);
+  |             ^ doesn't have a size known at compile-time
+...
+9 | fn generic<W: Write>(_w: &W) {}
+  |    ------- -       - help: consider relaxing the implicit `Sized` restriction: `+  ?Sized`
+  |            |
+  |            required by this bound in `generic`
+  |
+  = help: the trait `std::marker::Sized` is not implemented for `dyn std::io::Write`
+  = note: to learn more, visit <https://doc.rust-lang.org/book/ch19-04-advanced-types.html#dynamically-sized-types-and-the-sized-trait>
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0277`.
+error: could not compile `error-messages`.
+
+To learn more, run the command again with --verbose.
+```
+
+</details>
+
+![A terminal screenshot of the 1.43.0 error message.][trait-error-1.43.0]
+
+##### Second Example (help)
+```rust
+fn main() {
+    let s = "".to_owned();
+    println!("{:?}", s.find("".to_owned()));
+}
+```
+
+<details>
+ <summary>1.2.0 Error Message</summary>
+
+```
+   Compiling error-messages v0.1.0 (file:///Users/ep/src/rust/error-messages)
+src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnMut<(char,)>` is not implemented for the type `collections::string::String` [E0277]
+src/lib.rs:3     println!("{:?}", s.find("".to_owned()));
+                                    ^~~~~~~~~~~~~~~~~~~
+note: in expansion of format_args!
+<std macros>:2:25: 2:56 note: expansion site
+<std macros>:1:1: 2:62 note: in expansion of print!
+<std macros>:3:1: 3:54 note: expansion site
+<std macros>:1:1: 3:58 note: in expansion of println!
+src/lib.rs:3:5: 3:45 note: expansion site
+src/lib.rs:3:24: 3:43 error: the trait `core::ops::FnOnce<(char,)>` is not implemented for the type `collections::string::String` [E0277]
+src/lib.rs:3     println!("{:?}", s.find("".to_owned()));
+                                    ^~~~~~~~~~~~~~~~~~~
+note: in expansion of format_args!
+<std macros>:2:25: 2:56 note: expansion site
+<std macros>:1:1: 2:62 note: in expansion of print!
+<std macros>:3:1: 3:54 note: expansion site
+<std macros>:1:1: 3:58 note: in expansion of println!
+src/lib.rs:3:5: 3:45 note: expansion site
+error: aborting due to 2 previous errors
+Could not compile `error-messages`.
+
+To learn more, run the command again with --verbose.
+
+```
+
+</details>
+
+![A terminal screenshot of the 1.2.0 error message.][help-error-1.2.0]
+
+<details>
+ <summary>1.43.0 Error Message</summary>
+
+```
+   Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
+error[E0277]: expected a `std::ops::FnMut<(char,)>` closure, found `std::string::String`
+ --> src/lib.rs:3:29
+  |
+3 |     println!("{:?}", s.find("".to_owned()));
+  |                             ^^^^^^^^^^^^^
+  |                             |
+  |                             expected an implementor of trait `std::str::pattern::Pattern<'_>`
+  |                             help: consider borrowing here: `&"".to_owned()`
+  |
+  = note: the trait bound `std::string::String: std::str::pattern::Pattern<'_>` is not satisfied
+  = note: required because of the requirements on the impl of `std::str::pattern::Pattern<'_>` for `std::string::String`
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0277`.
+error: could not compile `error-messages`.
+
+To learn more, run the command again with --verbose.
+```
+
+</details>
+
+![A terminal screenshot of the 1.43.0 error message.][help-error-1.43.0]
+
+##### Third Example (Borrow checker)
+```rust
+fn main() {
+    let mut x = 7;
+    let y = &mut x;
+
+    println!("{} {}", x, y);
+}
+```
+
+<details>
+ <summary>1.2.0 Error Message</summary>
+
+```
+   Compiling error-messages v0.1.0 (file:///Users/ep/src/rust/error-messages)
+src/lib.rs:5:23: 5:24 error: cannot borrow `x` as immutable because it is also borrowed as mutable
+src/lib.rs:5     println!("{} {}", x, y);
+                                   ^
+note: in expansion of format_args!
+<std macros>:2:25: 2:56 note: expansion site
+<std macros>:1:1: 2:62 note: in expansion of print!
+<std macros>:3:1: 3:54 note: expansion site
+<std macros>:1:1: 3:58 note: in expansion of println!
+src/lib.rs:5:5: 5:29 note: expansion site
+src/lib.rs:3:18: 3:19 note: previous borrow of `x` occurs here; the mutable borrow prevents subsequent moves, borrows, or modification of `x` until the borrow ends
+src/lib.rs:3     let y = &mut x;
+                              ^
+src/lib.rs:6:2: 6:2 note: previous borrow ends here
+src/lib.rs:1 fn main() {
+src/lib.rs:2     let mut x = 7;
+src/lib.rs:3     let y = &mut x;
+src/lib.rs:4
+src/lib.rs:5     println!("{} {}", x, y);
+src/lib.rs:6 }
+             ^
+error: aborting due to previous error
+Could not compile `error-messages`.
+
+To learn more, run the command again with --verbose.
+```
+
+</details>
+
+![A terminal screenshot of the 1.2.0 error message.][borrow-error-1.2.0]
+
+<details>
+ <summary>1.43.0 Error Message</summary>
+
+```
+   Compiling error-messages v0.1.0 (/Users/ep/src/rust/error-messages)
+error[E0502]: cannot borrow `x` as immutable because it is also borrowed as mutable
+ --> src/lib.rs:5:23
+  |
+3 |     let y = &mut x;
+  |             ------ mutable borrow occurs here
+4 |
+5 |     println!("{} {}", x, y);
+  |                       ^  - mutable borrow later used here
+  |                       |
+  |                       immutable borrow occurs here
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0502`.
+error: could not compile `error-messages`.
+
+To learn more, run the command again with --verbose.
+```
+
+</details>
+
+![A terminal screenshot of the 1.43.0 error message.][borrow-error-1.43.0]
+
+[borrow-error-1.2.0]:  /images/2020-05-15-five-years-of-rust/borrow-error-1.2.0.png
+[borrow-error-1.43.0]: /images/2020-05-15-five-years-of-rust/borrow-error-1.43.0.png
+[help-error-1.2.0]:    /images/2020-05-15-five-years-of-rust/help-error-1.2.0.png
+[help-error-1.43.0]:   /images/2020-05-15-five-years-of-rust/help-error-1.43.0.png
+[trait-error-1.2.0]:   /images/2020-05-15-five-years-of-rust/trait-error-1.2.0.png
+[trait-error-1.43.0]:  /images/2020-05-15-five-years-of-rust/trait-error-1.43.0.png
+
+## Quotes from the teams
+Of course we can't cover every change that has happened. So we reached out and
+asked some of our teams what changes they are most proud of:
+
+> For rustdoc, the big things were:
+> * The automatically generated documentation for blanket implementations
+> * The search itself and its optimizations (last one being to convert it into JSON)
+> * The possibility to test more accurately doc code blocks "compile_fail,
+>   should_panic, allow_fail"
+> * Doc tests are now generated as their own seperate binaries.
+>
+> — Guillaume Gomez ([rustdoc])
+
+
+> Rust now has baseline IDE support! Between IntelliJ Rust, RLS and
+> rust-analyzer, I feel that most users should be able to find "not horrible"
+> experience for their editor of choice. Five years ago, "writing Rust" meant
+> using old school Vim/Emacs setup.
+>
+> — Aleksey Kladov ([IDEs and editors][ides])
+
+
+> For me that would be: Adding first class support for popular embedded
+> architectures and achieving a striving ecosystem to make micro controller
+> development with Rust an easy and safe, yet fun experience.
+>
+> — Daniel Egger ([Embedded WG][ewg])
+
+
+> The release team has only been around since (roughly) early 2018, but even in
+> that time, we've landed ~40000 commits just in rust-lang/rust without any
+> significant regressions in stable.
+>
+> Considering how quickly we're improving the compiler and standard libraries, I
+> think that's really impressive (though of course the release team is not the
+> sole contributor here). Overall, I've found that the release team has done an
+> excellent job of managing to scale to the increasing traffic on issue
+> trackers, PRs being filed, etc.
+>
+> — Mark Rousskov ([Release][release])
+
+
+> Within the last 3 years we managed to turn [Miri][miri-repo] from an experimental
+> interpreter into a practical tool for exploring language design and finding
+> bugs in real code—a great combination of PL theory and practice.  On the
+> theoretical side we have [Stacked Borrows], the most concrete proposal for a
+> Rust aliasing model so far. On the practical side, while initially only a
+> few key libraries were checked in Miri by us, recently we saw a great uptake
+> of people using Miri to [find and fix bugs] in their own crates and
+> dependencies, and a similar uptake in contributors improving Miri e.g. by
+> adding support for file system access, unwinding, and concurrency.
+>
+> — Ralf Jung ([Miri])
+
+[miri-repo]: https://github.com/rust-lang/miri
+[stacked borrows]: https://github.com/rust-lang/unsafe-code-guidelines/blob/master/wip/stacked-borrows.md
+[find and fix bugs]:  https://github.com/rust-lang/miri/#bugs-found-by-miri
+
+> If I had to pick one thing I'm most proud of, it was the work on non-lexical
+> lifetimes (NLL). It's not only because I think it made a big difference in
+> the usability of Rust, but also because of the way that we implemented it by
+> forming the NLL working group. This working group brought in a lot of great
+> contributors, many of whom are still working on the compiler today. Open
+> source at its best!
+>
+> — Niko Matsakis ([Language])
+
+[rustdoc]: https://www.rust-lang.org/governance/teams/rustdoc
+[ides]: https://www.rust-lang.org/governance/teams/ides
+[ewg]: https://www.rust-lang.org/governance/wgs/embedded
+[release]: https://www.rust-lang.org/governance/teams/release
+[miri]: https://www.rust-lang.org/governance/teams/compiler#miri
+[language]: https://www.rust-lang.org/governance/teams/lang
+
+
+## The Community
+
+As the language has changed and grown a lot in these past five years so has its
+community. There's been so many great projects written in Rust, and Rust's
+presence in production has grown exponentially. We wanted to share some
+statistics on just how much Rust has grown.
+
+- Rust has been voted ["Most Loved Programming"][mlp] every year in the past
+  four Stack Overflow developer surveys since it went 1.0.
+- We have served over 2.25 Petabytes (1PB = 1,000 TB) of different versions of the
+  compiler, tooling, and documentation this year alone!
+- In the same time we have served over 170TB of crates to roughly 1.8 billion
+  requests on crates.io, doubling the monthly traffic compared to last year.
+
+[mlp]: https://insights.stackoverflow.com/survey/2019#most-loved-dreaded-and-wanted
+
+When Rust turned turned 1.0 you could count the number of companies that were
+using it in production on one hand. Today, it is being used by hundreds of
+tech companies with some of the largest tech companies such as Apple, Amazon,
+Dropbox, Facebook, Google, and Microsoft choosing to use Rust for its performance,
+reliability, and productivity in their projects.
+
+## Conclusion
+Obviously we couldn't cover every change or improvement to Rust that's happened
+since 2015. What have been your favourite changes or new favourite Rust
+projects? Feel free to post your answer and discussion on [our
+Discourse forum][urlo].
+
+[urlo]: <TODO: CREATE FORUM POST BEFORE MERGE>
+
+Lastly, we wanted to thank everyone who has to contributed to the Rust, whether
+you contributed a new feature or fixed a typo, your work has made Rust the
+amazing it is today. We can't wait to see how Rust and its community will
+continue to grow and change, and see what you all will build with Rust in the
+coming decade!
