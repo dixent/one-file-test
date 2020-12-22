@@ -2,19 +2,19 @@
 
 Конечно, мы не можем охватить все произошедшие изменения. Поэтому мы обратились к некоторым из наших команд и спросили, какими изменениями они больше всего гордятся:
 
-> For rustdoc, the big things were:
-> - The automatically generated documentation for blanket implementations
-> - The search itself and its optimizations (last one being to convert it into JSON)
-> - The possibility to test more accurately doc code blocks "compile_fail, should_panic, allow_fail"
-> - Doc tests are now generated as their own seperate binaries.
+> Для Рустдока важными вещами были:
+> - Автоматически сгенерированная документация для бланкетных реализаций
+> - Сам поиск и его оптимизации (последняя - преобразование в JSON)
+> - Возможность более точного тестирования блоков кода документа "compile_fail, should_panic, allow_fail"
+> - Док-тесты теперь создаются как отдельные двоичные файлы.
 > — Гийом Гомес ([rustdoc])
 
-> Rust now has baseline IDE support! Between IntelliJ Rust, RLS and rust-analyzer, I feel that most users should be able to find "not horrible" experience for their editor of choice. Five years ago, "writing Rust" meant using old school Vim/Emacs setup.
+> Rust теперь имеет базовую поддержку IDE! Я считаю, что между IntelliJ Rust, RLS и rust-analyzer большинство пользователей смогут найти «не ужасные» возможности для своего редактора. Пять лет назад «написание Rust» означало использование старой школы Vim / Emacs.
 > — Алексей Кладов ([IDE и редакторы] [ides])
 
-> For me that would be: Adding first class support for popular embedded architectures and achieving a striving ecosystem to make micro controller development with Rust an easy and safe, yet fun experience.
-> — Daniel Egger ([Embedded WG][ewg])
+> Для меня это было бы: добавление первоклассной поддержки популярных встроенных архитектур и создание стремящейся экосистемы, чтобы сделать разработку микроконтроллеров с помощью Rust простой и безопасной, но увлекательной.
+> - Дэниел Эггер ([Embedded WG] [ewg])
 
-> The release team has only been around since (roughly) early 2018, but even in that time, we've landed ~40000 commits just in rust-lang/rust without any significant regressions in stable.
-> Considering how quickly we're improving the compiler and standard libraries, I think that's really impressive (though of course the release team is not the sole contributor here). Overall, I've found that the release team has done an excellent job of managing to scale to the increasing traffic on issue trackers, PRs being filed, etc.
-> — Mark Rousskov ([Release][release])
+> Команда релизов существует только с (примерно) начала 2018 года, но даже за это время мы получили ~ 40000 коммитов только в rust-lang / rust без каких-либо значительных регрессов в стабильной версии.
+> Учитывая, насколько быстро мы улучшаем компилятор и стандартные библиотеки, я думаю, что это действительно впечатляет (хотя, конечно, команда разработчиков здесь не единственный участник). В целом, я обнаружил, что команда разработчиков проделала отличную работу по масштабированию в соответствии с растущим трафиком на трекеры проблем, поданные PR и т. Д.
+> - Марк Руссков ([релиз] [релиз])
