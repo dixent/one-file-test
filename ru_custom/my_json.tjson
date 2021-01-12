@@ -1,0 +1,272 @@
+{
+  "0": {
+    "_id": "5e721c32bcd759f5960a998c",
+    "index": 0.0,
+    "guid": "b79c62a3-c073-42b8-8439-b22e71b36b9f",
+    "isActive": "правда",
+    "balance": "1 713,90 долл. США",
+    "picture": "http://placehold.it/32x32",
+    "age": 29.0,
+    "eyeColor": "зеленый",
+    "name": "Мавис Коннер",
+    "gender": "женский пол",
+    "company": "PAWNAGRA",
+    "email": "mavisconner@pawnagra.com",
+    "phone": "+1 (826) 592-3079",
+    "address": "920 Leonard Street, Гербер, Западная Вирджиния, 8626",
+    "about": "Laborum cillum esse упражнение cupidatat sit mollit ipsumprerehenderit labore deserunt non et amet. Cillum et cillum aute nisi labore et. Ullamco irure culpa magna anim fugiat magna duis conctetur. Elit sit делаю упражнения делаю. Anim id non enim magna et et ad nulla velit magna cupidatat. ",
+    "registered": "2019-07-01T10: 33: 51 -03: 00",
+    "latitude": -25.608326,
+    "longitude": -47.368031,
+    "tags": [
+      "quis",
+      "cillum",
+      "Я бы",
+      "eiusmod",
+      "аликва",
+      "Долоре",
+      "dolor"
+    ],
+    "friends": [
+      {
+        "id": 0.0,
+        "name": "Реба Колон"
+      },
+      {
+        "id": 1.0,
+        "name": "Сэмпсон Винсон"
+      },
+      {
+        "id": 2.0,
+        "name": "Бриджит Маклафлин"
+      }
+    ],
+    "greeting": "Привет, Мавис Коннер! У вас 2 непрочитанных сообщения.",
+    "favoriteFruit": "банан"
+  },
+  "1": {
+    "_id": "5e721c324480ba036e1ef83c",
+    "index": 1.0,
+    "guid": "9e1fd6eb-cf44-41f3-8a3e-e60a8bc92826",
+    "isActive": "правда",
+    "balance": "1 946,66 долл. США",
+    "picture": "http://placehold.it/32x32",
+    "age": 31.0,
+    "eyeColor": "синий",
+    "name": "Франциска Маккей",
+    "gender": "женский пол",
+    "company": "НАМЕГЕН",
+    "email": "franciscamckay@namegen.com",
+    "phone": "+1 (914) 509-2757",
+    "address": "100 Tampa Court, Карон, Вирджиния, 2096 г.",
+    "about": "Ex id do duis сладострастный ут элит амет прехендерит до долоре элит. Adipisicing sunt sint utconctetur labore nostrud reprehenderit sint sunt. Eu Laboris Conctetur fugiat ea magna deserunt Laborum nulla officia. Proident sit et ex nulla cupidatat ea et officia ad nisi culpa eiusmod. Aliqua incididunt in ex sit Conctetur Commodo pariatur duis incididunt. Minimum aute mollit fugiat occaecat enim non tempor esse tempor non et. Non labore deserunt sint Commodo non dolor minim eu Lorem fugiat ex cupidatat. ",
+    "registered": "2016-02-23T07: 04: 23 -03: 00",
+    "latitude": 2.0,
+    "longitude": -89.0,
+    "tags": [
+      "аликва",
+      "Купидатат",
+      "аликва",
+      "ipsum",
+      "Улламко",
+      "Купидатат",
+      "ipsum"
+    ],
+    "friends": [
+      {
+        "id": 0.0,
+        "name": "Бентон Сайкс"
+      },
+      {
+        "id": 1.0,
+        "name": "Анита Паркер"
+      },
+      {
+        "id": 2.0,
+        "name": "Розанна Норрис"
+      }
+    ],
+    "greeting": "Привет, Франциска Маккей! У вас 1 непрочитанное сообщение.",
+    "favoriteFruit": "банан"
+  },
+  "2": {
+    "_id": "5e721c32b0d5b641874578e2",
+    "index": 2.0,
+    "guid": "2188db60-4bf5-485f-9b5f-acfd9b9b8200",
+    "isActive": "правда",
+    "balance": "1559,67 долларов США",
+    "picture": "http://placehold.it/32x32",
+    "age": 29.0,
+    "eyeColor": "коричневый",
+    "name": "Крейг Макинтайр",
+    "gender": "мужской",
+    "company": "ПУТЬ",
+    "email": "craigmcintyre@makingway.com",
+    "phone": "+1 (819) 486-2495",
+    "address": "146 Friel Place, Гранитвилль, Иллинойс, 9450",
+    "about": "Aliquip dolor minim voluptate fugiat tempor ipsum anim correhenderit ea irure. Ex Concectetur anim non deserunt quis veniam esse nostrud. Adipisicing excepteur occaecat incididunt elit amet aliqua. Объявление упражнений не моллит voluptate excepteur esse fugiat labourum cupidatat nulla nostrud eiusmod. Ad aliquip mollit et anim Laborum eu mightna nulla amet. ",
+    "registered": "2017-01-23T08: 12: 04 -03: 00",
+    "latitude": -43.0,
+    "longitude": -118.022602,
+    "tags": [
+      "бывший",
+      "делать",
+      "аликвип",
+      "Я бы",
+      "аним",
+      "аним",
+      "загорать"
+    ],
+    "friends": [
+      {
+        "id": 0.0,
+        "name": "Серрано Сэмпсон"
+      },
+      {
+        "id": 1.0,
+        "name": "Hall Guerrero"
+      },
+      {
+        "id": 2.0,
+        "name": "Бак Питтс"
+      }
+    ],
+    "greeting": "Привет, Крейг Макинтайр! У вас 7 непрочитанных сообщений.",
+    "favoriteFruit": "клубника"
+  },
+  "3": {
+    "_id": "5e721c32903baf862f69699a",
+    "index": 3.0,
+    "guid": "1167e0ee-9baa-423e-ad40-08cd1bcd473d",
+    "isActive": "правда",
+    "balance": "2553,89 долл. США",
+    "picture": "http://placehold.it/32x32",
+    "age": 21.0,
+    "eyeColor": "коричневый",
+    "name": "Гуд Бёркс",
+    "gender": "мужской",
+    "company": "КОМТРЕК",
+    "email": "goodburks@comtrek.com",
+    "phone": "+1 (807) 455-2692",
+    "address": "931 Village Court, Delco, Маршалловы Острова, 8585",
+    "about": "Elit ea do incididunt anim Conctetur Lorem Concectetur est Commodo officia nisi dolor. Quis pariatur deserunt pariatur fugiat nostrud veniam sit officia non pariatur adipisicing labore consquat упражнения. Трудитесь сладострастными упражнениями, занимайтесь спортом в больнице. Est anim minim culpa esse amet Lorem eu velit cupidatat proident pariatur quis. Id aliquip irure nisi irure adipisicing. Dolore mollit enim ea incididunt labourum sit eiusmod eu ut quimodo ex mollit consquat. ",
+    "registered": "2019-10-06T12: 20: 14 -03: 00",
+    "latitude": 13.0,
+    "longitude": 53.607552,
+    "tags": [
+      "дуис",
+      "dolor",
+      "синт",
+      "фугиат",
+      "трудиться",
+      "аним",
+      "Купидатат"
+    ],
+    "friends": [
+      {
+        "id": 0.0,
+        "name": "Джо Гулд"
+      },
+      {
+        "id": 1.0,
+        "name": "Бенита Клейтон"
+      },
+      {
+        "id": 2.0,
+        "name": "Вера крепкая"
+      }
+    ],
+    "greeting": "Привет, Добрый Беркс! У вас 5 непрочитанных сообщений.",
+    "favoriteFruit": "банан"
+  },
+  "4": {
+    "_id": "5e721c32999ec0396a9752e7",
+    "index": 4.0,
+    "guid": "543953e2-69ed-45ca-b553-6dbacd9a349f",
+    "isActive": "ложный",
+    "balance": "$ 1 634,81",
+    "picture": "http://placehold.it/32x32",
+    "age": 36.0,
+    "eyeColor": "коричневый",
+    "name": "Роу Дженкинс",
+    "gender": "мужской",
+    "company": "ZAPPIX",
+    "email": "rowejenkins@zappix.com",
+    "phone": "+1 (808) 417-3854",
+    "address": "480 Bergen Street, Blende, Калифорния, 3925",
+    "about": "Incididunt culpa tempor incididunt veniam cupidatat cillum cillum. В синт-купидатат элит моллит элит репреендерит. Eiusmod sint qui labore deserunt proident cillum est. Laborum proident eu do Lorem. ",
+    "registered": "2016-07-01T03: 58: 24 -03: 00",
+    "latitude": 10.207124,
+    "longitude": 23.0,
+    "tags": [
+      "упражнения",
+      "не",
+      "элитный",
+      "стандартное восточное время",
+      "Амет",
+      "Лейборис",
+      "конскват"
+    ],
+    "friends": [
+      {
+        "id": 0.0,
+        "name": "Барбара Джайлз"
+      },
+      {
+        "id": 1.0,
+        "name": "Чавес Коул"
+      },
+      {
+        "id": 2.0,
+        "name": "Ева Альберт"
+      }
+    ],
+    "greeting": "Привет, Роу Дженкинс! У вас 4 непрочитанных сообщения.",
+    "favoriteFruit": "яблоко"
+  },
+  "5": {
+    "_id": "5e721c321b8b8ceb89bd2b2f",
+    "index": 5.0,
+    "guid": "7ab4cac1-4bcc-48b9-bb1b-5c3ccaeeb373",
+    "isActive": "правда",
+    "balance": "3765,89 долл. США",
+    "picture": "http://placehold.it/32x32",
+    "age": 20.0,
+    "eyeColor": "синий",
+    "name": "Хелена Брайан",
+    "gender": "женский пол",
+    "company": "ДРУГОЙ ПУТЬ",
+    "email": "helenabryan@otherway.com",
+    "phone": "+1 (869) 438-3489",
+    "address": "428 Emmons Avenue, Флорис, Орегон, 8101",
+    "about": "Culpa duis sint pariatur dolore deserunt eu id. Nulla eiusmod репрехендерит в ullamco. Do pariatur duis Conctetur non Conctetur ex Lorem quis non irure. Fugiat incididunt non minim eu excepteur magna adipisicing adipisicing esse anim. Officia voluptate et eu et nostrud do eiusmod cillum culpa culpa ullamco eiusmod. Consectetur ex dolor id adipisicing elit deserunt eiusmod non. ",
+    "registered": "2015-12-14T05: 38: 29 -03: 00",
+    "latitude": 63.0,
+    "longitude": -23.0,
+    "tags": [
+      "dolor",
+      "esse",
+      "ниси",
+      "cillum",
+      "pariatur",
+      "dolor",
+      "делать"
+    ],
+    "friends": [
+      {
+        "id": 0.0,
+        "name": "Бакнер Гудман"
+      },
+      {
+        "id": 1.0,
+        "name": "Эрика Питерс"
+      },
+      {
+        "id": 2.0,
+        "name": "Рассел Риз"
+      }
+    ],
+    "greeting": "Здравствуйте, Хелена Брайан! У вас 8 непрочитанных сообщений.",
+    "favoriteFruit": "банан"
+  }
+}
