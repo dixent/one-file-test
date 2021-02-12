@@ -20,7 +20,7 @@ source files near the code in a separate repository, usually in a `docs/`
 directory. See the project's `CONTRIBUTING.md` file or contact the maintainer to
 contribute.
 
-To participate in the TensorFlow docs community:
+To participate in the TensorFlow docs community TEST:
 
 * Watch the [tensorflow/docs](https://github.com/tensorflow/docs) GitHub
   repository.
