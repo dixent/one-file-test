@@ -13,7 +13,7 @@ release: правда
 rustup update stable
 ```
 
-Если у вас его еще нет, вы можете [получить `rustup`] на соответствующей странице нашего веб-сайта и ознакомиться с [подробными примечаниями к выпуску 1.51.0] на GitHub.
+Если у вас ещё не установлен `rustup`, вы можете [установить его] с соответствующей страницы нашего веб-сайта, а также посмотреть [подробные примечания к выпуску] на GitHub.
 
 ## Что в стабильной версии 1.51.0
 
@@ -175,8 +175,8 @@ assert_eq!(unsafe { raw_f2.read_unaligned() }, 2);
 Многие люди собрались вместе, чтобы создать Rust 1.51.0. Мы бы не справились без вас. [Спасибо!](https://thanks.rust-lang.org/rust/1.51.0/)
 
 
-[получить `rustup`]: https://www.rust-lang.org/install.html
-[подробными примечаниями к выпуску 1.51.0]: https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1510-2021-03-25
+[установить его]: https://www.rust-lang.org/install.html
+[подробные примечания к выпуску]: https://github.com/rust-lang/rust/blob/master/RELEASES.md#version-1510-2021-03-25
 [сообщение в блоге «Const Generics MVP Hits Beta»]: https://blog.rust-lang.org/2021/02/26/const-generics-mvp-beta.html
 [RFC 2957]: https://rust-lang.github.io/rfcs/2957-cargo-features2.html
 [раздел «Feature Resolver»]: https://doc.rust-lang.org/nightly/cargo/reference/features.html#feature-resolver-version-2
