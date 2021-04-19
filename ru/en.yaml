@@ -1,0 +1,62 @@
+---
+- id: Ресурсы
+  translation: Ресурсы
+- id: Деятельность
+  translation: Деятельность
+- id: Поставить в известность
+  translation: Поставить в известность
+- id: InformEvaluate
+  translation: Информировать и оценивать
+- id: ShareData
+  translation: Поделиться данными
+- id: IdentifyTrends
+  translation: Определить тенденции
+- id: EaseOfUse
+  translation: Легкость использования
+- id: Перевод
+  translation: Перевод
+- id: Оценка
+  translation: Оценка
+- id: Взаимодействие
+  translation: Взаимодействие
+- id: Создание
+  translation: Создание
+- id: BloomLevels
+  translation: Уровни Блума
+- id: Легенда
+  translation: Легенда
+- id: Хорошо
+  translation: Отлично подходит и легко
+- id: Нейтральный
+  translation: Может работать с некоторым дизайном
+- id: Плохо
+  translation: Не лучший инструмент для работы
+- id: Зеленый
+  translation: зеленый
+- id: Желтый
+  translation: желтый
+- id: красный
+  translation: красный
+- id: CopyrightLine1
+  translation: Предоставлено [Николасом Мартиньони] (https://blog.martignoni.net/a-propos/)
+    - Веб-сайт __ [moodletoolguide.net] (https://moodletoolguide.net) __ находится
+    под лицензией [Creative Commons BY- NC-SA 4.0 International] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    Лицензия.
+- id: CopyrightLine2
+  translation: Идея [Джойс Зейтцингер] (https://twitter.com/catspyjamasnz) из [Восточного
+    технологического института] (https://www.eit.ac.nz/) (Новая Зеландия). Адаптировано
+    [Николасом Мартиньони] (https://blog.martignoni.net/a-propos/) на основе работы
+    [Гэвина Хенрика] (https://twitter.com/ghenrick).
+- id: Кредиты
+  translation: Кредиты и лицензия
+- id: EnableDefaultColors
+  translation: Использовать цвета по умолчанию
+- id: EnableAccessibleColors
+  translation: Включить доступные цвета
+- id: SupportTitle
+  translation: Поддержка с пожертвованием
+- id: SupportText
+  translation: Сделайте пожертвование сейчас ❤️ для поддержки веб-сайта Moodle Tool
+    Guide.
+- id: Пожертвовать сейчас
+  translation: Пожертвовать сейчас!
