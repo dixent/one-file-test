@@ -1,0 +1,1057 @@
+msgid "Hop Hey lalaley"
+msgstr "Hop ei lalaley"
+
+msgid "Hop Hey lalaley part 2"
+msgstr "Hop Hey lalaley parte 2"
+
+msgid "Hop Hey lalaley part 3"
+msgstr "Hop Hey lalaley parte 3"
+
+msgid "Hop Hey lalaley part 4"
+msgstr "Hop Hey lalaley parte 4"
+
+msgid "Hop Hey lalaley part 5"
+msgstr "Hop Hey lalaley parte 5"
+
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:7
+msgid "A screenshot of a website using AMP."
+msgstr "Uma captura de tela de um site usando AMP."
+
+#: /views/partials/format-visuals/websites.j2:10
+msgid "A screenshot showing amp-sidebar."
+msgstr "Uma captura de tela mostrando a barra lateral do amplificador."
+
+#: /views/partials/format-visuals/websites.j2:7
+msgid "A website screenshot."
+msgstr "Uma captura de tela do site."
+
+#: /views/partials/footer.j2:73
+msgid "AMP Brand Materials"
+msgstr "Materiais da marca AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
+msgid "AMP Caches & CORS"
+msgstr "Caches de AMP e CORS"
+
+#: /views/partials/footer.j2:71
+msgid "AMP Conf 2019"
+msgstr "AMP Conf 2019"
+
+#: /views/partials/footer.j2:43
+msgid "AMP Framework"
+msgstr "Framework AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
+msgid "AMP HTML Specification"
+msgstr "Especificação AMP HTML"
+
+#: /content/amp-dev/support/faq/overview.md
+msgid "AMP Overview"
+msgstr "Visão geral de AMP"
+
+#: /views/partials/banner.j2:5
+msgid "AMP Roadshow is coming to Atlanta & Berlin!"
+msgstr "O AMP Roadshow está chegando a Atlanta e Berlim!"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
+msgid "AMP for Email Specification"
+msgstr "AMP para especificação de e-mail"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-html-layout/_blueprint.yaml
+msgid "AMP's Layout System"
+msgstr "Sistema de layout de AMP"
+
+#: /content/amp-dev/about/_blueprint.yaml
+msgid "About"
+msgstr "Cerca de"
+
+#: /views/partials/consent.j2:36
+msgid "Accept use of cookies"
+msgstr "Aceita o uso de cookies"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/add_advanced/_blueprint.yaml
+msgid "Add advanced AMP features"
+msgstr "Adicionar recursos avançados de AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/interactivity_data/_blueprint.yaml
+msgid "Add interactivity & dynamic data (TBD)"
+msgstr "Adicionar interatividade e dados dinâmicos (TBD)"
+
+#: /content/amp-dev/documentation/courses/advanced-course/_blueprint.yaml
+msgid "Advanced Course"
+msgstr "Curso avançado"
+
+#: /views/examples/documentation.j2:217
+msgid "An unexplained feature?"
+msgstr "Um recurso inexplicável?"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/animations/_blueprint.yaml
+msgid "Animate & Transition"
+msgstr "Animar e Transição"
+
+#: /content/amp-dev/about/stories.html
+msgid "App Install"
+msgstr "Instalação de aplicativo"
+
+#: /content/amp-dev/about/stories.html
+msgid "BBC"
+msgstr "BBC"
+
+#: /content/amp-dev/404.html:18 /content/amp-dev/500.html:18
+msgid "Back to home"
+msgstr "De volta para casa"
+
+#: /views/examples/preview.j2:28
+msgid "Back to sample"
+msgstr "Voltar para a amostra"
+
+#: /views/partials/case-grid.j2:30
+msgid "Band Page in AMP"
+msgstr "Página da banda em AMP"
+
+#: /content/amp-dev/documentation/courses/beginning-course/_blueprint.yaml
+msgid "Beginning Course"
+msgstr "Curso de Iniciação"
+
+#: /views/partials/burger-menu.j2:24 /views/partials/header.j2:38
+msgid "Blog"
+msgstr "Blog"
+
+#: /views/partials/burger-menu.j2:8
+msgid "Burger Menu"
+msgstr "Menu de hambúrguer"
+
+#: /content/amp-dev/about/stories.html
+msgid "CNN"
+msgstr "CNN"
+
+#: /content/amp-dev/about/stories.html
+msgid ""
+"Camp Fire Visual Essay - A ballet rises from the ashes in a fire scarred "
+"paradise"
+msgstr "Ensaio visual de fogueira de acampamento - um balé surge das cinzas em um incêndio marcado
+paraíso"
+
+#: /content/amp-dev/community/_blueprint.yaml /views/partials/footer.j2:61
+msgid "Community"
+msgstr "Comunidade"
+
+#: /views/partials/structured-data.j2:54
+msgid "Component: "
+msgstr "Componente:"
+
+#: /content/amp-dev/documentation/components/_blueprint.yaml
+#: /content/amp-dev/documentation/components/reference/_blueprint.yaml
+#: /views/partials/footer.j2:54
+msgid "Components"
+msgstr "Componentes"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/contribute/_blueprint.yaml
+#: /views/partials/footer.j2:64
+msgid "Contribute"
+msgstr "Contribuir"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/converting/_blueprint.yaml
+msgid "Convert HTML to AMP"
+msgstr "Converter HTML em AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/interactive_widget/_blueprint.yaml
+msgid "Create a custom interactive widget with amp-script"
+msgstr "Crie um widget interativo personalizado com amp-script"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/login_requiring/_blueprint.yaml
+msgid "Create a login-requiring AMP page"
+msgstr "Crie uma página AMP que exija login"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/interactivity/_blueprint.yaml
+msgid "Create interactive AMP pages"
+msgstr "Crie páginas AMP interativas"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/create/_blueprint.yaml
+msgid "Create your first AMP Page"
+msgstr "Crie sua primeira página AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/visual_story/_blueprint.yaml
+msgid "Create your first AMP Story"
+msgstr "Crie sua primeira história AMP"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/create_amphtml_ad/_blueprint.yaml
+msgid "Create your first AMPHTML ad"
+msgstr "Crie seu primeiro anúncio HTML para AMP"
+
+#: /views/partials/footer.j2:56
+msgid "Design Templates"
+msgstr "Modelos de Design"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/_blueprint.yaml
+msgid "Develop"
+msgstr "Desenvolver"
+
+#: /views/partials/consent.j2:28
+msgid "Dismiss consent"
+msgstr "Dispensar consentimento"
+
+#: /views/partials/footer.j2:50
+msgid "Docs"
+msgstr "Docs"
+
+#: /content/amp-dev/documentation/_blueprint.yaml /views/partials/breadcrumbs.j2:10
+#: /views/partials/breadcrumbs.j2:29 /views/partials/breadcrumbs.j2:41
+#: /views/partials/breadcrumbs.j2:53
+msgid "Documentation"
+msgstr "Documentação"
+
+#: /content/amp-dev/documentation/templates/index.html:20
+msgid "Easily build user first websites with our templates"
+msgstr "Crie facilmente websites de usuários iniciais com nossos modelos"
+
+#: /views/examples/documentation.j2:221
+msgid "Edit sample on GitHub"
+msgstr "Editar amostra no GitHub"
+
+#: /views/partials/case-grid.j2:22
+msgid "Editorial AMP Article"
+msgstr "Artigo Editorial AMP"
+
+#: /views/examples/documentation.j2:126
+msgid ""
+"Enable the experiment via the button below. Some components require the AMP "
+"Dev Channel to be enabled as well."
+msgstr "Habilite o experimento por meio do botão abaixo. Alguns componentes exigem o AMP
+Canal Dev a ser habilitado também."
+
+#: /content/amp-dev/events/_blueprint.yaml /views/partials/footer.j2:69
+msgid "Events"
+msgstr "Eventos"
+
+#: /content/tests/examples/_blueprint.yaml
+msgid "Example Source Code"
+msgstr "Exemplo de código-fonte"
+
+#: /views/partials/structured-data.j2:52
+msgid "Example preview: "
+msgstr "Visualização de exemplo:"
+
+#: /views/partials/structured-data.j2:50
+msgid "Example: "
+msgstr "Exemplo:"
+
+#: /content/amp-dev/documentation/examples/_blueprint.yaml
+#: /views/partials/footer.j2:55
+msgid "Examples"
+msgstr "Exemplos"
+
+#: /content/amp-dev/about/stories.html
+msgid "Expansion"
+msgstr "Expansão"
+
+#: /content/amp-dev/support/faq/_blueprint.yaml
+msgid "FAQ"
+msgstr "Perguntas frequentes"
+
+#: /views/partials/footer.j2:12
+msgid "Follow us"
+msgstr "Siga-nos"
+
+#: /views/detail/component-detail.j2:37
+msgid "Found a bug or missing a feature?"
+msgstr "Encontrou um bug ou faltou um recurso?"
+
+#: /views/partials/footer.j2:46
+msgid "Functionality"
+msgstr "Funcionalidade"
+
+#: /views/partials/footer.j2:52
+msgid "Get Started"
+msgstr "Iniciar"
+
+#: /views/detail/docs-detail.j2:37
+msgid "Get started"
+msgstr "iniciar"
+
+#: /content/amp-dev/documentation/templates/index.html:70
+msgid ""
+"Get started quickly with a ready-made design. Templates designed to work with"
+" all devices - mobile, tablet and desktop."
+msgstr "Comece rapidamente com um design pronto. Modelos projetados para trabalhar com
+ todos os dispositivos - celular, tablet e desktop."
+
+#: /content/amp-dev/documentation/courses/teachers.md:9
+msgid "Get the courses"
+msgstr "Obtenha os cursos"
+
+#: /views/detail/component-detail.j2:41
+msgid "Go to GitHub"
+msgstr "Vá para GitHub"
+
+#: /views/detail/component-detail.j2:34 /views/examples/documentation.j2:214
+msgid "Go to Stack Overflow"
+msgstr "Vá para Stack Overflow"
+
+#: /views/partials/consent.j2:36
+msgid "Got it!"
+msgstr "Entendi!"
+
+#: /views/partials/footer.j2:53
+msgid "Guides and Tutorials"
+msgstr "Guias e tutoriais"
+
+#: /content/amp-dev/documentation/templates/index.html:19
+msgid "How to build AMP without knowing how to code?"
+msgstr "Como construir AMP sem saber codificar?"
+
+#: /views/examples/documentation.j2:211
+msgid ""
+"If the explanations on this page don't cover all of your questions feel free "
+"to reach out to other AMP users to discuss your exact use case."
+msgstr "Se as explicações nesta página não cobrirem todas as suas perguntas, sinta-se à vontade
+para entrar em contato com outros usuários de AMP para discutir seu caso de uso exato."
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/media_iframes_3p/_blueprint.yaml
+msgid "Include media, iframes & third-party content"
+msgstr "Incluir mídia, iframes e conteúdo de terceiros"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/integrate/_blueprint.yaml
+msgid "Integrate"
+msgstr "Integrar"
+
+#: /content/amp-dev/documentation/courses/intermediate-course/_blueprint.yaml
+msgid "Intermediate Course"
+msgstr "Curso intermediário"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/_blueprint.yaml
+msgid "Learn"
+msgstr "Aprender"
+
+#: /views/partials/footer.j2:76
+msgid "Logos"
+msgstr "Logos"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/monetization/_blueprint.yaml
+msgid "Monetize your AMP page with ads"
+msgstr "Monetize sua página AMP com anúncios"
+
+#: /content/amp-dev/about/stories.html
+msgid "Multiple Image"
+msgstr "Imagem Múltipla"
+
+#: /views/examples/documentation.j2:210
+msgid "Need further explanation?"
+msgstr "Precisa de mais explicações?"
+
+#: /views/detail/component-detail.j2:30
+msgid "Need more help?"
+msgstr "Precisa de mais ajuda?"
+
+#: /views/detail/docs-detail.j2:52
+msgid "Next chapter"
+msgstr "Próximo Capítulo"
+
+#: /content/amp-dev/about/stories.html
+msgid "Nueve hoteles en los que tienes que dormir antes de morir"
+msgstr "Nueve hoteles en los que tienes que dormir antes de morir"
+
+#: /views/partials/footer.j2:9
+msgid "Of course, this site is made with AMP!"
+msgstr "Claro, este site é feito com AMP!"
+
+#: /views/partials/case-grid.j2:50
+msgid "Open Use Case"
+msgstr "Abra o caso de uso"
+
+#: /views/examples/documentation.j2:159
+msgid "Open in playground"
+msgstr "Abrir no playground"
+
+#: /views/examples/documentation.j2:199
+#: /views/partials/code-preview/code-preview.j2:18
+msgid "Open this snippet in playground"
+msgstr "Abra este trecho no playground"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/optimize-measure/_blueprint.yaml
+msgid "Optimize & Measure"
+msgstr "Otimizar e medir"
+
+#: /views/partials/footer.j2:41
+msgid "Overview"
+msgstr "Visão geral"
+
+#: /content/amp-dev/about/stories.html
+msgid "PCGamesN"
+msgstr "PCGamesN"
+
+#: /views/partials/case-grid.j2:14
+msgid "Parallax Storytelling in AMP"
+msgstr "Parallax Storytelling em AMP"
+
+#: /content/amp-dev/support/faq/platform-involvement.md
+msgid "Platform and Technology Company Involvement"
+msgstr "Envolvimento da empresa de plataforma e tecnologia"
+
+#: /views/partials/footer.j2:63
+msgid "Platform and Vendor Partners"
+msgstr "Parceiros de plataforma e fornecedores"
+
+#: /views/examples/preview.j2:19
+msgid "Preview"
+msgstr "Antevisão"
+
+#: /views/detail/docs-detail.j2:46
+msgid "Previous chapter"
+msgstr "Capítulo anterior"
+
+#: /views/partials/footer.j2:82
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+#: /content/amp-dev/about/stories.html
+msgid "Protecting the Antarctic - A journey to a continent in distress"
+msgstr "Protegendo a Antártica - Uma jornada para um continente em perigo"
+
+#: /content/amp-dev/support/faq/publisher-monetization.md
+msgid "Publisher Monetization"
+msgstr "Monetização do editor"
+
+#: /views/partials/footer.j2:65
+msgid "Roadmap"
+msgstr "Roteiro"
+
+#: /content/amp-dev/about/stories.html
+msgid "SF Chronicle"
+msgstr "SF Chronicle"
+
+#: /views/partials/case-grid.j2:53
+msgid "Screenshot of use case:"
+msgstr "Captura de tela do caso de uso:"
+
+#: /views/partials/case-grid.j2:66
+msgid "See all use cases"
+msgstr "Veja todos os casos de uso"
+
+#: /views/partials/teaser-grid.j2:135 /views/partials/teaser.j2:140
+msgid "See example"
+msgstr "consultar exemplo"
+
+#: /content/amp-dev/about/success-stories/index.html:14
+msgid "See what others have built"
+msgstr "Veja o que outros construíram"
+
+#: /views/partials/header.j2:91
+msgid "Select a language"
+msgstr "Selecione um idioma"
+
+#: /content/amp-dev/index.html:257
+msgid "Show everything"
+msgstr "Mostrar tudo"
+
+#: /content/amp-dev/about/stories.html
+msgid "Single Image"
+msgstr "Imagem Única"
+
+#: /content/amp-dev/about/stories.html
+msgid "Single video"
+msgstr "Vídeo único"
+
+#: /content/amp-dev/offline.html:14
+msgid "Something cut the line."
+msgstr "Algo cortou a linha."
+
+#: /content/amp-dev/500.html:15
+msgid "Something went terribly wrong. Why don't you browse around?"
+msgstr "Algo deu terrivelmente errado. Por que você não navega?"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/start/_blueprint.yaml
+msgid "Start"
+msgstr "Começar"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/develop/style_and_layout/_blueprint.yaml
+msgid "Style & Layout"
+msgstr "Estilo e Layout"
+
+#: /views/partials/footer.j2:75
+msgid "Styleguide"
+msgstr "Guia de estilo"
+
+#: /content/amp-dev/about/success-stories/_blueprint.yaml
+#: /content/amp-dev/about/success-stories/index.html
+msgid "Success Stories"
+msgstr "Histórias de sucesso"
+
+#: /views/partials/structured-data.j2:56
+msgid "Success Story: "
+msgstr "História de sucesso:"
+
+#: /content/amp-dev/about/success-stories/index.html:15
+#: /views/partials/footer.j2:45
+msgid "Success stories"
+msgstr "Histórias de sucesso"
+
+#: /content/amp-dev/support/_blueprint.yaml /views/partials/breadcrumbs.j2:73
+msgid "Support"
+msgstr "Apoiar"
+
+#: /content/amp-dev/support/faq/supported-browsers.md
+msgid "Supported Browsers"
+msgstr "Navegadores Suportados"
+
+#: /content/amp-dev/support/faq/platform-and-vendor-partners.md
+msgid "Supported Platforms"
+msgstr "Plataformas Suportadas"
+
+#: /views/examples/documentation.j2:85
+msgid "Table of contents"
+msgstr "Índice"
+
+#: /views/detail/component-detail.j2:38 /views/examples/documentation.j2:218
+msgid ""
+"The AMP project strongly encourages your participation and contributions! We "
+"hope you'll become an ongoing participant in our open source community but we"
+" also welcome one-off contributions for the issues you're particularly "
+"passionate about."
+msgstr "O projeto AMP incentiva fortemente a sua participação e contribuições! Nós
+espero que você se torne um participante contínuo em nossa comunidade de código aberto, mas nós
+ também aceitam contribuições pontuais para as questões que você particularmente
+apaixonado."
+
+#: /content/amp-dev/about/stories.html
+msgid "The Amazon Gold Rush"
+msgstr "A corrida do ouro na Amazon"
+
+#: /content/amp-dev/about/stories.html
+msgid "The Atlantic"
+msgstr "O Atlantico"
+
+#: /content/amp-dev/about/stories.html
+msgid "The Ice Cream Factory and the Rise of the Made-for-Instagram Museum | WIRED"
+msgstr "A fábrica de sorvetes e a ascensão do museu feito para o Instagram | WIRED"
+
+#: /content/amp-dev/about/stories.html
+msgid "The Washington Post"
+msgstr "The Washington Post"
+
+#: /content/amp-dev/about/stories.html
+msgid "The best battle royale games on PC"
+msgstr "Os melhores jogos de Battle Royale no PC"
+
+#: /content/amp-dev/404.html:15
+msgid "The page you've requested can't be found. Why don't you browse around?"
+msgstr "A página que você solicitou não pode ser encontrada. Por que você não navega?"
+
+#: /content/amp-dev/about/stories.html
+msgid ""
+"These photos capture how members of Congress reacted to Trump’s State of the "
+"Union"
+msgstr "Estas fotos mostram como os membros do Congresso reagiram ao estado de Trump do
+União"
+
+#: /views/examples/documentation.j2:126
+msgid "This example uses the following experimental feature:"
+msgstr "Este exemplo usa o seguinte recurso experimental:"
+
+#: /views/partials/sidebar-toggle-button.j2:6
+#: /views/partials/sidebar-toggle-button.j2:10
+msgid "Toggle Sidebar"
+msgstr "Alternar barra lateral"
+
+#: /views/partials/case-grid.j2:6
+msgid "Too much choice"
+msgstr "Muita escolha"
+
+#: /views/partials/footer.j2:57
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/optimize-measure/configure-analytics/_blueprint.yaml
+msgid "Track engagement with analytics"
+msgstr "Rastreie o envolvimento com análises"
+
+#: /content/amp-dev/about/stories.html
+msgid "USA Today"
+msgstr "EUA hoje"
+
+#: /content/amp-dev/404.html:14 /content/amp-dev/500.html:14
+msgid "Uh oh! That's an error."
+msgstr "Uh oh! Isso é um erro."
+
+#: /views/partials/footer.j2:44
+msgid "Use Cases"
+msgstr "Casos de Uso"
+
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/validation-workflow/_blueprint.yaml
+msgid "Validation Workflow"
+msgstr "Fluxo de Trabalho de Validação"
+
+#: /views/examples/documentation.j2:154
+msgid "View demo"
+msgstr "Ver demo"
+
+#: /content/amp-dev/documentation/courses/_blueprint.yaml
+msgid "Web Development With AMP"
+msgstr "Desenvolvimento Web com AMP"
+
+#: /content/amp-dev/about/stories.html
+msgid "What's left behind on the Moon?"
+msgstr "O que ficou para trás na Lua?"
+
+#: /content/amp-dev/about/stories.html
+msgid "Who runs the world? ... Beyoncé over the years."
+msgstr "Quem controla o mundo? ... Beyoncé ao longo dos anos."
+
+#: /content/amp-dev/about/stories.html
+msgid "Wired"
+msgstr "Com fio"
+
+#: /content/amp-dev/offline.html:15
+msgid "You're currently not connected to the internet."
+msgstr "No momento, você não está conectado à Internet."
+
+#: /views/detail/component-detail.j2:31
+msgid ""
+"You've read this document a dozen times but it doesn't really cover all of "
+"your questions? Maybe other people felt the same: reach out to them on Stack "
+"Overflow."
+msgstr "Você já leu este documento uma dúzia de vezes, mas ele realmente não cobre todos
+suas perguntas? Talvez outras pessoas pensem o mesmo: procure-as no Stack
+Transbordar."
+
+#: /content/amp-dev/documentation/components/reference/amp-ad-exit.md
+#: /content/amp-dev/documentation/components/reference/amp-ad.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@es.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@id.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@it.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-ad@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@es.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@id.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@it.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-analytics@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@es.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@id.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@it.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-auto-ads@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-call-tracking.md
+#: /content/amp-dev/documentation/components/reference/amp-experiment.md
+#: /content/amp-dev/documentation/components/reference/amp-mraid.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@es.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@id.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@it.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-pixel@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-share-tracking.md
+#: /content/amp-dev/documentation/components/reference/amp-smartlinks.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@es.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@id.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@it.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-social-share@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-sticky-ad.md
+msgid "ads-analytics"
+msgstr "Publicidade e Análise"
+
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@es.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@id.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@it.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-access-laterpay@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-access-poool.md
+#: /content/amp-dev/documentation/components/reference/amp-access.md
+#: /content/amp-dev/documentation/components/reference/amp-access@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-access@es.md
+#: /content/amp-dev/documentation/components/reference/amp-access@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-access@id.md
+#: /content/amp-dev/documentation/components/reference/amp-access@it.md
+#: /content/amp-dev/documentation/components/reference/amp-access@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-access@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-access@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-access@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-access@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-access@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-action-macro.md
+#: /content/amp-dev/documentation/components/reference/amp-bind.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@es.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@id.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@it.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-bind@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-byside-content.md
+#: /content/amp-dev/documentation/components/reference/amp-consent.md
+#: /content/amp-dev/documentation/components/reference/amp-date-picker.md
+#: /content/amp-dev/documentation/components/reference/amp-form.md
+#: /content/amp-dev/documentation/components/reference/amp-form@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-form@es.md
+#: /content/amp-dev/documentation/components/reference/amp-form@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-form@id.md
+#: /content/amp-dev/documentation/components/reference/amp-form@it.md
+#: /content/amp-dev/documentation/components/reference/amp-form@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-form@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-form@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-form@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-form@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-form@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-geo.md
+#: /content/amp-dev/documentation/components/reference/amp-gist.md
+#: /content/amp-dev/documentation/components/reference/amp-google-document-embed.md
+#: /content/amp-dev/documentation/components/reference/amp-install-serviceworker.md
+#: /content/amp-dev/documentation/components/reference/amp-list.md
+#: /content/amp-dev/documentation/components/reference/amp-list@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-list@es.md
+#: /content/amp-dev/documentation/components/reference/amp-list@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-list@id.md
+#: /content/amp-dev/documentation/components/reference/amp-list@it.md
+#: /content/amp-dev/documentation/components/reference/amp-list@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-list@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-list@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-list@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-list@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-list@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-live-list.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@es.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@id.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@it.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-mustache@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-next-page.md
+#: /content/amp-dev/documentation/components/reference/amp-script.md
+#: /content/amp-dev/documentation/components/reference/amp-selector.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@es.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@id.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@it.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-selector@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-subscriptions-google.md
+#: /content/amp-dev/documentation/components/reference/amp-subscriptions.md
+#: /content/amp-dev/documentation/components/reference/amp-user-notification.md
+#: /content/amp-dev/documentation/components/reference/amp-video-docking.md
+#: /content/amp-dev/documentation/components/reference/amp-viewer-assistance.md
+#: /content/amp-dev/documentation/components/reference/amp-web-push.md
+msgid "dynamic-content"
+msgstr "Conteúdo Dinâmico"
+
+#: /content/amp-dev/documentation/components/reference/amp-accordion.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@es.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@id.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@it.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-accordion@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-app-banner.md
+#: /content/amp-dev/documentation/components/reference/amp-base-carousel.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@es.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@id.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@it.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-carousel@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-fx-collection.md
+#: /content/amp-dev/documentation/components/reference/amp-fx-flying-carpet.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@es.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@id.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@it.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-iframe@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-image-lightbox.md
+#: /content/amp-dev/documentation/components/reference/amp-image-slider.md
+#: /content/amp-dev/documentation/components/reference/amp-layout.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@es.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@id.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@it.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-layout@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox-gallery.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@es.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@id.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@it.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-lightbox@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-orientation-observer.md
+#: /content/amp-dev/documentation/components/reference/amp-position-observer.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@es.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@id.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@it.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-sidebar@zh_cn.md
+msgid "layout"
+msgstr "Layout"
+
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@es.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@id.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@it.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-3d-gltf@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-3q-player.md
+#: /content/amp-dev/documentation/components/reference/amp-anim.md
+#: /content/amp-dev/documentation/components/reference/amp-apester-media.md
+#: /content/amp-dev/documentation/components/reference/amp-audio.md
+#: /content/amp-dev/documentation/components/reference/amp-bodymovin-animation.md
+#: /content/amp-dev/documentation/components/reference/amp-brid-player.md
+#: /content/amp-dev/documentation/components/reference/amp-brightcove.md
+#: /content/amp-dev/documentation/components/reference/amp-dailymotion.md
+#: /content/amp-dev/documentation/components/reference/amp-delight-player.md
+#: /content/amp-dev/documentation/components/reference/amp-embedly-card.md
+#: /content/amp-dev/documentation/components/reference/amp-google-vrview-image.md
+#: /content/amp-dev/documentation/components/reference/amp-hulu.md
+#: /content/amp-dev/documentation/components/reference/amp-ima-video.md
+#: /content/amp-dev/documentation/components/reference/amp-img@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-img@es.md
+#: /content/amp-dev/documentation/components/reference/amp-img@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-img@id.md
+#: /content/amp-dev/documentation/components/reference/amp-img@it.md
+#: /content/amp-dev/documentation/components/reference/amp-img@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-img@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-img@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-img@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-img@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-img@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-imgur.md
+#: /content/amp-dev/documentation/components/reference/amp-izlesene.md
+#: /content/amp-dev/documentation/components/reference/amp-jwplayer.md
+#: /content/amp-dev/documentation/components/reference/amp-kaltura-player.md
+#: /content/amp-dev/documentation/components/reference/amp-mowplayer.md
+#: /content/amp-dev/documentation/components/reference/amp-nexxtv-player.md
+#: /content/amp-dev/documentation/components/reference/amp-o2-player.md
+#: /content/amp-dev/documentation/components/reference/amp-ooyala-player.md
+#: /content/amp-dev/documentation/components/reference/amp-playbuzz.md
+#: /content/amp-dev/documentation/components/reference/amp-powr-player.md
+#: /content/amp-dev/documentation/components/reference/amp-reach-player.md
+#: /content/amp-dev/documentation/components/reference/amp-recaptcha-input.md
+#: /content/amp-dev/documentation/components/reference/amp-skimlinks.md
+#: /content/amp-dev/documentation/components/reference/amp-soundcloud.md
+#: /content/amp-dev/documentation/components/reference/amp-springboard-player.md
+#: /content/amp-dev/documentation/components/reference/amp-video-iframe.md
+#: /content/amp-dev/documentation/components/reference/amp-video.md
+#: /content/amp-dev/documentation/components/reference/amp-video@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-video@es.md
+#: /content/amp-dev/documentation/components/reference/amp-video@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-video@id.md
+#: /content/amp-dev/documentation/components/reference/amp-video@it.md
+#: /content/amp-dev/documentation/components/reference/amp-video@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-video@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-video@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-video@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-video@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-video@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-vimeo.md
+#: /content/amp-dev/documentation/components/reference/amp-viqeo-player.md
+#: /content/amp-dev/documentation/components/reference/amp-wistia-player.md
+#: /content/amp-dev/documentation/components/reference/amp-yotpo.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@es.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@id.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@it.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-youtube@zh_cn.md
+msgid "media"
+msgstr "meios de comunicação"
+
+#: /content/amp-dev/documentation/components/reference/amp-animation.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@es.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@id.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@it.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-animation@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-date-countdown.md
+#: /content/amp-dev/documentation/components/reference/amp-date-display.md
+#: /content/amp-dev/documentation/components/reference/amp-dynamic-css-classes.md
+#: /content/amp-dev/documentation/components/reference/amp-fit-text.md
+#: /content/amp-dev/documentation/components/reference/amp-font.md
+#: /content/amp-dev/documentation/components/reference/amp-mathml.md
+#: /content/amp-dev/documentation/components/reference/amp-pan-zoom.md
+#: /content/amp-dev/documentation/components/reference/amp-story-auto-ads.md
+#: /content/amp-dev/documentation/components/reference/amp-story.md
+#: /content/amp-dev/documentation/components/reference/amp-story@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-story@es.md
+#: /content/amp-dev/documentation/components/reference/amp-story@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-story@id.md
+#: /content/amp-dev/documentation/components/reference/amp-story@it.md
+#: /content/amp-dev/documentation/components/reference/amp-story@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-story@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-story@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-story@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-story@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-story@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-timeago.md
+#: /content/amp-dev/documentation/components/reference/amp-viz-vega.md
+msgid "presentation"
+msgstr "Apresentação"
+
+#: /content/amp-dev/documentation/components/reference/amp-addthis.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@ar.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@es.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@fr.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@id.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@it.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@ja.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@ko.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@pt_br.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@ru.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@tr.md
+#: /content/amp-dev/documentation/components/reference/amp-addthis@zh_cn.md
+#: /content/amp-dev/documentation/components/reference/amp-beopinion.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook-comments.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook-like.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook-page.md
+#: /content/amp-dev/documentation/components/reference/amp-facebook.md
+#: /content/amp-dev/documentation/components/reference/amp-gfycat.md
+#: /content/amp-dev/documentation/components/reference/amp-instagram.md
+#: /content/amp-dev/documentation/components/reference/amp-pinterest.md
+#: /content/amp-dev/documentation/components/reference/amp-reddit.md
+#: /content/amp-dev/documentation/components/reference/amp-riddle-quiz.md
+#: /content/amp-dev/documentation/components/reference/amp-twitter.md
+#: /content/amp-dev/documentation/components/reference/amp-vine.md
+#: /content/amp-dev/documentation/components/reference/amp-vk.md
+msgid "social"
+msgstr "Social"
+
+msgid "advertising-analytics"
+msgstr "Publicidade e Análise"
+
+msgid "introduction"
+msgstr "Introdução"
+
+msgid "components"
+msgstr "Componentes"
+
+msgid "guides"
+msgstr "Guias"
+
+msgid "e-commerce"
+msgstr "Comércio eletrônico"
+
+msgid "interactivity-dynamic-content"
+msgstr "Interatividade e conteúdo dinâmico"
+
+msgid "multimedia-animations"
+msgstr "Multimídia e animações"
+
+msgid "news-publishing"
+msgstr "Notícias e Publicação"
+
+msgid "personalization"
+msgstr "Personalização"
+
+msgid "style-layout"
+msgstr "Estilo e Layout"
+
+msgid "user-consent"
+msgstr "Consentimento do usuário"
+
+msgid "visual-effects"
+msgstr "Efeitos visuais"
