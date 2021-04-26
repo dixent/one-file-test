@@ -24,6 +24,7 @@
     /sbin/ldconfig -N -v $(sed 's/:/ /g' <<< $LD_LIBRARY_PATH) | \
     grep libcupti
     ```
+3. И все
 
 Если у вас нет CUPTI на пути, добавьте его установочный каталог к `$LD_LIBRARY_PATH` , запустив:
 
