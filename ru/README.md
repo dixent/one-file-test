@@ -31,8 +31,6 @@
 
 2. [Кодируйте себя](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.eagerexec.ipynb)
 
-3. Раз
-
 ## Интеграция Keras API
 
 Фактически, Keras - один из лучших API на планете для DeepLearning. Теперь Керас съел TensorFlow. Немного грустно, но на самом деле это не имеет никакого значения, поскольку почти все в любом случае использовали Keras поверх TensorFlow. Итак, давайте рассмотрим Keras как часть TensorFlow (или TensorFlow как часть Keras). Круто то, что теперь вы можете использовать простой и легкий в использовании API Keras и по-прежнему можете претендовать на звание разработчика TensorFlow. Да, Google сделал Keras официальным высокоуровневым API TensorFlow.
