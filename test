@@ -1,0 +1,61 @@
+ "<pre data-md-type=\"block_code\"><code data-segment-id=\"\">class FlatBufferModel {\n  // Build a model based on a file. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(\n      const char* filename,\n      ErrorReporter* error_reporter);\n\n  // Build a model based on a pre-loaded flatbuffer. The caller retains\n  // ownership of the buffer and should keep it alive until the returned object\n  // is destroyed. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(\n      const char* buffer,\n      size_t buffer_size,\n      ErrorReporter* error_reporter);\n};\n</code></pre>"
+ "<pre data-md-type=\"block_code\"><code data-segment-id=\"\">class FlatBufferModel {\n  // Build a model based on a file. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(\n      const char* filename,\n      ErrorReporter* error_reporter);\n\n  // Build a model based on a pre-loaded flatbuffer. The caller retains\n  // ownership of the buffer and should keep it alive until the returned object\n  // is destroyed. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(\n      const char* buffer,\n      size_t buffer_size,\n      ErrorReporter* error_reporter);\n};\n</code></pre>"
+
+"<pre data-md-type=\"block_code\"><code data-segment-id=\"6274867\">class FlatBufferModel {\n &amp;nbsp;// Build a model based on a file. Return a nullptr in case of failure.\n &amp;nbsp;static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(\n &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;const char* filename,\n &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;ErrorReporter* error_reporter);\n\n &amp;nbsp;// Build a model based on a pre-loaded flatbuffer.
+The caller retains\n &amp;nbsp;// ownership of the buffer and should keep it alive until the returned object\n &amp;nbsp;// is destroyed. Return a nullptr in case of failure.\n &amp;nbsp;static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(\n &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;const char* buffer,\n &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;size_t buffer_size,\n &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;ErrorReporter* error_reporter);\n};\n</code></pre>"
+
+ "<pre data-md-type=\"block_code\"><code data-segment-id=\"6274638\">class FlatBufferModel {\n  // Build a model based on a file. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(\n
+   const char* filename,\n      ErrorReporter* error_reporter);\n\n  // Build a model based on a pre-loaded flatbuffer. The caller retains\n  // ownership of the buffer and should keep it alive until the returned object\n  // is destroyed. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(\n      const char* buffer,\n      size_t buffer_size,\n      ErrorReporter* error_reporter);\n};\n</code></pre>"
+
+
+
+"<pre data-md-type=\"block_code\"><code data-segment-id=\"6274867\">class FlatBufferModel {\n  // Build a model based on a file. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(\n      const char* filename,\n      ErrorReporter* error_reporter);\n\n  // Build a model based on a pre-loaded flatbuffer. The caller retains\n  // ownership of the buffer and should keep it alive until the returned object\n  // is destroyed. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(\n      const char* buffer,\n      size_t buffer_size,\n      ErrorReporter* error_reporter);\n};\n</code></pre>"
+ "<pre data-md-type=\"block_code\"><code data-segment-id=\"6274638\">class FlatBufferModel {\n  // Build a model based on a file. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(\n
+   const char* filename,\n      ErrorReporter* error_reporter);\n\n  // Build a model based on a pre-loaded flatbuffer. The caller retains\n  // ownership of the buffer and should keep it alive until the returned object\n  // is destroyed. Return a nullptr in case of failure.\n  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(\n      const char* buffer,\n      size_t buffer_size,\n      ErrorReporter* error_reporter);\n};\n</code></pre>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<pre data-md-type="block_code"><code data-segment-id="6274867">class FlatBufferModel {
+  // Build a model based on a file. Return a nullptr in case of failure.
+  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(
+      const char* filename,
+      ErrorReporter* error_reporter);
+
+  // Build a model based on a pre-loaded flatbuffer. The caller retains
+  // ownership of the buffer and should keep it alive until the returned object
+  // is destroyed. Return a nullptr in case of failure.
+  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(
+      const char* buffer,
+      size_t buffer_size,
+      ErrorReporter* error_reporter);
+};
+
+<pre data-md-type="block_code"><code data-segment-id="6274638">class FlatBufferModel {
+  // Build a model based on a file. Return a nullptr in case of failure.
+  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromFile(
+
+   const char* filename,
+      ErrorReporter* error_reporter);
+
+  // Build a model based on a pre-loaded flatbuffer. The caller retains
+  // ownership of the buffer and should keep it alive until the returned object
+  // is destroyed. Return a nullptr in case of failure.
+  static std::unique_ptr&lt;FlatBufferModel&gt; BuildFromBuffer(
+      const char* buffer,
+      size_t buffer_size,
+      ErrorReporter* error_reporter);
+};
+</code></pre>
