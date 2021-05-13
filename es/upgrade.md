@@ -16,4 +16,8 @@ Acelerará su proceso de actualización al convertir los scripts Python de Tenso
 
 dsfsdfdsf h
 
+# ¡Hola2! ASDASDSAD2!
+
+dsfsdfdsf2 h2
+
 El script de conversión se automatiza tanto como sea posible, pero todavía hay cambios sintácticos y estilísticos que el script no puede realizar.
