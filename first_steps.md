@@ -1,6 +1,5 @@
 Here's a brief overview of those core files:
 
-|                          |                                                                                                                     |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | `app.controller.ts`      | A basic controller with a single route.                                                                             |
 | `app.controller.spec.ts` | The unit tests for the controller.                                                                                  |
