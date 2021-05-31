@@ -10,6 +10,7 @@ ball:
   - false
   - attack
 right: false
+right-now: НЕ false
 remain: grew
 creature: roll
 smooth: false
