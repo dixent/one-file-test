@@ -6,8 +6,8 @@ formats:
 teaser:
   text: |2-
 
-    This document outlines the CSS features currently supported inside AMP
-    emails.
+    В этом документе описаны функции CSS, которые в настоящее время поддерживаются в AMP.
+    электронные письма.
 toc: правда
 ---
 
@@ -60,7 +60,7 @@ limitations under the License.
 - [Селектор класса](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors) `.classname`
 - [Селектор идентификатора](https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors) `#idname`
 - [Универсальный селектор](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors) `*`
-- [Attribute selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) `[attr=value]`
+- [Селектор атрибутов](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors) `[attr=value]`
 
 ### Комбинаторы<a name="combinators"></a>
 
