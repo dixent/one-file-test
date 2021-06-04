@@ -16,6 +16,7 @@
     "ssr",
     "docs"
   ],
+  "my_key": "my_val",
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
