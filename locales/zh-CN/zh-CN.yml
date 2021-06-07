@@ -1,0 +1,176 @@
+---
+visit:
+  commands:
+    admin:
+      main:
+        description: 打开GUI，可以编辑默认或目标岛设置。
+        parameters: "<玩家>"
+    player:
+      main:
+        description: 打开GUI或访问对象的玩家岛。
+        parameters: "<玩家>"
+      configure:
+        description: 打开可以管理访问设置的GUI。
+  gui:
+    buttons:
+      island:
+        unknown: 不知道
+        name: "&f&l [name]"
+        description: |-
+          [owner]
+          [members]
+          [noone-online]
+          [payment]
+          [no-visit]
+        owner: "&7&l所有者：&r&b [player]"
+        members-title: "&7&l成员："
+        member: "&b - [player]"
+        noone-online: |-
+          &7没有岛上的成员
+          &7在线。
+        payment: |-
+          &7访问需要[数]时间。
+          &7这座岛
+        no-visit: "&c不能去岛上。"
+      at_top:
+        disabled: "＆7过滤行位于并购的底部。"
+        name: "&f&l顶部的滤波行"
+        description: |-
+          &7行的位置
+          &7过滤
+        enabled: |-
+          &7过滤行
+          &a在最上面。
+      previous:
+        name: "&f&l前一页"
+        description: "&7[number]切换到页面"
+      next:
+        name: "&f&l下一页"
+        description: "&7[number]切换到页面"
+      search:
+        name: "&f&l搜索"
+        description: "&7搜索指定的岛"
+        search: "&b值：[value]"
+      filter:
+        name: "&f&l过滤器?"
+        description: |-
+          &7只能显示
+          &7一个个过滤过的岛。
+        value: "&7有源过滤?：[value]"
+        all_islands: "&b&o梨?し"
+        online_islands: "&b&o数值"
+        can_visit: "&b&o訪問可能"
+      payment:
+        name: "&7&l支付额"
+        description: |-
+          &7可以更改付款方式
+          &7请访问你的岛。
+          &7现在的值：&b&o [number]
+      offline:
+        name: "&7&l离线访问"
+        description: |-
+          &7玩家可以变更的情况
+          &7在所有的时间里，你都可以访问这个岛。
+          &7我们的成员是离线的。
+        enabled: "&7离线访问&a有效"
+        disabled: "&7离线访问＆c无效"
+      enabled:
+        name: "&f&l准许访问"
+        description: "＆7使访问有效/无效"
+        enabled: "＆7访问&a允许"
+        disabled: "&7访问は&c禁止"
+      manage:
+        name: "&f&l岛屿设定管理"
+        description: |-
+          &7选择岛屿
+          &7访问设置
+          &7编辑
+      reset:
+        name: "&f&l重置为默认"
+        description: "&7所有的岛访问设置\n&7默认值\n&7重置"
+      tax:
+        name: "&f&l税の管理"
+        description: "&7访问这个岛\n&7设定金额 "
+        value: "&7现行的金额：&b&o [number]"
+      default_payment:
+        name: "&f&l默认支付"
+        description: "&7 修改价格 "
+        value: "&7 现在的价格: &b&o[number]"
+      default_offline:
+        name: "&f&l默认离线"
+        description: "&7离线访问\n&7允许"
+        enabled: "&7 默认情况下\n&7 离线访问\n&a 允许 "
+        disabled: "&7默认情况下\n&7离线访问\n&c禁止 "
+      default_enabled:
+        name: "&f&l默认访问"
+        description: "&7默认\n&7更改访问权限 "
+        enabled: "&7访问变得有效 "
+        disabled: "&c访问无效\n&c已经是了 "
+      toggle_filters:
+        name: "&f&lトグルフィルター"
+        description: "&7 ユーザーGUIで\n&7 フィルター行を\n&7 切り替えます "
+        enabled: "&7フィルタ行が\n&a 有効になっています "
+        disabled: "&7フィルタ行が\n&c無効になっています "
+      toggle_search:
+        name: "&f&l検索の切り替え"
+        description: |-
+          &7検索ボタンを
+          &7切り替えます
+        enabled: |-
+          &7検索ボタンは
+          &a有効です。
+        disabled: |-
+          &7検索ボタンは
+          &c無効になっています。
+    tips:
+      click-to-next: "＆e＆7をクリックして、次のページを表示します。"
+      click-to-switch: "&eクリックして&7切り替えます "
+      click-to-previous: |-
+        &eクリックして、
+        &7前のページを表示します。
+      click-to-visit: "&eクリックして訪問"
+      click-to-toggle: "&eクリックして切り替えます。"
+      click-to-change: "&eクリックして変更します。"
+      click-to-edit: "&eクリックして編集します。"
+      click-to-choose: "&eクリックして選択します。"
+      click-to-reset: "&eクリックしてリセットします。"
+      left-click-to-edit: "&e左クリックして編集します。"
+      right-click-to-clear: "&e右クリックしてクリアします。"
+      click-to-select: "&eクリックして選択します。"
+      click-to-deselect: "&eクリックして選択を解除します。"
+    titles:
+      choose: "&0&l島を選択"
+      configure: "&0&lアクセスの構成"
+      main: "&0&l管理パネル"
+      select-island: "&0&l島を選択してください"
+      select-block: "&0&lブロックの選択"
+  conversations:
+    cancel-string: キャンセル
+    exit-string: キャンセル、終了、終了
+    confirm-string: true, on, yes, confirm, y, valid, correct
+    deny-string: false, off, no, deny, n, invalid, incorrect
+    cancelled: "&c会話がキャンセルされました！"
+    prefix: "&l&6[BentoBox]: &r"
+    numeric-only: "&c指定された[value]は数値ではありません！"
+    not-valid-value: "&c指定された数値[value]は無効です。 [min]より大きく[max]より小さい必要があります！"
+    write-search: "&e検索値を入力してください。 （終了するには「キャンセル」と記述します）"
+    search-updated: "&a検索値が更新されました。"
+    input-number: "&eチャットで番号を入力してください。"
+    confirm-island-data-deletion: "&e [gamemode]のデータベースからすべてのユーザーデータを削除することを確認します。"
+    user-data-removed: "&a成功、[gamemode]のすべてのユーザーデータが削除されました！"
+  errors:
+    noone-is-online: 7rこの島の誰もオンラインではありません！
+    not-enough-credits: "&rこの島を訪れるのに十分なクレジットがありません。必要な[number]クレジット。"
+    cannot-withdraw-credits: "&rアカウントから[number]を引き出すことは&cできません！&r操作はキャンセルされます。"
+    cannot-deposit-credits: "&r島の所有者アカウントに[number]を入金できません！操作はキャンセルされます。"
+protection:
+  flags:
+    ALLOW_VISITS_FLAG:
+      name: 訪問保護
+      description: "&a島への訪問を\n&a許可/禁止 "
+      hint: "&cこの島では訪問が無効になっています"
+    VISIT_CONFIG_PERMISSION:
+      name: 訪問者の構成を管理する
+      description: |-
+        &a島訪問構成ランクを
+        &a設定する
