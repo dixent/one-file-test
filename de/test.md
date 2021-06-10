@@ -6,4 +6,6 @@ Um zu überprüfen, ob Ihre strukturierten Daten korrekt sind, bieten viele Plat
 2. Wählen Sie die Registerkarte **Code-Snippet aus.**
 3. Klicken **Sie auf Test ausführen** .
 
+345674567Um zu überprüfen, ob Ihre strukturierten Daten korrekt sind, bieten viele Plattformen Validierungstools.
+
 Wenn Ihre strukturierten Daten gültig sind, sollten **0 Fehler** und **0 Warnungen angezeigt werden** .
