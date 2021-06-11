@@ -45,10 +45,6 @@ access to a limited set of allowed tags, capabilities, and extensions.
 
 ## AMPHTML ad format rules <a name="amphtml-ad-format-rules"></a>
 
-Unless otherwise specified below, the creative must obey all rules given by the
-[AMP format rules](https://amp.dev/documentation/guides-and-tutorials/learn/spec/amphtml.html),
-included here by reference. For example, the AMPHTML ad [Boilerplate](#boilerplate) deviates from the AMP standard boilerplate.
-
 In addition, creatives must obey the following rules:
 
 <table>
