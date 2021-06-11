@@ -73,9 +73,8 @@ Además, las creatividades deben cumplir las siguientes reglas:
 <tr>
 <td>
 <code>&lt;amp-analytics&gt;</code> solo puede orientar el selector de anuncios completo, a través de <code>"visibilitySpec": { "selector": "amp-ad" }</code> como se define en el <a href="https://github.com/ampproject/amphtml/issues/4018">número 4018</a> y el <a href="https://github.com/ampproject/amphtml/pull/4368">PR nº 4368</a> . En particular, no puede orientar a ningún selector de elementos dentro de la creatividad del anuncio.</td>
-<td>In some cases, AMPHTML ads may choose to render an ad creative in an iframe.In those cases, host page analytics can only target the entire iframe anyway, and won’t have access to any finer-grained selectors.<br><br> <p>Example:</p> <pre>
-&lt;amp-analytics id="nestedAnalytics"&gt;
-  &lt;script type="application/json"&gt;
+<td>In some cases, AMPHTML ads may choose to render an ad creative in an iframe.In those cases, host page analytics can only target the entire iframe anyway, and won’t have access to any finer-grained selectors.<br><br> <p>Example:</p> <pre><amp-analytics id="nestedAnalytics">
+  <script type="application/json">
   {
     "requests": {
       "visibility": "https://example.com/nestedAmpAnalytics"
@@ -88,9 +87,7 @@ Además, las creatividades deben cumplir las siguientes reglas:
       }
     }
   }
-  &lt;/script&gt;
-&lt;/amp-analytics&gt;
-</pre> <p>This configuration sends a request to the <code>https://example.com/nestedAmpAnalytics</code> URL when 50% of the enclosing ad has been continuously visible on the screen for 1 second.</p> </td>
+  </script></amp-analytics></pre> <p>This configuration sends a request to the <code>https://example.com/nestedAmpAnalytics</code> URL when 50% of the enclosing ad has been continuously visible on the screen for 1 second.</p> </td>
 </tr>
 </tbody>
 </table>
